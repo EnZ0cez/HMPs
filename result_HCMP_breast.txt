@@ -1,0 +1,363 @@
+Processing file: breast.txt, Run: 1
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [0, 1, 2, 3, 4] count: 533
+Pattern: [0, 5, 7, 9] count: 112
+Pattern: [5, 6, 7, 10] count: 37
+Pattern: [5, 8] count: 325
+Pattern: [6, 9] count: 278
+Pattern: [10, 11] count: 277
+Pattern: [7, 13] count: 227
+Pattern: [1, 2] count: 166
+Pattern: [3, 15] count: 150
+Pattern: [0, 12] count: 105
+Pattern: [12, 13] count: 41
+Pattern: [7, 14] count: 32
+Pattern: [6, 8] count: 26
+Pattern: [6, 10] count: 21
+Pattern: [5, 11] count: 18
+Pattern: [9, 13] count: 12
+Pattern: [5, 6] count: 11
+Pattern: [8, 13] count: 9
+Pattern: [0, 5] count: 6
+Pattern: [0, 8] count: 6
+Pattern: [0, 11] count: 5
+Pattern: [6, 11] count: 4
+Pattern: [0, 6] count: 3
+Pattern: [0, 10] count: 2
+Pattern: [5, 13] count: 2
+Pattern: [8, 14] count: 2
+Pattern: [0, 14] count: 1
+Pattern: [10, 13] count: 1
+Final codetable size: 28
+Final Compression size: 19725.0
+Compression ratio: 8.83863277889303%
+Pattern from sa:3
+Elapsed time: 0.119 seconds
+Memory usage: 31.758880615234375 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 2
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [0, 1, 2, 3] count: 683
+Pattern: [4, 7, 10] count: 264
+Pattern: [5, 8] count: 380
+Pattern: [6, 9] count: 307
+Pattern: [11, 13] count: 241
+Pattern: [4, 12] count: 206
+Pattern: [12, 15] count: 97
+Pattern: [4, 7] count: 77
+Pattern: [6, 11] count: 57
+Pattern: [7, 15] count: 55
+Pattern: [9, 13] count: 41
+Pattern: [5, 10] count: 28
+Pattern: [6, 10] count: 27
+Pattern: [10, 14] count: 21
+Pattern: [5, 11] count: 17
+Pattern: [0, 1] count: 16
+Pattern: [10, 13] count: 6
+Pattern: [5, 9] count: 5
+Pattern: [8, 14] count: 4
+Pattern: [2, 5] count: 3
+Pattern: [2, 14] count: 2
+Final codetable size: 21
+Final Compression size: 10203.0
+Compression ratio: 4.571892027530828%
+Pattern from sa:2
+Elapsed time: 0.039 seconds
+Memory usage: 18.956153869628906 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 3
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [0, 1, 2, 3, 4] count: 533
+Pattern: [5, 6, 12] count: 247
+Pattern: [8, 9] count: 331
+Pattern: [10, 11] count: 293
+Pattern: [7, 13] count: 236
+Pattern: [0, 1] count: 166
+Pattern: [6, 7] count: 160
+Pattern: [2, 15] count: 152
+Pattern: [3, 5] count: 68
+Pattern: [12, 13] count: 56
+Pattern: [8, 10] count: 53
+Pattern: [9, 11] count: 22
+Pattern: [2, 4] count: 14
+Pattern: [3, 14] count: 2
+Final codetable size: 14
+Final Compression size: 15906.0
+Compression ratio: 7.127365930599369%
+Pattern from sa:2
+Elapsed time: 0.029 seconds
+Memory usage: 4.8690185546875 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 4
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [0, 1, 2, 3, 4] count: 533
+Pattern: [0, 1, 3, 7, 8] count: 131
+Pattern: [5, 6] count: 375
+Pattern: [8, 9] count: 298
+Pattern: [10, 11] count: 293
+Pattern: [7, 13] count: 225
+Pattern: [2, 15] count: 152
+Pattern: [0, 1] count: 125
+Pattern: [3, 12] count: 95
+Pattern: [5, 13] count: 48
+Pattern: [8, 10] count: 45
+Pattern: [6, 7] count: 32
+Pattern: [9, 11] count: 22
+Pattern: [12, 13] count: 19
+Pattern: [2, 4] count: 14
+Pattern: [3, 7] count: 8
+Pattern: [3, 5] count: 4
+Pattern: [3, 14] count: 2
+Final codetable size: 18
+Final Compression size: 20338.0
+Compression ratio: 9.113313736736451%
+Pattern from sa:2
+Elapsed time: 0.026 seconds
+Memory usage: 44.32147979736328 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 5
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [0, 1, 2, 3, 4] count: 533
+Pattern: [3, 5, 9, 11, 12] count: 12
+Pattern: [5, 10, 12] count: 45
+Pattern: [5, 8] count: 355
+Pattern: [6, 9] count: 304
+Pattern: [7, 10] count: 282
+Pattern: [11, 13] count: 240
+Pattern: [0, 1] count: 166
+Pattern: [2, 15] count: 152
+Pattern: [3, 12] count: 80
+Pattern: [6, 11] count: 57
+Pattern: [9, 13] count: 41
+Pattern: [3, 7] count: 37
+Pattern: [6, 8] count: 22
+Pattern: [10, 12] count: 19
+Pattern: [2, 4] count: 14
+Pattern: [5, 11] count: 14
+Pattern: [3, 5] count: 8
+Pattern: [3, 6] count: 6
+Pattern: [8, 13] count: 5
+Pattern: [5, 9] count: 4
+Pattern: [3, 13] count: 2
+Pattern: [3, 14] count: 2
+Pattern: [7, 8] count: 2
+Final codetable size: 24
+Final Compression size: 18852.0
+Compression ratio: 8.447447662747347%
+Pattern from sa:3
+Elapsed time: 0.031 seconds
+Memory usage: 21.749595642089844 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 6
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [0, 1, 2, 3, 5] count: 444
+Pattern: [4, 7, 10, 11, 14] count: 216
+Pattern: [6, 8] count: 333
+Pattern: [0, 1] count: 255
+Pattern: [2, 3] count: 239
+Pattern: [9, 12] count: 239
+Pattern: [4, 7] count: 125
+Pattern: [10, 11] count: 77
+Pattern: [7, 15] count: 55
+Pattern: [4, 12] count: 52
+Pattern: [8, 13] count: 51
+Pattern: [13, 14] count: 20
+Pattern: [6, 11] count: 17
+Pattern: [2, 5] count: 14
+Pattern: [12, 15] count: 12
+Pattern: [11, 13] count: 5
+Pattern: [2, 6] count: 2
+Pattern: [9, 14] count: 2
+Pattern: [10, 14] count: 2
+Pattern: [6, 14] count: 1
+Final codetable size: 20
+Final Compression size: 23086.0
+Compression ratio: 10.344673071408089%
+Pattern from sa:2
+Elapsed time: 0.036 seconds
+Memory usage: 6.034843444824219 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 7
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [0, 1, 2, 3, 5] count: 444
+Pattern: [2, 8, 14] count: 4
+Pattern: [4, 7] count: 341
+Pattern: [6, 8] count: 331
+Pattern: [10, 11] count: 293
+Pattern: [0, 1] count: 255
+Pattern: [9, 12] count: 239
+Pattern: [2, 14] count: 237
+Pattern: [3, 13] count: 209
+Pattern: [7, 15] count: 55
+Pattern: [4, 12] count: 52
+Pattern: [8, 13] count: 49
+Pattern: [3, 6] count: 30
+Pattern: [6, 11] count: 17
+Pattern: [2, 5] count: 14
+Pattern: [12, 15] count: 12
+Pattern: [11, 13] count: 5
+Final codetable size: 17
+Final Compression size: 16174.0
+Compression ratio: 7.247454832234013%
+Pattern from sa:2
+Elapsed time: 0.028 seconds
+Memory usage: 43.53636169433594 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 8
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [3, 5, 7, 10] count: 59
+Pattern: [3, 4, 8, 13] count: 28
+Pattern: [3, 10, 11, 15] count: 15
+Pattern: [0, 1, 2] count: 699
+Pattern: [6, 8, 10] count: 43
+Pattern: [3, 4] count: 480
+Pattern: [5, 9] count: 351
+Pattern: [6, 8] count: 290
+Pattern: [10, 11] count: 253
+Pattern: [7, 14] count: 222
+Pattern: [3, 15] count: 133
+Pattern: [5, 12] count: 45
+Pattern: [12, 13] count: 34
+Pattern: [6, 11] count: 32
+Pattern: [5, 7] count: 27
+Pattern: [11, 13] count: 19
+Pattern: [8, 13] count: 12
+Pattern: [4, 12] count: 5
+Pattern: [4, 6] count: 3
+Pattern: [4, 13] count: 2
+Pattern: [4, 7] count: 1
+Pattern: [12, 15] count: 1
+Final codetable size: 22
+Final Compression size: 23189.0
+Compression ratio: 10.390826641812447%
+Pattern from sa:5
+Elapsed time: 0.028 seconds
+Memory usage: 94.34584045410156 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 9
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [3, 4, 7, 10, 11, 13, 14] count: 187
+Pattern: [3, 5, 6, 9, 15] count: 100
+Pattern: [3, 6, 7, 8, 15] count: 30
+Pattern: [3, 10, 11, 12, 13] count: 28
+Pattern: [3, 5, 7, 8, 10] count: 26
+Pattern: [4, 5, 6, 8] count: 225
+Pattern: [4, 5, 6, 9] count: 205
+Pattern: [0, 1, 2] count: 699
+Pattern: [3, 12, 15] count: 95
+Pattern: [3, 8] count: 225
+Pattern: [5, 9] count: 142
+Pattern: [3, 11] count: 84
+Pattern: [6, 8] count: 76
+Pattern: [4, 7] count: 73
+Pattern: [5, 10] count: 65
+Pattern: [10, 14] count: 33
+Pattern: [4, 6] count: 23
+Pattern: [4, 14] count: 19
+Pattern: [7, 15] count: 19
+Pattern: [4, 13] count: 18
+Pattern: [10, 12] count: 15
+Pattern: [8, 13] count: 12
+Pattern: [6, 11] count: 9
+Pattern: [4, 5] count: 7
+Pattern: [8, 12] count: 5
+Pattern: [11, 13] count: 5
+Pattern: [7, 11] count: 4
+Pattern: [9, 14] count: 2
+Pattern: [12, 15] count: 2
+Pattern: [13, 15] count: 2
+Final codetable size: 30
+Final Compression size: 27412.0
+Compression ratio: 12.283123028391167%
+Pattern from sa:9
+Elapsed time: 0.023 seconds
+Memory usage: 30.214073181152344 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: breast.txt, Run: 10
+Initial compression size: 223168.0
+Final codetable: 
+Pattern: [6, 8, 10, 12, 15] count: 6
+Pattern: [0, 1, 2, 3] count: 683
+Pattern: [4, 11, 13, 14] count: 206
+Pattern: [7, 10, 11, 15] count: 10
+Pattern: [4, 5, 6] count: 255
+Pattern: [4, 5, 8] count: 251
+Pattern: [5, 9, 12] count: 239
+Pattern: [7, 8, 15] count: 41
+Pattern: [7, 10] count: 264
+Pattern: [8, 9] count: 197
+Pattern: [8, 15] count: 82
+Pattern: [10, 12] count: 58
+Pattern: [4, 11] count: 56
+Pattern: [5, 13] count: 42
+Pattern: [5, 6] count: 41
+Pattern: [6, 14] count: 32
+Pattern: [7, 9] count: 21
+Pattern: [0, 1] count: 16
+Pattern: [11, 15] count: 13
+Pattern: [4, 8] count: 11
+Pattern: [2, 12] count: 5
+Pattern: [9, 11] count: 5
+Pattern: [2, 8] count: 3
+Pattern: [13, 14] count: 3
+Pattern: [4, 7] count: 2
+Pattern: [2, 5] count: 1
+Pattern: [2, 6] count: 1
+Pattern: [2, 7] count: 1
+Pattern: [2, 11] count: 1
+Final codetable size: 29
+Final Compression size: 16041.0
+Compression ratio: 7.187858474333238%
+Pattern from sa:8
+Elapsed time: 0.015 seconds
+Memory usage: 85.85582733154297 MB
+
+SA working: 0
+
+Iterations: 30
+

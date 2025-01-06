@@ -1,0 +1,130 @@
+Processing file: mushroomVrekeen.txt, Run: 1
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.308 seconds
+Memory usage: 59.299842834472656 MB
+
+SA working: 0
+
+Processing file: mushroomVrekeen.txt, Run: 2
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.192 seconds
+Memory usage: 45.88665008544922 MB
+
+SA working: 0
+
+Processing file: mushroomVrekeen.txt, Run: 3
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.19 seconds
+Memory usage: 32.28887176513672 MB
+
+SA working: 0
+
+Processing file: mushroomVrekeen.txt, Run: 4
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.233 seconds
+Memory usage: 25.162452697753906 MB
+
+SA working: 0
+
+Processing file: mushroomVrekeen.txt, Run: 5
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.201 seconds
+Memory usage: 15.235061645507812 MB
+
+SA working: 0
+
+Processing file: mushroomVrekeen.txt, Run: 6
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.195 seconds
+Memory usage: 12.62799072265625 MB
+
+SA working: 0
+
+Processing file: mushroomVrekeen.txt, Run: 7
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.581 seconds
+Memory usage: 9.763542175292969 MB
+
+SA working: 320
+
+Processing file: mushroomVrekeen.txt, Run: 8
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.187 seconds
+Memory usage: 14.553581237792969 MB
+
+SA working: 0
+
+Processing file: mushroomVrekeen.txt, Run: 9
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.2 seconds
+Memory usage: 29.344818115234375 MB
+
+SA working: 0
+
+Processing file: mushroomVrekeen.txt, Run: 10
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1] count:7924
+Pattern: [0, 3] count:200
+Final codetable size: 2
+Final Compression size: 5979418.0
+Compression ratio: 100.00257556782908
+Elapsed time: 0.188 seconds
+Memory usage: 42.61280822753906 MB
+
+SA working: 0
+

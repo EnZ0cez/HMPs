@@ -1,0 +1,4560 @@
+Processing file: mushroom.txt, Run: 1
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [2, 5, 6, 10, 17, 39, 44] count: 56
+Pattern: [1, 4, 10, 12, 19] count: 976
+Pattern: [2, 8, 15, 25, 26] count: 960
+Pattern: [9, 10, 16, 18, 20] count: 576
+Pattern: [7, 12, 20, 22, 30] count: 456
+Pattern: [2, 5, 18, 21, 36] count: 432
+Pattern: [5, 17, 18, 34, 36] count: 192
+Pattern: [1, 2, 3, 17] count: 3416
+Pattern: [1, 2, 4, 24] count: 1952
+Pattern: [3, 6, 9, 24] count: 1248
+Pattern: [3, 8, 27, 32] count: 1072
+Pattern: [1, 6, 23, 35] count: 1008
+Pattern: [8, 9, 15, 43] count: 864
+Pattern: [9, 12, 16, 36] count: 864
+Pattern: [7, 10, 14, 25] count: 796
+Pattern: [0, 6, 19, 21] count: 788
+Pattern: [2, 5, 22, 36] count: 672
+Pattern: [1, 13, 23, 37] count: 648
+Pattern: [8, 15, 19, 41] count: 648
+Pattern: [8, 16, 22, 33] count: 648
+Pattern: [9, 15, 26, 55] count: 576
+Pattern: [6, 7, 22, 32] count: 542
+Pattern: [3, 16, 31, 37] count: 432
+Pattern: [27, 28, 29, 37] count: 432
+Pattern: [5, 8, 17, 51] count: 324
+Pattern: [5, 29, 39, 41] count: 324
+Pattern: [3, 7, 15, 55] count: 290
+Pattern: [7, 8, 17, 40] count: 288
+Pattern: [7, 19, 47, 53] count: 260
+Pattern: [1, 2, 3, 80] count: 224
+Pattern: [0, 33, 41, 57] count: 216
+Pattern: [0, 9, 32, 60] count: 192
+Pattern: [0, 7, 27, 34] count: 144
+Pattern: [4, 26, 35, 47] count: 88
+Pattern: [2, 5, 25, 31] count: 72
+Pattern: [2, 6, 7] count: 3964
+Pattern: [2, 3, 11] count: 3896
+Pattern: [1, 3, 15] count: 3800
+Pattern: [1, 4, 13] count: 3752
+Pattern: [0, 3, 14] count: 3560
+Pattern: [0, 4, 16] count: 3528
+Pattern: [0, 5, 7] count: 3400
+Pattern: [5, 6, 14] count: 3016
+Pattern: [2, 7, 18] count: 2680
+Pattern: [3, 6, 23] count: 2352
+Pattern: [3, 9, 17] count: 2016
+Pattern: [4, 27, 28] count: 1952
+Pattern: [1, 3, 34] count: 1824
+Pattern: [4, 5, 11] count: 1768
+Pattern: [2, 20, 21] count: 1592
+Pattern: [4, 13, 17] count: 1584
+Pattern: [0, 11, 26] count: 1560
+Pattern: [2, 11, 22] count: 1518
+Pattern: [1, 2, 43] count: 1494
+Pattern: [0, 8, 12] count: 1456
+Pattern: [0, 5, 44] count: 1312
+Pattern: [10, 11, 13] count: 1152
+Pattern: [9, 13, 20] count: 1104
+Pattern: [2, 5, 45] count: 1056
+Pattern: [6, 16, 21] count: 932
+Pattern: [2, 8, 43] count: 870
+Pattern: [16, 21, 41] count: 772
+Pattern: [3, 14, 15] count: 744
+Pattern: [4, 12, 52] count: 712
+Pattern: [6, 11, 28] count: 712
+Pattern: [5, 17, 29] count: 708
+Pattern: [10, 25, 26] count: 704
+Pattern: [1, 19, 28] count: 652
+Pattern: [4, 19, 23] count: 652
+Pattern: [2, 8, 14] count: 592
+Pattern: [8, 17, 45] count: 592
+Pattern: [0, 40, 54] count: 576
+Pattern: [2, 18, 38] count: 576
+Pattern: [6, 12, 27] count: 576
+Pattern: [11, 17, 32] count: 508
+Pattern: [16, 22, 38] count: 504
+Pattern: [21, 32, 40] count: 432
+Pattern: [23, 33, 46] count: 432
+Pattern: [12, 17, 53] count: 336
+Pattern: [2, 3, 68] count: 268
+Pattern: [13, 15, 56] count: 264
+Pattern: [29, 30, 69] count: 216
+Pattern: [10, 17, 51] count: 204
+Pattern: [19, 20, 27] count: 192
+Pattern: [10, 27, 39] count: 144
+Pattern: [10, 31, 33] count: 144
+Pattern: [18, 19, 35] count: 96
+Pattern: [0, 18, 96] count: 72
+Pattern: [2, 44, 81] count: 64
+Pattern: [17, 20, 78] count: 64
+Pattern: [2, 42] count: 1552
+Pattern: [12, 20] count: 1339
+Pattern: [10, 18] count: 1255
+Pattern: [1, 23] count: 1103
+Pattern: [8, 19] count: 1064
+Pattern: [0, 26] count: 995
+Pattern: [6, 9] count: 967
+Pattern: [27, 28] count: 940
+Pattern: [29, 31] count: 924
+Pattern: [4, 16] count: 858
+Pattern: [33, 46] count: 840
+Pattern: [13, 38] count: 800
+Pattern: [24, 50] count: 696
+Pattern: [17, 30] count: 610
+Pattern: [7, 22] count: 567
+Pattern: [15, 21] count: 564
+Pattern: [9, 25] count: 524
+Pattern: [1, 10] count: 498
+Pattern: [12, 35] count: 482
+Pattern: [5, 39] count: 468
+Pattern: [6, 19] count: 468
+Pattern: [11, 45] count: 448
+Pattern: [9, 41] count: 376
+Pattern: [3, 49] count: 372
+Pattern: [7, 17] count: 350
+Pattern: [14, 35] count: 348
+Pattern: [18, 61] count: 348
+Pattern: [8, 32] count: 342
+Pattern: [22, 51] count: 334
+Pattern: [1, 4] count: 327
+Pattern: [2, 36] count: 324
+Pattern: [47, 53] count: 320
+Pattern: [12, 36] count: 293
+Pattern: [0, 64] count: 292
+Pattern: [5, 32] count: 280
+Pattern: [16, 48] count: 277
+Pattern: [59, 65] count: 276
+Pattern: [30, 39] count: 274
+Pattern: [12, 58] count: 272
+Pattern: [3, 26] count: 267
+Pattern: [22, 31] count: 249
+Pattern: [0, 33] count: 247
+Pattern: [40, 62] count: 246
+Pattern: [40, 63] count: 246
+Pattern: [20, 50] count: 232
+Pattern: [3, 23] count: 231
+Pattern: [8, 9] count: 225
+Pattern: [6, 25] count: 224
+Pattern: [4, 7] count: 202
+Pattern: [5, 43] count: 196
+Pattern: [7, 64] count: 192
+Pattern: [54, 82] count: 192
+Pattern: [84, 85] count: 192
+Pattern: [13, 15] count: 191
+Pattern: [16, 87] count: 184
+Pattern: [17, 31] count: 184
+Pattern: [2, 35] count: 182
+Pattern: [45, 76] count: 180
+Pattern: [14, 36] count: 178
+Pattern: [10, 32] count: 176
+Pattern: [33, 40] count: 176
+Pattern: [13, 21] count: 172
+Pattern: [16, 20] count: 171
+Pattern: [41, 48] count: 163
+Pattern: [30, 57] count: 160
+Pattern: [53, 73] count: 160
+Pattern: [18, 25] count: 158
+Pattern: [47, 52] count: 156
+Pattern: [15, 29] count: 152
+Pattern: [34, 58] count: 152
+Pattern: [49, 66] count: 152
+Pattern: [30, 56] count: 150
+Pattern: [49, 70] count: 144
+Pattern: [0, 49] count: 138
+Pattern: [25, 59] count: 138
+Pattern: [26, 77] count: 136
+Pattern: [51, 74] count: 136
+Pattern: [51, 75] count: 136
+Pattern: [6, 17] count: 130
+Pattern: [4, 35] count: 128
+Pattern: [41, 67] count: 128
+Pattern: [78, 83] count: 128
+Pattern: [3, 43] count: 117
+Pattern: [31, 55] count: 116
+Pattern: [41, 44] count: 116
+Pattern: [11, 39] count: 114
+Pattern: [9, 30] count: 113
+Pattern: [47, 72] count: 108
+Pattern: [22, 39] count: 107
+Pattern: [16, 52] count: 105
+Pattern: [2, 24] count: 102
+Pattern: [47, 48] count: 102
+Pattern: [6, 37] count: 101
+Pattern: [9, 29] count: 100
+Pattern: [34, 86] count: 96
+Pattern: [49, 86] count: 96
+Pattern: [66, 71] count: 96
+Pattern: [70, 71] count: 96
+Pattern: [21, 56] count: 94
+Pattern: [3, 32] count: 93
+Pattern: [15, 25] count: 93
+Pattern: [41, 52] count: 92
+Pattern: [22, 30] count: 90
+Pattern: [2, 11] count: 88
+Pattern: [15, 22] count: 87
+Pattern: [8, 15] count: 85
+Pattern: [17, 39] count: 85
+Pattern: [28, 37] count: 84
+Pattern: [1, 79] count: 82
+Pattern: [5, 29] count: 82
+Pattern: [21, 57] count: 82
+Pattern: [4, 12] count: 80
+Pattern: [6, 12] count: 78
+Pattern: [32, 81] count: 78
+Pattern: [45, 65] count: 78
+Pattern: [47, 57] count: 78
+Pattern: [8, 43] count: 77
+Pattern: [14, 20] count: 76
+Pattern: [7, 18] count: 75
+Pattern: [48, 55] count: 75
+Pattern: [21, 29] count: 73
+Pattern: [35, 52] count: 73
+Pattern: [0, 34] count: 72
+Pattern: [2, 50] count: 72
+Pattern: [2, 68] count: 72
+Pattern: [8, 39] count: 72
+Pattern: [18, 50] count: 72
+Pattern: [20, 33] count: 70
+Pattern: [48, 60] count: 70
+Pattern: [60, 67] count: 70
+Pattern: [16, 67] count: 68
+Pattern: [28, 80] count: 68
+Pattern: [53, 76] count: 68
+Pattern: [31, 57] count: 67
+Pattern: [47, 56] count: 67
+Pattern: [5, 13] count: 66
+Pattern: [8, 27] count: 66
+Pattern: [26, 62] count: 63
+Pattern: [26, 63] count: 63
+Pattern: [4, 51] count: 62
+Pattern: [13, 66] count: 61
+Pattern: [19, 46] count: 60
+Pattern: [38, 66] count: 60
+Pattern: [38, 70] count: 60
+Pattern: [44, 47] count: 60
+Pattern: [53, 81] count: 60
+Pattern: [10, 37] count: 59
+Pattern: [26, 33] count: 59
+Pattern: [48, 73] count: 59
+Pattern: [5, 41] count: 58
+Pattern: [9, 65] count: 57
+Pattern: [17, 77] count: 57
+Pattern: [56, 73] count: 57
+Pattern: [22, 48] count: 56
+Pattern: [31, 56] count: 55
+Pattern: [4, 36] count: 54
+Pattern: [5, 23] count: 54
+Pattern: [6, 68] count: 54
+Pattern: [9, 35] count: 54
+Pattern: [39, 60] count: 54
+Pattern: [78, 95] count: 54
+Pattern: [11, 14] count: 53
+Pattern: [45, 54] count: 52
+Pattern: [66, 69] count: 51
+Pattern: [22, 77] count: 50
+Pattern: [25, 27] count: 50
+Pattern: [30, 59] count: 50
+Pattern: [11, 43] count: 49
+Pattern: [4, 20] count: 48
+Pattern: [10, 74] count: 48
+Pattern: [10, 75] count: 48
+Pattern: [16, 57] count: 48
+Pattern: [19, 41] count: 48
+Pattern: [21, 27] count: 48
+Pattern: [24, 38] count: 48
+Pattern: [26, 45] count: 48
+Pattern: [28, 92] count: 48
+Pattern: [32, 76] count: 48
+Pattern: [59, 102] count: 48
+Pattern: [69, 70] count: 48
+Pattern: [93, 94] count: 48
+Pattern: [35, 72] count: 47
+Pattern: [43, 60] count: 47
+Pattern: [2, 58] count: 46
+Pattern: [15, 17] count: 46
+Pattern: [16, 44] count: 45
+Pattern: [29, 49] count: 45
+Pattern: [3, 4] count: 44
+Pattern: [5, 58] count: 44
+Pattern: [8, 53] count: 42
+Pattern: [27, 90] count: 42
+Pattern: [27, 91] count: 42
+Pattern: [14, 18] count: 41
+Pattern: [25, 55] count: 41
+Pattern: [26, 34] count: 40
+Pattern: [74, 79] count: 40
+Pattern: [75, 79] count: 40
+Pattern: [19, 48] count: 38
+Pattern: [37, 61] count: 38
+Pattern: [10, 14] count: 37
+Pattern: [35, 60] count: 37
+Pattern: [35, 67] count: 37
+Pattern: [1, 104] count: 36
+Pattern: [9, 22] count: 36
+Pattern: [16, 51] count: 36
+Pattern: [52, 73] count: 36
+Pattern: [72, 73] count: 36
+Pattern: [105, 106] count: 36
+Pattern: [107, 108] count: 36
+Pattern: [7, 32] count: 34
+Pattern: [17, 34] count: 34
+Pattern: [23, 29] count: 34
+Pattern: [22, 34] count: 33
+Pattern: [22, 56] count: 33
+Pattern: [35, 48] count: 33
+Pattern: [8, 89] count: 32
+Pattern: [10, 79] count: 32
+Pattern: [20, 47] count: 32
+Pattern: [34, 64] count: 32
+Pattern: [39, 41] count: 32
+Pattern: [54, 62] count: 32
+Pattern: [54, 63] count: 32
+Pattern: [78, 97] count: 32
+Pattern: [3, 15] count: 31
+Pattern: [6, 21] count: 31
+Pattern: [31, 49] count: 31
+Pattern: [1, 14] count: 30
+Pattern: [10, 62] count: 30
+Pattern: [10, 63] count: 30
+Pattern: [22, 57] count: 30
+Pattern: [11, 47] count: 29
+Pattern: [30, 41] count: 29
+Pattern: [0, 15] count: 28
+Pattern: [6, 30] count: 28
+Pattern: [15, 33] count: 28
+Pattern: [19, 89] count: 28
+Pattern: [23, 53] count: 28
+Pattern: [25, 29] count: 28
+Pattern: [29, 38] count: 28
+Pattern: [16, 39] count: 27
+Pattern: [43, 62] count: 27
+Pattern: [43, 63] count: 27
+Pattern: [8, 45] count: 26
+Pattern: [14, 27] count: 26
+Pattern: [22, 25] count: 26
+Pattern: [32, 38] count: 26
+Pattern: [0, 24] count: 25
+Pattern: [3, 14] count: 25
+Pattern: [5, 56] count: 25
+Pattern: [6, 7] count: 25
+Pattern: [19, 57] count: 25
+Pattern: [35, 45] count: 25
+Pattern: [48, 68] count: 25
+Pattern: [53, 65] count: 25
+Pattern: [2, 37] count: 24
+Pattern: [3, 13] count: 24
+Pattern: [12, 45] count: 24
+Pattern: [17, 74] count: 24
+Pattern: [17, 75] count: 24
+Pattern: [21, 22] count: 24
+Pattern: [22, 74] count: 24
+Pattern: [22, 75] count: 24
+Pattern: [26, 42] count: 24
+Pattern: [33, 54] count: 24
+Pattern: [36, 60] count: 24
+Pattern: [50, 81] count: 24
+Pattern: [61, 67] count: 24
+Pattern: [0, 8] count: 23
+Pattern: [5, 57] count: 23
+Pattern: [17, 48] count: 23
+Pattern: [32, 62] count: 23
+Pattern: [32, 63] count: 23
+Pattern: [10, 24] count: 22
+Pattern: [11, 33] count: 22
+Pattern: [29, 71] count: 22
+Pattern: [33, 43] count: 22
+Pattern: [42, 77] count: 22
+Pattern: [3, 38] count: 21
+Pattern: [7, 25] count: 21
+Pattern: [9, 10] count: 21
+Pattern: [11, 41] count: 21
+Pattern: [11, 48] count: 21
+Pattern: [13, 37] count: 21
+Pattern: [19, 56] count: 21
+Pattern: [20, 22] count: 21
+Pattern: [1, 53] count: 20
+Pattern: [14, 60] count: 20
+Pattern: [17, 25] count: 20
+Pattern: [27, 31] count: 20
+Pattern: [31, 51] count: 20
+Pattern: [52, 65] count: 20
+Pattern: [65, 72] count: 20
+Pattern: [4, 39] count: 19
+Pattern: [7, 41] count: 19
+Pattern: [10, 43] count: 19
+Pattern: [13, 68] count: 19
+Pattern: [18, 30] count: 19
+Pattern: [28, 49] count: 19
+Pattern: [30, 52] count: 19
+Pattern: [38, 39] count: 19
+Pattern: [45, 47] count: 19
+Pattern: [51, 71] count: 19
+Pattern: [1, 36] count: 18
+Pattern: [2, 38] count: 18
+Pattern: [4, 15] count: 18
+Pattern: [6, 20] count: 18
+Pattern: [9, 27] count: 18
+Pattern: [12, 50] count: 18
+Pattern: [13, 55] count: 18
+Pattern: [13, 56] count: 18
+Pattern: [17, 21] count: 18
+Pattern: [20, 74] count: 18
+Pattern: [20, 75] count: 18
+Pattern: [21, 55] count: 18
+Pattern: [23, 28] count: 18
+Pattern: [23, 67] count: 18
+Pattern: [30, 44] count: 18
+Pattern: [30, 72] count: 18
+Pattern: [38, 51] count: 18
+Pattern: [44, 61] count: 18
+Pattern: [57, 76] count: 18
+Pattern: [7, 58] count: 17
+Pattern: [8, 22] count: 17
+Pattern: [10, 11] count: 17
+Pattern: [11, 12] count: 17
+Pattern: [35, 37] count: 17
+Pattern: [37, 48] count: 17
+Pattern: [37, 67] count: 17
+Pattern: [39, 71] count: 17
+Pattern: [0, 13] count: 16
+Pattern: [4, 37] count: 16
+Pattern: [5, 83] count: 16
+Pattern: [6, 16] count: 16
+Pattern: [11, 28] count: 16
+Pattern: [13, 52] count: 16
+Pattern: [13, 71] count: 16
+Pattern: [15, 27] count: 16
+Pattern: [17, 35] count: 16
+Pattern: [18, 22] count: 16
+Pattern: [18, 93] count: 16
+Pattern: [19, 53] count: 16
+Pattern: [29, 80] count: 16
+Pattern: [32, 33] count: 16
+Pattern: [36, 79] count: 16
+Pattern: [37, 43] count: 16
+Pattern: [48, 77] count: 16
+Pattern: [48, 92] count: 16
+Pattern: [58, 83] count: 16
+Pattern: [72, 77] count: 16
+Pattern: [2, 9] count: 15
+Pattern: [7, 12] count: 15
+Pattern: [31, 39] count: 15
+Final codetable size: 442
+Final Compression size: 807132.0
+Compression ratio: 13.49885203262475%
+Pattern from sa:90
+Elapsed time: 3.384 seconds
+Memory usage: 587.8782043457031 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 2
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 2, 3, 4, 5, 10, 12] count: 1280
+Pattern: [1, 4, 9, 15, 26] count: 1728
+Pattern: [0, 7, 9, 13, 14] count: 1032
+Pattern: [3, 4, 10, 13, 28] count: 896
+Pattern: [0, 2, 4, 31, 37] count: 864
+Pattern: [3, 7, 18, 22, 23] count: 864
+Pattern: [1, 8, 17, 24, 33] count: 192
+Pattern: [0, 4, 31, 44, 70] count: 144
+Pattern: [2, 4, 30, 41, 49] count: 108
+Pattern: [3, 4, 8, 28] count: 1760
+Pattern: [1, 2, 7, 36] count: 1584
+Pattern: [0, 4, 14, 19] count: 1464
+Pattern: [2, 7, 17, 23] count: 1200
+Pattern: [0, 24, 29, 40] count: 864
+Pattern: [7, 9, 20, 36] count: 864
+Pattern: [4, 5, 21, 31] count: 648
+Pattern: [5, 8, 10, 47] count: 528
+Pattern: [1, 6, 7, 45] count: 476
+Pattern: [1, 18, 22, 41] count: 472
+Pattern: [21, 22, 24, 27] count: 324
+Pattern: [1, 9, 31, 49] count: 288
+Pattern: [8, 16, 23, 39] count: 280
+Pattern: [1, 5, 20, 28] count: 224
+Pattern: [2, 13, 31, 44] count: 216
+Pattern: [2, 20, 28, 48] count: 136
+Pattern: [10, 13, 26, 36] count: 136
+Pattern: [0, 12, 18] count: 3408
+Pattern: [1, 3, 14] count: 3368
+Pattern: [0, 6, 10] count: 3304
+Pattern: [2, 15, 26] count: 2224
+Pattern: [0, 8, 28] count: 2156
+Pattern: [0, 10, 13] count: 1856
+Pattern: [3, 20, 23] count: 1824
+Pattern: [1, 11, 19] count: 1792
+Pattern: [1, 13, 21] count: 1792
+Pattern: [2, 9, 27] count: 1728
+Pattern: [8, 9, 15] count: 1728
+Pattern: [6, 12, 17] count: 1696
+Pattern: [3, 11, 13] count: 1688
+Pattern: [0, 22, 23] count: 1366
+Pattern: [5, 8, 33] count: 1296
+Pattern: [2, 16, 37] count: 1008
+Pattern: [2, 16, 38] count: 1008
+Pattern: [4, 6, 30] count: 1008
+Pattern: [5, 24, 34] count: 768
+Pattern: [0, 19, 44] count: 740
+Pattern: [11, 17, 26] count: 712
+Pattern: [6, 7, 47] count: 648
+Pattern: [2, 15, 20] count: 624
+Pattern: [2, 16, 43] count: 576
+Pattern: [7, 18, 27] count: 528
+Pattern: [11, 17, 32] count: 508
+Pattern: [29, 31, 34] count: 504
+Pattern: [3, 41, 44] count: 482
+Pattern: [7, 17, 48] count: 424
+Pattern: [6, 25, 35] count: 408
+Pattern: [2, 41, 51] count: 372
+Pattern: [6, 16, 25] count: 340
+Pattern: [1, 25, 39] count: 332
+Pattern: [7, 16, 19] count: 328
+Pattern: [13, 23, 60] count: 288
+Pattern: [10, 32, 45] count: 280
+Pattern: [3, 25, 44] count: 264
+Pattern: [8, 13, 18] count: 248
+Pattern: [12, 17, 27] count: 232
+Pattern: [34, 41, 42] count: 216
+Pattern: [3, 23, 45] count: 192
+Pattern: [1, 43, 48] count: 174
+Pattern: [3, 6, 57] count: 156
+Pattern: [20, 34, 68] count: 146
+Pattern: [25, 33, 43] count: 144
+Pattern: [4, 42, 53] count: 112
+Pattern: [1, 3] count: 1622
+Pattern: [0, 15] count: 1349
+Pattern: [6, 21] count: 1334
+Pattern: [19, 46] count: 1224
+Pattern: [4, 5] count: 1202
+Pattern: [10, 11] count: 1167
+Pattern: [2, 8] count: 1158
+Pattern: [14, 20] count: 1152
+Pattern: [29, 42] count: 936
+Pattern: [9, 35] count: 928
+Pattern: [1, 18] count: 920
+Pattern: [6, 7] count: 903
+Pattern: [1, 26] count: 728
+Pattern: [16, 39] count: 672
+Pattern: [24, 40] count: 640
+Pattern: [27, 38] count: 640
+Pattern: [4, 31] count: 632
+Pattern: [25, 32] count: 580
+Pattern: [17, 30] count: 578
+Pattern: [9, 36] count: 572
+Pattern: [45, 50] count: 556
+Pattern: [22, 30] count: 540
+Pattern: [13, 37] count: 504
+Pattern: [5, 12] count: 452
+Pattern: [16, 23] count: 392
+Pattern: [8, 11] count: 365
+Pattern: [3, 54] count: 360
+Pattern: [25, 43] count: 346
+Pattern: [2, 16] count: 344
+Pattern: [14, 58] count: 340
+Pattern: [8, 37] count: 316
+Pattern: [17, 51] count: 312
+Pattern: [28, 45] count: 304
+Pattern: [2, 31] count: 290
+Pattern: [0, 41] count: 288
+Pattern: [20, 41] count: 288
+Pattern: [7, 55] count: 278
+Pattern: [59, 65] count: 276
+Pattern: [36, 64] count: 256
+Pattern: [50, 81] count: 256
+Pattern: [3, 22] count: 252
+Pattern: [11, 22] count: 250
+Pattern: [34, 53] count: 248
+Pattern: [0, 33] count: 228
+Pattern: [7, 47] count: 228
+Pattern: [29, 40] count: 224
+Pattern: [21, 32] count: 220
+Pattern: [7, 73] count: 204
+Pattern: [35, 52] count: 204
+Pattern: [58, 78] count: 192
+Pattern: [60, 61] count: 192
+Pattern: [80, 86] count: 192
+Pattern: [82, 84] count: 192
+Pattern: [2, 49] count: 188
+Pattern: [6, 14] count: 188
+Pattern: [27, 55] count: 178
+Pattern: [4, 42] count: 176
+Pattern: [22, 36] count: 176
+Pattern: [21, 43] count: 171
+Pattern: [26, 77] count: 171
+Pattern: [51, 56] count: 169
+Pattern: [3, 17] count: 167
+Pattern: [39, 44] count: 164
+Pattern: [21, 22] count: 163
+Pattern: [32, 48] count: 161
+Pattern: [23, 31] count: 160
+Pattern: [24, 83] count: 160
+Pattern: [66, 69] count: 160
+Pattern: [25, 53] count: 158
+Pattern: [1, 12] count: 156
+Pattern: [32, 44] count: 156
+Pattern: [32, 52] count: 146
+Pattern: [39, 56] count: 146
+Pattern: [68, 79] count: 146
+Pattern: [11, 43] count: 145
+Pattern: [5, 16] count: 144
+Pattern: [9, 42] count: 144
+Pattern: [57, 70] count: 144
+Pattern: [66, 71] count: 144
+Pattern: [2, 48] count: 143
+Pattern: [31, 54] count: 142
+Pattern: [37, 43] count: 139
+Pattern: [25, 34] count: 138
+Pattern: [3, 50] count: 136
+Pattern: [47, 59] count: 132
+Pattern: [17, 21] count: 129
+Pattern: [10, 30] count: 128
+Pattern: [11, 61] count: 128
+Pattern: [27, 68] count: 128
+Pattern: [64, 74] count: 128
+Pattern: [64, 75] count: 128
+Pattern: [22, 35] count: 126
+Pattern: [32, 67] count: 124
+Pattern: [7, 22] count: 122
+Pattern: [15, 51] count: 118
+Pattern: [3, 23] count: 112
+Pattern: [8, 47] count: 112
+Pattern: [33, 38] count: 112
+Pattern: [2, 7] count: 108
+Pattern: [5, 73] count: 108
+Pattern: [28, 62] count: 108
+Pattern: [28, 63] count: 108
+Pattern: [0, 62] count: 104
+Pattern: [0, 63] count: 104
+Pattern: [8, 78] count: 102
+Pattern: [41, 49] count: 102
+Pattern: [15, 62] count: 100
+Pattern: [15, 63] count: 100
+Pattern: [19, 92] count: 96
+Pattern: [23, 87] count: 96
+Pattern: [26, 28] count: 96
+Pattern: [59, 76] count: 96
+Pattern: [65, 76] count: 96
+Pattern: [85, 90] count: 96
+Pattern: [85, 91] count: 96
+Pattern: [7, 17] count: 94
+Pattern: [10, 25] count: 93
+Pattern: [39, 48] count: 93
+Pattern: [30, 35] count: 92
+Pattern: [32, 40] count: 92
+Pattern: [17, 33] count: 90
+Pattern: [4, 38] count: 88
+Pattern: [15, 33] count: 88
+Pattern: [39, 57] count: 88
+Pattern: [52, 53] count: 88
+Pattern: [53, 72] count: 88
+Pattern: [56, 70] count: 87
+Pattern: [15, 29] count: 81
+Pattern: [23, 41] count: 81
+Pattern: [30, 36] count: 80
+Pattern: [51, 74] count: 80
+Pattern: [51, 75] count: 80
+Pattern: [1, 19] count: 78
+Pattern: [6, 55] count: 78
+Pattern: [39, 52] count: 78
+Pattern: [2, 20] count: 77
+Pattern: [22, 27] count: 77
+Pattern: [43, 60] count: 74
+Pattern: [44, 53] count: 74
+Pattern: [51, 57] count: 74
+Pattern: [5, 18] count: 72
+Pattern: [21, 35] count: 72
+Pattern: [15, 87] count: 69
+Pattern: [37, 61] count: 68
+Pattern: [11, 13] count: 66
+Pattern: [25, 77] count: 65
+Pattern: [16, 38] count: 64
+Pattern: [39, 67] count: 64
+Pattern: [24, 66] count: 62
+Pattern: [53, 56] count: 62
+Pattern: [10, 26] count: 61
+Pattern: [22, 33] count: 61
+Pattern: [13, 69] count: 60
+Pattern: [13, 71] count: 60
+Pattern: [34, 47] count: 60
+Pattern: [7, 49] count: 58
+Pattern: [43, 62] count: 58
+Pattern: [43, 63] count: 58
+Pattern: [0, 18] count: 56
+Pattern: [6, 22] count: 56
+Pattern: [21, 36] count: 53
+Pattern: [22, 31] count: 53
+Pattern: [23, 37] count: 53
+Pattern: [6, 40] count: 52
+Pattern: [9, 65] count: 52
+Pattern: [23, 80] count: 52
+Pattern: [48, 53] count: 52
+Pattern: [16, 49] count: 50
+Pattern: [18, 41] count: 49
+Pattern: [2, 29] count: 48
+Pattern: [2, 41] count: 48
+Pattern: [4, 94] count: 48
+Pattern: [6, 12] count: 48
+Pattern: [6, 31] count: 48
+Pattern: [16, 88] count: 48
+Pattern: [19, 48] count: 48
+Pattern: [28, 94] count: 48
+Pattern: [34, 41] count: 48
+Pattern: [47, 49] count: 48
+Pattern: [59, 102] count: 48
+Pattern: [14, 17] count: 46
+Pattern: [33, 55] count: 46
+Pattern: [35, 44] count: 46
+Pattern: [6, 17] count: 45
+Pattern: [36, 52] count: 45
+Pattern: [12, 61] count: 44
+Pattern: [13, 58] count: 44
+Pattern: [26, 54] count: 44
+Pattern: [39, 72] count: 44
+Pattern: [11, 23] count: 43
+Pattern: [11, 50] count: 42
+Pattern: [37, 69] count: 42
+Pattern: [37, 71] count: 42
+Pattern: [8, 9] count: 40
+Pattern: [19, 45] count: 40
+Pattern: [32, 62] count: 40
+Pattern: [32, 63] count: 40
+Pattern: [36, 44] count: 40
+Pattern: [2, 54] count: 38
+Pattern: [5, 34] count: 38
+Pattern: [64, 78] count: 38
+Pattern: [1, 53] count: 37
+Pattern: [17, 79] count: 36
+Pattern: [18, 96] count: 36
+Pattern: [25, 50] count: 36
+Pattern: [104, 105] count: 36
+Pattern: [106, 107] count: 36
+Pattern: [3, 49] count: 35
+Pattern: [26, 35] count: 35
+Pattern: [2, 44] count: 34
+Pattern: [47, 57] count: 34
+Pattern: [17, 18] count: 33
+Pattern: [1, 8] count: 32
+Pattern: [4, 34] count: 32
+Pattern: [8, 29] count: 32
+Pattern: [16, 43] count: 32
+Pattern: [17, 31] count: 32
+Pattern: [20, 101] count: 32
+Pattern: [25, 73] count: 32
+Pattern: [55, 62] count: 32
+Pattern: [55, 63] count: 32
+Pattern: [57, 65] count: 32
+Pattern: [10, 77] count: 31
+Pattern: [2, 67] count: 30
+Pattern: [26, 36] count: 30
+Pattern: [29, 69] count: 30
+Pattern: [29, 71] count: 30
+Pattern: [30, 34] count: 30
+Pattern: [35, 48] count: 30
+Pattern: [37, 38] count: 30
+Pattern: [72, 76] count: 30
+Pattern: [28, 33] count: 29
+Pattern: [34, 88] count: 29
+Pattern: [0, 54] count: 28
+Pattern: [9, 22] count: 28
+Pattern: [12, 22] count: 28
+Pattern: [13, 49] count: 28
+Pattern: [21, 26] count: 28
+Pattern: [28, 80] count: 28
+Pattern: [52, 76] count: 28
+Pattern: [5, 48] count: 27
+Pattern: [13, 45] count: 27
+Pattern: [15, 69] count: 27
+Pattern: [15, 71] count: 27
+Pattern: [25, 93] count: 27
+Pattern: [30, 44] count: 27
+Pattern: [0, 17] count: 26
+Pattern: [5, 56] count: 26
+Pattern: [5, 57] count: 26
+Pattern: [6, 25] count: 26
+Pattern: [6, 52] count: 26
+Pattern: [14, 48] count: 26
+Pattern: [34, 72] count: 26
+Pattern: [36, 48] count: 26
+Pattern: [47, 72] count: 26
+Pattern: [7, 32] count: 25
+Pattern: [14, 52] count: 25
+Pattern: [1, 37] count: 24
+Pattern: [2, 23] count: 24
+Pattern: [11, 38] count: 24
+Pattern: [12, 50] count: 24
+Pattern: [18, 22] count: 24
+Pattern: [30, 32] count: 24
+Pattern: [30, 48] count: 24
+Pattern: [38, 60] count: 24
+Pattern: [44, 47] count: 24
+Pattern: [45, 47] count: 24
+Pattern: [47, 52] count: 24
+Pattern: [77, 88] count: 24
+Pattern: [9, 17] count: 23
+Pattern: [12, 103] count: 23
+Pattern: [17, 27] count: 23
+Pattern: [22, 32] count: 23
+Pattern: [35, 67] count: 23
+Pattern: [3, 57] count: 22
+Pattern: [5, 44] count: 22
+Pattern: [24, 110] count: 22
+Pattern: [56, 89] count: 22
+Pattern: [11, 26] count: 21
+Pattern: [26, 37] count: 21
+Pattern: [33, 57] count: 21
+Pattern: [36, 67] count: 21
+Pattern: [2, 56] count: 20
+Pattern: [6, 72] count: 20
+Pattern: [14, 72] count: 20
+Pattern: [16, 21] count: 20
+Pattern: [16, 51] count: 20
+Pattern: [23, 38] count: 20
+Pattern: [37, 41] count: 20
+Pattern: [38, 54] count: 20
+Pattern: [57, 76] count: 20
+Pattern: [10, 27] count: 19
+Pattern: [18, 21] count: 19
+Pattern: [29, 37] count: 19
+Pattern: [29, 66] count: 19
+Pattern: [74, 79] count: 19
+Pattern: [75, 79] count: 19
+Pattern: [1, 2] count: 18
+Pattern: [1, 39] count: 18
+Pattern: [5, 52] count: 18
+Pattern: [7, 23] count: 18
+Pattern: [7, 54] count: 18
+Pattern: [7, 96] count: 18
+Pattern: [10, 35] count: 18
+Pattern: [11, 59] count: 18
+Pattern: [12, 37] count: 18
+Pattern: [12, 60] count: 18
+Pattern: [15, 46] count: 18
+Pattern: [21, 56] count: 18
+Pattern: [21, 57] count: 18
+Pattern: [30, 52] count: 18
+Pattern: [44, 65] count: 18
+Pattern: [82, 108] count: 18
+Pattern: [1, 11] count: 17
+Pattern: [22, 48] count: 17
+Pattern: [32, 54] count: 17
+Pattern: [48, 58] count: 17
+Pattern: [1, 60] count: 16
+Pattern: [1, 61] count: 16
+Pattern: [2, 30] count: 16
+Pattern: [2, 93] count: 16
+Pattern: [4, 49] count: 16
+Pattern: [4, 51] count: 16
+Pattern: [6, 44] count: 16
+Pattern: [7, 52] count: 16
+Pattern: [10, 83] count: 16
+Pattern: [13, 66] count: 16
+Pattern: [15, 30] count: 16
+Pattern: [16, 31] count: 16
+Pattern: [16, 61] count: 16
+Pattern: [22, 62] count: 16
+Pattern: [22, 63] count: 16
+Pattern: [30, 67] count: 16
+Pattern: [35, 79] count: 16
+Pattern: [39, 46] count: 16
+Pattern: [40, 43] count: 16
+Pattern: [41, 60] count: 16
+Pattern: [95, 98] count: 16
+Pattern: [95, 99] count: 16
+Pattern: [95, 100] count: 16
+Pattern: [97, 98] count: 16
+Pattern: [97, 99] count: 16
+Pattern: [97, 100] count: 16
+Pattern: [8, 25] count: 15
+Pattern: [13, 25] count: 15
+Pattern: [17, 72] count: 15
+Pattern: [27, 32] count: 15
+Pattern: [33, 59] count: 15
+Pattern: [73, 74] count: 15
+Pattern: [73, 75] count: 15
+Pattern: [1, 21] count: 14
+Pattern: [4, 89] count: 14
+Pattern: [10, 72] count: 14
+Pattern: [14, 21] count: 14
+Pattern: [17, 56] count: 14
+Pattern: [17, 62] count: 14
+Pattern: [17, 63] count: 14
+Pattern: [34, 42] count: 14
+Pattern: [41, 44] count: 14
+Pattern: [41, 67] count: 14
+Pattern: [41, 69] count: 14
+Pattern: [41, 71] count: 14
+Pattern: [42, 77] count: 14
+Pattern: [44, 76] count: 14
+Pattern: [49, 66] count: 14
+Pattern: [2, 69] count: 13
+Pattern: [2, 71] count: 13
+Pattern: [11, 48] count: 13
+Pattern: [17, 52] count: 13
+Pattern: [18, 45] count: 13
+Final codetable size: 442
+Final Compression size: 489453.0
+Compression ratio: 8.185840263952219%
+Pattern from sa:72
+Elapsed time: 2.082 seconds
+Memory usage: 88.07391357421875 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 3
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [3, 6, 9, 30, 32] count: 352
+Pattern: [3, 15, 20, 25, 42] count: 288
+Pattern: [4, 9, 21, 23, 26] count: 288
+Pattern: [3, 9, 10, 25, 43] count: 216
+Pattern: [3, 5, 11, 18, 38] count: 192
+Pattern: [2, 22, 37, 40, 43] count: 144
+Pattern: [14, 15, 19, 25, 53] count: 108
+Pattern: [9, 11, 30, 35, 44] count: 92
+Pattern: [3, 7, 10, 13] count: 1184
+Pattern: [3, 4, 8, 32] count: 1120
+Pattern: [2, 4, 28, 32] count: 958
+Pattern: [5, 10, 18, 22] count: 756
+Pattern: [3, 5, 9, 43] count: 576
+Pattern: [6, 7, 10, 24] count: 516
+Pattern: [6, 9, 17, 41] count: 432
+Pattern: [3, 10, 19, 22] count: 306
+Pattern: [2, 15, 20, 26] count: 264
+Pattern: [17, 21, 33, 41] count: 162
+Pattern: [2, 18, 25, 78] count: 96
+Pattern: [2, 45, 52, 59] count: 96
+Pattern: [6, 11, 22, 86] count: 96
+Pattern: [3, 24, 53, 57] count: 64
+Pattern: [2, 5, 12] count: 3728
+Pattern: [2, 6, 10] count: 3304
+Pattern: [2, 5, 20] count: 3016
+Pattern: [2, 12, 14] count: 2960
+Pattern: [7, 9, 16] count: 1968
+Pattern: [5, 8, 19] count: 1828
+Pattern: [8, 24, 26] count: 1816
+Pattern: [4, 5, 10] count: 1768
+Pattern: [13, 15, 28] count: 1760
+Pattern: [5, 13, 16] count: 1744
+Pattern: [3, 9, 21] count: 1728
+Pattern: [8, 9, 27] count: 1728
+Pattern: [6, 12, 17] count: 1696
+Pattern: [3, 11, 13] count: 1688
+Pattern: [4, 7, 22] count: 1548
+Pattern: [6, 7, 22] count: 1518
+Pattern: [2, 19, 29] count: 1490
+Pattern: [6, 7, 36] count: 1488
+Pattern: [4, 11, 17] count: 1400
+Pattern: [3, 20, 35] count: 1392
+Pattern: [3, 31, 42] count: 1296
+Pattern: [4, 33, 46] count: 1296
+Pattern: [7, 8, 27] count: 1200
+Pattern: [3, 4, 49] count: 1104
+Pattern: [5, 10, 47] count: 1024
+Pattern: [5, 6, 25] count: 1004
+Pattern: [7, 11, 21] count: 992
+Pattern: [3, 8, 50] count: 864
+Pattern: [2, 16, 34] count: 612
+Pattern: [13, 17, 31] count: 612
+Pattern: [4, 16, 60] count: 576
+Pattern: [5, 7, 61] count: 576
+Pattern: [6, 21, 41] count: 560
+Pattern: [4, 30, 36] count: 504
+Pattern: [6, 9, 34] count: 456
+Pattern: [3, 29, 43] count: 432
+Pattern: [10, 15, 31] count: 432
+Pattern: [7, 35, 52] count: 428
+Pattern: [3, 25, 39] count: 256
+Pattern: [20, 30, 52] count: 232
+Pattern: [2, 30, 76] count: 192
+Pattern: [13, 22, 51] count: 190
+Pattern: [6, 22, 33] count: 168
+Pattern: [2, 15, 65] count: 144
+Pattern: [15, 26, 30] count: 112
+Pattern: [9, 13, 65] count: 72
+Pattern: [0, 1] count: 7924
+Pattern: [27, 40] count: 1460
+Pattern: [18, 23] count: 1432
+Pattern: [8, 15] count: 1372
+Pattern: [5, 16] count: 1162
+Pattern: [11, 34] count: 1042
+Pattern: [3, 20] count: 957
+Pattern: [6, 13] count: 941
+Pattern: [9, 25] count: 909
+Pattern: [18, 45] count: 794
+Pattern: [6, 19] count: 762
+Pattern: [37, 38] count: 723
+Pattern: [30, 39] count: 656
+Pattern: [33, 42] count: 522
+Pattern: [12, 24] count: 497
+Pattern: [22, 41] count: 480
+Pattern: [5, 36] count: 466
+Pattern: [2, 43] count: 459
+Pattern: [28, 58] count: 456
+Pattern: [21, 39] count: 434
+Pattern: [14, 19] count: 418
+Pattern: [3, 23] count: 415
+Pattern: [7, 10] count: 405
+Pattern: [15, 29] count: 392
+Pattern: [21, 51] count: 368
+Pattern: [17, 37] count: 360
+Pattern: [4, 6] count: 334
+Pattern: [31, 46] count: 324
+Pattern: [25, 53] count: 314
+Pattern: [18, 27] count: 304
+Pattern: [2, 59] count: 301
+Pattern: [9, 17] count: 299
+Pattern: [4, 22] count: 275
+Pattern: [31, 55] count: 264
+Pattern: [5, 48] count: 260
+Pattern: [21, 32] count: 258
+Pattern: [64, 68] count: 258
+Pattern: [30, 51] count: 257
+Pattern: [14, 77] count: 256
+Pattern: [36, 47] count: 256
+Pattern: [50, 81] count: 256
+Pattern: [23, 44] count: 250
+Pattern: [3, 54] count: 248
+Pattern: [17, 41] count: 238
+Pattern: [8, 50] count: 236
+Pattern: [34, 44] count: 227
+Pattern: [9, 22] count: 216
+Pattern: [7, 54] count: 212
+Pattern: [0, 82] count: 192
+Pattern: [16, 87] count: 192
+Pattern: [34, 56] count: 192
+Pattern: [84, 85] count: 192
+Pattern: [19, 48] count: 191
+Pattern: [35, 47] count: 191
+Pattern: [30, 32] count: 180
+Pattern: [7, 38] count: 179
+Pattern: [45, 65] count: 174
+Pattern: [20, 48] count: 172
+Pattern: [21, 43] count: 171
+Pattern: [11, 26] count: 168
+Pattern: [34, 57] count: 167
+Pattern: [6, 10] count: 166
+Pattern: [27, 29] count: 164
+Pattern: [5, 44] count: 163
+Pattern: [66, 69] count: 160
+Pattern: [5, 67] count: 159
+Pattern: [2, 7] count: 156
+Pattern: [3, 10] count: 150
+Pattern: [17, 45] count: 144
+Pattern: [19, 74] count: 144
+Pattern: [19, 75] count: 144
+Pattern: [38, 66] count: 144
+Pattern: [38, 70] count: 144
+Pattern: [66, 71] count: 144
+Pattern: [69, 70] count: 144
+Pattern: [70, 71] count: 144
+Pattern: [30, 43] count: 143
+Pattern: [31, 38] count: 138
+Pattern: [23, 56] count: 136
+Pattern: [4, 23] count: 133
+Pattern: [5, 52] count: 133
+Pattern: [3, 42] count: 132
+Pattern: [36, 52] count: 132
+Pattern: [26, 40] count: 129
+Pattern: [30, 53] count: 128
+Pattern: [64, 73] count: 128
+Pattern: [20, 83] count: 125
+Pattern: [25, 51] count: 124
+Pattern: [15, 49] count: 120
+Pattern: [33, 55] count: 120
+Pattern: [55, 62] count: 120
+Pattern: [55, 63] count: 120
+Pattern: [9, 38] count: 118
+Pattern: [12, 13] count: 116
+Pattern: [5, 35] count: 115
+Pattern: [36, 44] count: 115
+Pattern: [12, 78] count: 114
+Pattern: [37, 69] count: 114
+Pattern: [37, 71] count: 114
+Pattern: [6, 41] count: 110
+Pattern: [21, 53] count: 108
+Pattern: [23, 57] count: 108
+Pattern: [49, 80] count: 104
+Pattern: [13, 20] count: 101
+Pattern: [23, 67] count: 100
+Pattern: [7, 11] count: 98
+Pattern: [18, 77] count: 96
+Pattern: [37, 61] count: 96
+Pattern: [14, 34] count: 95
+Pattern: [9, 21] count: 92
+Pattern: [4, 17] count: 91
+Pattern: [8, 27] count: 91
+Pattern: [15, 16] count: 90
+Pattern: [54, 62] count: 86
+Pattern: [54, 63] count: 86
+Pattern: [10, 24] count: 84
+Pattern: [11, 33] count: 84
+Pattern: [17, 65] count: 84
+Pattern: [35, 76] count: 83
+Pattern: [74, 79] count: 82
+Pattern: [75, 79] count: 82
+Pattern: [25, 32] count: 80
+Pattern: [36, 72] count: 79
+Pattern: [10, 31] count: 78
+Pattern: [13, 37] count: 78
+Pattern: [25, 39] count: 75
+Pattern: [42, 44] count: 74
+Pattern: [42, 57] count: 74
+Pattern: [27, 73] count: 72
+Pattern: [58, 96] count: 72
+Pattern: [9, 59] count: 71
+Pattern: [36, 48] count: 70
+Pattern: [2, 8] count: 68
+Pattern: [7, 13] count: 66
+Pattern: [23, 62] count: 66
+Pattern: [23, 63] count: 66
+Pattern: [34, 74] count: 66
+Pattern: [34, 75] count: 66
+Pattern: [7, 64] count: 64
+Pattern: [11, 47] count: 64
+Pattern: [4, 61] count: 63
+Pattern: [7, 8] count: 63
+Pattern: [5, 25] count: 62
+Pattern: [6, 15] count: 62
+Pattern: [29, 33] count: 62
+Pattern: [9, 16] count: 60
+Pattern: [11, 45] count: 60
+Pattern: [17, 31] count: 60
+Pattern: [78, 93] count: 60
+Pattern: [7, 9] count: 58
+Pattern: [23, 48] count: 58
+Pattern: [11, 38] count: 57
+Pattern: [19, 92] count: 57
+Pattern: [16, 28] count: 56
+Pattern: [49, 62] count: 56
+Pattern: [49, 63] count: 56
+Pattern: [15, 25] count: 54
+Pattern: [35, 72] count: 54
+Pattern: [42, 56] count: 54
+Pattern: [36, 67] count: 53
+Pattern: [2, 4] count: 51
+Pattern: [3, 39] count: 50
+Pattern: [23, 26] count: 50
+Pattern: [3, 43] count: 49
+Pattern: [14, 53] count: 49
+Pattern: [10, 86] count: 48
+Pattern: [11, 29] count: 48
+Pattern: [22, 44] count: 48
+Pattern: [22, 57] count: 48
+Pattern: [32, 61] count: 48
+Pattern: [56, 73] count: 48
+Pattern: [5, 94] count: 47
+Pattern: [6, 33] count: 47
+Pattern: [4, 55] count: 46
+Pattern: [53, 72] count: 46
+Pattern: [13, 33] count: 44
+Pattern: [78, 80] count: 44
+Pattern: [6, 20] count: 43
+Pattern: [2, 31] count: 42
+Pattern: [32, 76] count: 42
+Pattern: [25, 89] count: 41
+Pattern: [35, 52] count: 41
+Pattern: [4, 37] count: 40
+Pattern: [6, 62] count: 40
+Pattern: [6, 63] count: 40
+Pattern: [8, 24] count: 40
+Pattern: [14, 88] count: 40
+Pattern: [39, 61] count: 40
+Pattern: [48, 73] count: 40
+Pattern: [18, 68] count: 38
+Pattern: [19, 44] count: 37
+Pattern: [22, 31] count: 37
+Pattern: [5, 10] count: 36
+Pattern: [12, 27] count: 36
+Pattern: [12, 102] count: 36
+Pattern: [27, 93] count: 36
+Pattern: [28, 64] count: 36
+Pattern: [31, 68] count: 36
+Pattern: [43, 61] count: 36
+Pattern: [44, 46] count: 36
+Pattern: [46, 56] count: 36
+Pattern: [46, 57] count: 36
+Pattern: [47, 52] count: 36
+Pattern: [56, 79] count: 36
+Pattern: [104, 105] count: 36
+Pattern: [106, 107] count: 36
+Pattern: [10, 13] count: 35
+Pattern: [32, 52] count: 35
+Pattern: [36, 41] count: 35
+Pattern: [15, 20] count: 34
+Pattern: [33, 54] count: 34
+Pattern: [53, 76] count: 34
+Pattern: [19, 56] count: 33
+Pattern: [23, 33] count: 33
+Pattern: [32, 44] count: 33
+Pattern: [36, 57] count: 33
+Pattern: [20, 41] count: 32
+Pattern: [21, 83] count: 32
+Pattern: [30, 50] count: 32
+Pattern: [44, 53] count: 32
+Pattern: [48, 80] count: 32
+Pattern: [90, 95] count: 32
+Pattern: [90, 97] count: 32
+Pattern: [91, 95] count: 32
+Pattern: [91, 97] count: 32
+Pattern: [10, 41] count: 31
+Pattern: [3, 32] count: 30
+Pattern: [16, 59] count: 30
+Pattern: [41, 69] count: 30
+Pattern: [41, 71] count: 30
+Pattern: [47, 48] count: 30
+Pattern: [52, 53] count: 30
+Pattern: [10, 59] count: 29
+Pattern: [20, 35] count: 29
+Pattern: [7, 17] count: 28
+Pattern: [34, 80] count: 28
+Pattern: [26, 35] count: 27
+Pattern: [3, 49] count: 26
+Pattern: [23, 39] count: 26
+Pattern: [29, 37] count: 26
+Pattern: [32, 72] count: 26
+Pattern: [72, 79] count: 26
+Pattern: [13, 38] count: 25
+Pattern: [15, 62] count: 25
+Pattern: [15, 63] count: 25
+Pattern: [17, 44] count: 25
+Pattern: [21, 26] count: 25
+Pattern: [9, 10] count: 24
+Pattern: [22, 45] count: 24
+Pattern: [25, 54] count: 24
+Pattern: [32, 57] count: 24
+Pattern: [47, 72] count: 24
+Pattern: [48, 88] count: 24
+Pattern: [51, 73] count: 24
+Pattern: [66, 103] count: 24
+Pattern: [74, 101] count: 24
+Pattern: [75, 101] count: 24
+Pattern: [4, 25] count: 23
+Pattern: [29, 62] count: 23
+Pattern: [29, 63] count: 23
+Pattern: [48, 53] count: 23
+Pattern: [23, 43] count: 22
+Pattern: [25, 58] count: 22
+Pattern: [11, 22] count: 21
+Pattern: [22, 37] count: 21
+Pattern: [39, 44] count: 21
+Pattern: [39, 52] count: 21
+Pattern: [9, 24] count: 20
+Pattern: [9, 72] count: 20
+Pattern: [11, 79] count: 20
+Pattern: [12, 16] count: 20
+Pattern: [21, 58] count: 20
+Pattern: [33, 49] count: 20
+Pattern: [80, 86] count: 20
+Pattern: [9, 44] count: 19
+Pattern: [11, 43] count: 19
+Pattern: [29, 54] count: 19
+Pattern: [2, 14] count: 18
+Pattern: [7, 92] count: 18
+Pattern: [10, 37] count: 18
+Pattern: [17, 38] count: 18
+Pattern: [20, 112] count: 18
+Pattern: [21, 108] count: 18
+Pattern: [22, 29] count: 18
+Pattern: [22, 56] count: 18
+Pattern: [23, 32] count: 18
+Pattern: [26, 36] count: 18
+Pattern: [34, 72] count: 18
+Pattern: [35, 39] count: 18
+Pattern: [3, 25] count: 17
+Pattern: [4, 32] count: 17
+Pattern: [4, 53] count: 17
+Pattern: [9, 57] count: 17
+Pattern: [37, 43] count: 17
+Pattern: [3, 24] count: 16
+Pattern: [6, 48] count: 16
+Pattern: [7, 74] count: 16
+Pattern: [7, 75] count: 16
+Pattern: [10, 34] count: 16
+Pattern: [10, 48] count: 16
+Pattern: [10, 79] count: 16
+Pattern: [11, 61] count: 16
+Pattern: [13, 21] count: 16
+Pattern: [14, 111] count: 16
+Pattern: [18, 49] count: 16
+Pattern: [34, 39] count: 16
+Pattern: [35, 65] count: 16
+Pattern: [38, 67] count: 16
+Pattern: [44, 68] count: 16
+Pattern: [47, 56] count: 16
+Pattern: [52, 64] count: 16
+Pattern: [52, 73] count: 16
+Pattern: [53, 73] count: 16
+Pattern: [9, 43] count: 15
+Pattern: [16, 20] count: 15
+Pattern: [31, 43] count: 15
+Pattern: [2, 11] count: 14
+Pattern: [10, 44] count: 14
+Pattern: [11, 19] count: 14
+Pattern: [13, 15] count: 14
+Pattern: [22, 33] count: 14
+Pattern: [22, 62] count: 14
+Pattern: [22, 63] count: 14
+Pattern: [23, 52] count: 14
+Pattern: [36, 39] count: 14
+Pattern: [41, 61] count: 14
+Pattern: [53, 57] count: 14
+Pattern: [83, 94] count: 14
+Pattern: [2, 88] count: 13
+Pattern: [7, 24] count: 13
+Pattern: [7, 26] count: 13
+Pattern: [12, 30] count: 13
+Pattern: [22, 32] count: 13
+Pattern: [32, 37] count: 13
+Pattern: [39, 67] count: 13
+Pattern: [58, 94] count: 13
+Pattern: [2, 37] count: 12
+Pattern: [2, 65] count: 12
+Pattern: [3, 62] count: 12
+Pattern: [3, 63] count: 12
+Pattern: [4, 89] count: 12
+Pattern: [6, 11] count: 12
+Pattern: [6, 56] count: 12
+Pattern: [9, 13] count: 12
+Pattern: [10, 74] count: 12
+Pattern: [10, 75] count: 12
+Pattern: [17, 29] count: 12
+Pattern: [17, 35] count: 12
+Pattern: [18, 36] count: 12
+Pattern: [19, 59] count: 12
+Pattern: [20, 26] count: 12
+Pattern: [21, 37] count: 12
+Pattern: [25, 40] count: 12
+Pattern: [25, 45] count: 12
+Pattern: [27, 66] count: 12
+Pattern: [27, 110] count: 12
+Pattern: [29, 55] count: 12
+Pattern: [29, 68] count: 12
+Pattern: [32, 48] count: 12
+Pattern: [35, 53] count: 12
+Pattern: [39, 72] count: 12
+Pattern: [41, 44] count: 12
+Pattern: [44, 55] count: 12
+Pattern: [51, 52] count: 12
+Pattern: [52, 55] count: 12
+Pattern: [52, 68] count: 12
+Pattern: [72, 73] count: 12
+Pattern: [74, 86] count: 12
+Pattern: [75, 86] count: 12
+Pattern: [82, 108] count: 12
+Pattern: [2, 15] count: 11
+Pattern: [4, 21] count: 11
+Pattern: [4, 29] count: 11
+Pattern: [6, 32] count: 11
+Final codetable size: 442
+Final Compression size: 638219.0
+Compression ratio: 10.67387223578019%
+Pattern from sa:69
+Elapsed time: 2.134 seconds
+Memory usage: 43.334388732910156 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 4
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [1, 2, 3, 4, 5, 8, 16, 19, 22, 29, 34, 51] count: 108
+Pattern: [2, 3, 4, 11, 25] count: 1152
+Pattern: [0, 1, 19, 20, 48] count: 416
+Pattern: [1, 11, 12, 16, 22] count: 352
+Pattern: [3, 8, 9, 21, 22] count: 288
+Pattern: [3, 15, 37, 40, 63] count: 288
+Pattern: [2, 3, 12, 25, 53] count: 280
+Pattern: [0, 2, 22, 37, 39] count: 204
+Pattern: [4, 10, 13, 18, 19] count: 192
+Pattern: [0, 5, 17, 19, 32] count: 124
+Pattern: [4, 5, 7, 24, 25] count: 96
+Pattern: [0, 1, 2, 5] count: 5402
+Pattern: [0, 1, 10, 18] count: 2064
+Pattern: [2, 4, 9, 28] count: 1728
+Pattern: [1, 4, 16, 30] count: 1560
+Pattern: [1, 13, 28, 32] count: 908
+Pattern: [4, 7, 13, 32] count: 908
+Pattern: [1, 27, 29, 40] count: 864
+Pattern: [2, 8, 9, 37] count: 864
+Pattern: [8, 11, 28, 40] count: 864
+Pattern: [1, 2, 14, 15] count: 816
+Pattern: [8, 15, 41, 46] count: 648
+Pattern: [7, 11, 12, 47] count: 520
+Pattern: [2, 12, 28, 45] count: 336
+Pattern: [3, 4, 14, 73] count: 256
+Pattern: [0, 3, 15, 35] count: 224
+Pattern: [4, 7, 16, 19] count: 200
+Pattern: [7, 8, 22, 34] count: 192
+Pattern: [7, 14, 25, 54] count: 192
+Pattern: [12, 32, 34, 36] count: 152
+Pattern: [14, 28, 30, 34] count: 144
+Pattern: [0, 3, 5] count: 4976
+Pattern: [0, 6, 12] count: 3640
+Pattern: [3, 6, 11] count: 2936
+Pattern: [4, 9, 13] count: 2736
+Pattern: [4, 15, 29] count: 2228
+Pattern: [3, 5, 23] count: 2160
+Pattern: [2, 18, 20] count: 2032
+Pattern: [4, 11, 20] count: 2024
+Pattern: [7, 9, 14] count: 1968
+Pattern: [3, 8, 17] count: 1928
+Pattern: [2, 15, 19] count: 1882
+Pattern: [3, 8, 33] count: 1872
+Pattern: [1, 29, 33] count: 1584
+Pattern: [2, 6, 26] count: 1584
+Pattern: [6, 11, 17] count: 1568
+Pattern: [2, 14, 21] count: 1504
+Pattern: [0, 13, 20] count: 1320
+Pattern: [7, 9, 21] count: 1296
+Pattern: [4, 7, 8] count: 1248
+Pattern: [5, 14, 22] count: 1208
+Pattern: [1, 7, 27] count: 1200
+Pattern: [8, 10, 13] count: 1112
+Pattern: [2, 5, 24] count: 960
+Pattern: [2, 19, 39] count: 912
+Pattern: [1, 31, 38] count: 864
+Pattern: [3, 6, 39] count: 864
+Pattern: [3, 34, 45] count: 768
+Pattern: [4, 21, 36] count: 720
+Pattern: [6, 10, 48] count: 676
+Pattern: [8, 30, 42] count: 648
+Pattern: [16, 18, 39] count: 584
+Pattern: [0, 9, 49] count: 576
+Pattern: [3, 6, 61] count: 576
+Pattern: [15, 22, 40] count: 576
+Pattern: [0, 11, 64] count: 512
+Pattern: [10, 17, 28] count: 456
+Pattern: [24, 25, 43] count: 456
+Pattern: [2, 19, 69] count: 448
+Pattern: [8, 36, 45] count: 432
+Pattern: [12, 19, 32] count: 432
+Pattern: [8, 17, 44] count: 406
+Pattern: [1, 12, 74] count: 400
+Pattern: [21, 42, 51] count: 324
+Pattern: [6, 7, 56] count: 248
+Pattern: [15, 30, 44] count: 240
+Pattern: [22, 34, 44] count: 224
+Pattern: [15, 23, 55] count: 212
+Pattern: [8, 49, 55] count: 194
+Pattern: [19, 27, 85] count: 192
+Pattern: [18, 43, 48] count: 168
+Pattern: [3, 53, 74] count: 152
+Pattern: [12, 21, 27] count: 144
+Pattern: [34, 42, 69] count: 144
+Pattern: [29, 49, 55] count: 96
+Pattern: [41, 49, 70] count: 72
+Pattern: [0, 15] count: 1453
+Pattern: [12, 35] count: 1232
+Pattern: [24, 28] count: 1214
+Pattern: [4, 16] count: 1210
+Pattern: [1, 10] count: 1090
+Pattern: [7, 19] count: 965
+Pattern: [2, 6] count: 934
+Pattern: [3, 26] count: 934
+Pattern: [27, 40] count: 802
+Pattern: [9, 50] count: 768
+Pattern: [31, 46] count: 740
+Pattern: [8, 13] count: 571
+Pattern: [16, 33] count: 566
+Pattern: [12, 18] count: 558
+Pattern: [20, 47] count: 552
+Pattern: [20, 41] count: 506
+Pattern: [4, 10] count: 494
+Pattern: [11, 45] count: 469
+Pattern: [5, 34] count: 456
+Pattern: [14, 25] count: 456
+Pattern: [17, 37] count: 432
+Pattern: [8, 27] count: 395
+Pattern: [2, 19] count: 384
+Pattern: [12, 36] count: 380
+Pattern: [21, 32] count: 358
+Pattern: [21, 42] count: 346
+Pattern: [13, 43] count: 325
+Pattern: [0, 41] count: 313
+Pattern: [3, 14] count: 304
+Pattern: [9, 26] count: 296
+Pattern: [1, 38] count: 288
+Pattern: [17, 60] count: 288
+Pattern: [22, 60] count: 288
+Pattern: [8, 59] count: 280
+Pattern: [0, 23] count: 278
+Pattern: [2, 26] count: 270
+Pattern: [4, 6] count: 265
+Pattern: [22, 37] count: 264
+Pattern: [25, 32] count: 256
+Pattern: [50, 81] count: 256
+Pattern: [12, 58] count: 239
+Pattern: [54, 55] count: 236
+Pattern: [21, 43] count: 227
+Pattern: [24, 27] count: 222
+Pattern: [30, 47] count: 215
+Pattern: [16, 23] count: 214
+Pattern: [51, 75] count: 200
+Pattern: [22, 57] count: 198
+Pattern: [59, 65] count: 198
+Pattern: [5, 68] count: 194
+Pattern: [30, 76] count: 192
+Pattern: [78, 83] count: 192
+Pattern: [80, 86] count: 192
+Pattern: [82, 84] count: 192
+Pattern: [15, 42] count: 186
+Pattern: [13, 49] count: 183
+Pattern: [10, 52] count: 180
+Pattern: [17, 57] count: 168
+Pattern: [37, 62] count: 168
+Pattern: [18, 61] count: 165
+Pattern: [3, 25] count: 161
+Pattern: [17, 56] count: 160
+Pattern: [34, 53] count: 160
+Pattern: [10, 44] count: 154
+Pattern: [11, 22] count: 152
+Pattern: [32, 36] count: 152
+Pattern: [18, 38] count: 150
+Pattern: [1, 2] count: 148
+Pattern: [66, 71] count: 144
+Pattern: [0, 31] count: 142
+Pattern: [11, 58] count: 142
+Pattern: [35, 41] count: 140
+Pattern: [28, 48] count: 136
+Pattern: [36, 39] count: 132
+Pattern: [46, 66] count: 132
+Pattern: [33, 37] count: 130
+Pattern: [7, 8] count: 128
+Pattern: [20, 64] count: 128
+Pattern: [54, 63] count: 128
+Pattern: [22, 56] count: 120
+Pattern: [32, 52] count: 120
+Pattern: [70, 71] count: 120
+Pattern: [4, 21] count: 119
+Pattern: [10, 48] count: 118
+Pattern: [30, 42] count: 116
+Pattern: [41, 49] count: 116
+Pattern: [14, 77] count: 114
+Pattern: [38, 43] count: 110
+Pattern: [39, 65] count: 108
+Pattern: [46, 70] count: 108
+Pattern: [51, 74] count: 108
+Pattern: [44, 53] count: 106
+Pattern: [0, 13] count: 103
+Pattern: [3, 52] count: 102
+Pattern: [30, 45] count: 101
+Pattern: [29, 31] count: 100
+Pattern: [24, 31] count: 97
+Pattern: [30, 50] count: 96
+Pattern: [20, 58] count: 94
+Pattern: [8, 78] count: 92
+Pattern: [32, 44] count: 92
+Pattern: [7, 38] count: 91
+Pattern: [54, 62] count: 88
+Pattern: [3, 19] count: 86
+Pattern: [23, 63] count: 86
+Pattern: [43, 67] count: 85
+Pattern: [12, 16] count: 83
+Pattern: [32, 48] count: 83
+Pattern: [48, 53] count: 83
+Pattern: [6, 44] count: 80
+Pattern: [34, 41] count: 80
+Pattern: [66, 69] count: 80
+Pattern: [49, 63] count: 79
+Pattern: [9, 21] count: 78
+Pattern: [25, 47] count: 78
+Pattern: [35, 52] count: 76
+Pattern: [25, 76] count: 75
+Pattern: [32, 67] count: 75
+Pattern: [53, 75] count: 75
+Pattern: [34, 72] count: 74
+Pattern: [2, 17] count: 73
+Pattern: [21, 48] count: 73
+Pattern: [5, 77] count: 72
+Pattern: [9, 42] count: 72
+Pattern: [18, 96] count: 72
+Pattern: [20, 73] count: 72
+Pattern: [27, 29] count: 72
+Pattern: [4, 13] count: 71
+Pattern: [1, 61] count: 68
+Pattern: [39, 44] count: 68
+Pattern: [15, 21] count: 67
+Pattern: [3, 23] count: 66
+Pattern: [22, 42] count: 66
+Pattern: [31, 49] count: 66
+Pattern: [8, 87] count: 64
+Pattern: [36, 52] count: 64
+Pattern: [64, 79] count: 64
+Pattern: [6, 32] count: 63
+Pattern: [30, 35] count: 63
+Pattern: [15, 26] count: 60
+Pattern: [18, 54] count: 60
+Pattern: [43, 44] count: 60
+Pattern: [25, 79] count: 58
+Pattern: [39, 52] count: 58
+Pattern: [39, 67] count: 57
+Pattern: [1, 87] count: 56
+Pattern: [6, 22] count: 56
+Pattern: [10, 56] count: 56
+Pattern: [13, 34] count: 56
+Pattern: [23, 62] count: 56
+Pattern: [22, 44] count: 55
+Pattern: [45, 47] count: 55
+Pattern: [5, 55] count: 54
+Pattern: [6, 68] count: 54
+Pattern: [25, 27] count: 54
+Pattern: [6, 43] count: 53
+Pattern: [23, 80] count: 52
+Pattern: [24, 76] count: 52
+Pattern: [28, 94] count: 52
+Pattern: [69, 70] count: 52
+Pattern: [3, 65] count: 51
+Pattern: [0, 32] count: 50
+Pattern: [18, 93] count: 50
+Pattern: [38, 40] count: 49
+Pattern: [3, 4] count: 48
+Pattern: [13, 20] count: 48
+Pattern: [33, 57] count: 48
+Pattern: [42, 102] count: 48
+Pattern: [56, 71] count: 48
+Pattern: [57, 71] count: 48
+Pattern: [4, 11] count: 47
+Pattern: [35, 51] count: 46
+Pattern: [53, 56] count: 46
+Pattern: [15, 49] count: 45
+Pattern: [21, 49] count: 44
+Pattern: [24, 47] count: 44
+Pattern: [25, 45] count: 44
+Pattern: [28, 37] count: 44
+Pattern: [46, 56] count: 44
+Pattern: [46, 57] count: 44
+Pattern: [51, 66] count: 44
+Pattern: [2, 10] count: 43
+Pattern: [6, 38] count: 43
+Pattern: [38, 41] count: 43
+Pattern: [12, 34] count: 42
+Pattern: [29, 33] count: 42
+Pattern: [39, 48] count: 42
+Pattern: [43, 52] count: 42
+Pattern: [0, 62] count: 41
+Pattern: [53, 77] count: 41
+Pattern: [12, 79] count: 40
+Pattern: [21, 34] count: 40
+Pattern: [41, 61] count: 40
+Pattern: [6, 67] count: 39
+Pattern: [45, 58] count: 39
+Pattern: [10, 72] count: 38
+Pattern: [20, 27] count: 38
+Pattern: [2, 18] count: 37
+Pattern: [3, 8] count: 36
+Pattern: [4, 23] count: 36
+Pattern: [8, 90] count: 36
+Pattern: [8, 91] count: 36
+Pattern: [9, 59] count: 36
+Pattern: [13, 26] count: 36
+Pattern: [16, 66] count: 36
+Pattern: [19, 31] count: 36
+Pattern: [21, 79] count: 36
+Pattern: [35, 44] count: 36
+Pattern: [64, 104] count: 36
+Pattern: [105, 106] count: 36
+Pattern: [107, 108] count: 36
+Pattern: [0, 63] count: 35
+Pattern: [6, 52] count: 35
+Pattern: [49, 62] count: 35
+Pattern: [4, 30] count: 34
+Pattern: [6, 55] count: 34
+Pattern: [34, 57] count: 34
+Pattern: [7, 65] count: 33
+Pattern: [16, 87] count: 33
+Pattern: [3, 78] count: 32
+Pattern: [4, 68] count: 32
+Pattern: [4, 79] count: 32
+Pattern: [7, 73] count: 32
+Pattern: [14, 75] count: 32
+Pattern: [22, 92] count: 32
+Pattern: [55, 92] count: 32
+Pattern: [3, 33] count: 30
+Pattern: [7, 24] count: 30
+Pattern: [11, 32] count: 30
+Pattern: [20, 68] count: 30
+Pattern: [35, 72] count: 30
+Pattern: [48, 88] count: 30
+Pattern: [51, 70] count: 30
+Pattern: [22, 47] count: 29
+Pattern: [36, 41] count: 29
+Pattern: [1, 27] count: 28
+Pattern: [9, 25] count: 28
+Pattern: [18, 67] count: 28
+Pattern: [21, 23] count: 28
+Pattern: [28, 31] count: 28
+Pattern: [31, 37] count: 28
+Pattern: [53, 65] count: 28
+Pattern: [0, 54] count: 27
+Pattern: [2, 29] count: 27
+Pattern: [15, 69] count: 27
+Pattern: [2, 38] count: 26
+Pattern: [3, 72] count: 26
+Pattern: [13, 33] count: 26
+Pattern: [18, 44] count: 26
+Pattern: [18, 52] count: 26
+Pattern: [0, 51] count: 25
+Pattern: [2, 8] count: 24
+Pattern: [10, 67] count: 24
+Pattern: [12, 68] count: 24
+Pattern: [14, 23] count: 24
+Pattern: [17, 92] count: 24
+Pattern: [27, 85] count: 24
+Pattern: [36, 61] count: 24
+Pattern: [37, 46] count: 24
+Pattern: [37, 71] count: 24
+Pattern: [5, 17] count: 23
+Pattern: [18, 21] count: 23
+Pattern: [28, 55] count: 23
+Pattern: [53, 72] count: 23
+Pattern: [4, 37] count: 22
+Pattern: [5, 6] count: 22
+Pattern: [6, 48] count: 22
+Pattern: [11, 49] count: 22
+Pattern: [21, 31] count: 22
+Pattern: [25, 36] count: 22
+Pattern: [32, 63] count: 22
+Pattern: [10, 40] count: 21
+Pattern: [15, 25] count: 21
+Pattern: [24, 54] count: 21
+Pattern: [34, 64] count: 21
+Pattern: [52, 53] count: 21
+Pattern: [1, 22] count: 20
+Pattern: [1, 77] count: 20
+Pattern: [4, 28] count: 20
+Pattern: [5, 65] count: 20
+Pattern: [8, 41] count: 20
+Pattern: [16, 19] count: 20
+Pattern: [19, 103] count: 20
+Pattern: [29, 68] count: 20
+Pattern: [31, 62] count: 20
+Pattern: [39, 57] count: 20
+Pattern: [61, 67] count: 20
+Pattern: [90, 95] count: 20
+Pattern: [90, 97] count: 20
+Pattern: [91, 95] count: 20
+Pattern: [91, 97] count: 20
+Pattern: [3, 44] count: 19
+Pattern: [4, 43] count: 19
+Pattern: [31, 63] count: 19
+Pattern: [32, 72] count: 19
+Pattern: [34, 52] count: 19
+Pattern: [48, 61] count: 19
+Pattern: [3, 48] count: 18
+Pattern: [5, 49] count: 18
+Pattern: [12, 44] count: 18
+Pattern: [15, 30] count: 18
+Pattern: [17, 38] count: 18
+Pattern: [18, 32] count: 18
+Pattern: [23, 45] count: 18
+Pattern: [30, 31] count: 18
+Pattern: [34, 88] count: 18
+Pattern: [45, 57] count: 18
+Pattern: [0, 27] count: 17
+Pattern: [12, 52] count: 17
+Pattern: [17, 28] count: 17
+Pattern: [22, 65] count: 17
+Pattern: [29, 62] count: 17
+Pattern: [31, 54] count: 17
+Pattern: [34, 75] count: 17
+Pattern: [36, 89] count: 17
+Pattern: [0, 33] count: 16
+Pattern: [4, 77] count: 16
+Pattern: [5, 73] count: 16
+Pattern: [8, 46] count: 16
+Pattern: [10, 18] count: 16
+Pattern: [11, 53] count: 16
+Pattern: [11, 109] count: 16
+Pattern: [12, 49] count: 16
+Pattern: [14, 73] count: 16
+Pattern: [17, 32] count: 16
+Pattern: [17, 65] count: 16
+Pattern: [19, 55] count: 16
+Pattern: [30, 48] count: 16
+Pattern: [31, 34] count: 16
+Pattern: [33, 54] count: 16
+Pattern: [38, 44] count: 16
+Pattern: [38, 67] count: 16
+Pattern: [39, 72] count: 16
+Pattern: [41, 56] count: 16
+Pattern: [44, 61] count: 16
+Pattern: [52, 61] count: 16
+Pattern: [53, 67] count: 16
+Pattern: [58, 94] count: 16
+Pattern: [58, 111] count: 16
+Pattern: [64, 75] count: 16
+Pattern: [80, 82] count: 16
+Pattern: [2, 101] count: 15
+Pattern: [6, 10] count: 15
+Pattern: [8, 71] count: 15
+Pattern: [10, 25] count: 15
+Pattern: [13, 63] count: 15
+Pattern: [15, 34] count: 15
+Pattern: [23, 31] count: 15
+Pattern: [28, 49] count: 15
+Pattern: [41, 44] count: 15
+Pattern: [2, 16] count: 14
+Pattern: [2, 33] count: 14
+Pattern: [3, 12] count: 14
+Pattern: [7, 14] count: 14
+Pattern: [12, 59] count: 14
+Pattern: [13, 62] count: 14
+Final codetable size: 442
+Final Compression size: 762153.0
+Compression ratio: 12.746602257401578%
+Pattern from sa:86
+Elapsed time: 3.061 seconds
+Memory usage: 178.76409912109375 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 5
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [1, 7, 10, 14, 34] count: 636
+Pattern: [0, 6, 14, 25, 32] count: 260
+Pattern: [0, 8, 17, 36, 50] count: 208
+Pattern: [8, 18, 25, 28, 45] count: 144
+Pattern: [11, 13, 22, 33, 40] count: 96
+Pattern: [1, 3, 6, 10] count: 2960
+Pattern: [0, 1, 9, 24] count: 2496
+Pattern: [1, 2, 7, 25] count: 1516
+Pattern: [1, 19, 29, 31] count: 1368
+Pattern: [4, 11, 14, 21] count: 916
+Pattern: [9, 26, 28, 38] count: 864
+Pattern: [11, 18, 24, 45] count: 768
+Pattern: [3, 5, 23, 37] count: 720
+Pattern: [8, 9, 26, 54] count: 576
+Pattern: [24, 27, 31, 43] count: 432
+Pattern: [0, 13, 20, 32] count: 356
+Pattern: [3, 9, 10, 42] count: 288
+Pattern: [0, 7, 14, 81] count: 256
+Pattern: [0, 13, 21, 36] count: 248
+Pattern: [5, 21, 33, 44] count: 216
+Pattern: [8, 14, 17, 45] count: 192
+Pattern: [0, 11, 19, 41] count: 184
+Pattern: [0, 5, 28, 30] count: 144
+Pattern: [25, 26, 43, 49] count: 144
+Pattern: [0, 15, 18, 19] count: 120
+Pattern: [11, 12, 56, 58] count: 96
+Pattern: [14, 20, 25, 56] count: 76
+Pattern: [12, 14, 22, 45] count: 48
+Pattern: [0, 1, 7] count: 4744
+Pattern: [2, 4, 7] count: 3992
+Pattern: [0, 4, 15] count: 3804
+Pattern: [2, 5, 19] count: 2618
+Pattern: [4, 6, 11] count: 2552
+Pattern: [1, 8, 17] count: 1992
+Pattern: [0, 2, 35] count: 1920
+Pattern: [11, 12, 18] count: 1904
+Pattern: [3, 10, 13] count: 1768
+Pattern: [5, 33, 42] count: 1584
+Pattern: [3, 13, 31] count: 1512
+Pattern: [5, 12, 22] count: 1476
+Pattern: [9, 12, 35] count: 1296
+Pattern: [2, 17, 30] count: 1160
+Pattern: [3, 6, 41] count: 1032
+Pattern: [13, 20, 23] count: 960
+Pattern: [2, 13, 30] count: 940
+Pattern: [3, 9, 39] count: 928
+Pattern: [13, 26, 37] count: 864
+Pattern: [11, 14, 53] count: 768
+Pattern: [2, 20, 44] count: 688
+Pattern: [16, 22, 46] count: 648
+Pattern: [1, 20, 38] count: 576
+Pattern: [3, 20, 38] count: 576
+Pattern: [12, 14, 37] count: 576
+Pattern: [17, 27, 40] count: 576
+Pattern: [18, 23, 60] count: 576
+Pattern: [16, 18, 48] count: 560
+Pattern: [8, 12, 32] count: 536
+Pattern: [14, 17, 32] count: 472
+Pattern: [16, 23, 29] count: 432
+Pattern: [33, 38, 46] count: 432
+Pattern: [2, 4, 50] count: 352
+Pattern: [21, 23, 27] count: 352
+Pattern: [23, 27, 29] count: 320
+Pattern: [15, 37, 63] count: 288
+Pattern: [16, 20, 33] count: 288
+Pattern: [26, 32, 33] count: 288
+Pattern: [3, 23, 51] count: 280
+Pattern: [10, 11, 55] count: 258
+Pattern: [22, 29, 57] count: 216
+Pattern: [0, 54, 84] count: 192
+Pattern: [7, 19, 23] count: 192
+Pattern: [6, 21, 55] count: 181
+Pattern: [1, 43, 44] count: 144
+Pattern: [18, 37, 52] count: 144
+Pattern: [37, 38, 42] count: 144
+Pattern: [16, 23, 53] count: 112
+Pattern: [5, 14, 90] count: 96
+Pattern: [20, 24, 48] count: 96
+Pattern: [32, 55, 62] count: 96
+Pattern: [8, 28] count: 1668
+Pattern: [14, 16] count: 1383
+Pattern: [0, 20] count: 1212
+Pattern: [5, 17] count: 1195
+Pattern: [15, 26] count: 1034
+Pattern: [8, 34] count: 904
+Pattern: [33, 42] count: 792
+Pattern: [27, 40] count: 778
+Pattern: [9, 23] count: 755
+Pattern: [1, 6] count: 730
+Pattern: [2, 25] count: 721
+Pattern: [11, 13] count: 660
+Pattern: [21, 29] count: 650
+Pattern: [30, 36] count: 600
+Pattern: [31, 41] count: 594
+Pattern: [19, 27] count: 576
+Pattern: [16, 46] count: 564
+Pattern: [0, 9] count: 520
+Pattern: [12, 64] count: 512
+Pattern: [11, 47] count: 476
+Pattern: [3, 10] count: 474
+Pattern: [30, 39] count: 460
+Pattern: [3, 38] count: 446
+Pattern: [19, 20] count: 439
+Pattern: [7, 18] count: 422
+Pattern: [1, 8] count: 396
+Pattern: [2, 4] count: 381
+Pattern: [50, 65] count: 368
+Pattern: [30, 35] count: 360
+Pattern: [10, 58] count: 344
+Pattern: [29, 49] count: 342
+Pattern: [24, 32] count: 341
+Pattern: [21, 43] count: 319
+Pattern: [34, 47] count: 316
+Pattern: [0, 19] count: 308
+Pattern: [9, 12] count: 286
+Pattern: [30, 51] count: 282
+Pattern: [2, 45] count: 280
+Pattern: [5, 68] count: 276
+Pattern: [14, 25] count: 254
+Pattern: [24, 43] count: 247
+Pattern: [0, 18] count: 246
+Pattern: [7, 36] count: 246
+Pattern: [4, 6] count: 245
+Pattern: [34, 73] count: 224
+Pattern: [28, 78] count: 212
+Pattern: [21, 35] count: 198
+Pattern: [2, 19] count: 195
+Pattern: [51, 74] count: 194
+Pattern: [51, 75] count: 194
+Pattern: [3, 82] count: 192
+Pattern: [22, 62] count: 192
+Pattern: [59, 76] count: 192
+Pattern: [80, 86] count: 192
+Pattern: [36, 52] count: 182
+Pattern: [3, 69] count: 180
+Pattern: [3, 71] count: 180
+Pattern: [9, 25] count: 172
+Pattern: [23, 41] count: 169
+Pattern: [7, 26] count: 168
+Pattern: [22, 77] count: 168
+Pattern: [18, 61] count: 162
+Pattern: [29, 44] count: 157
+Pattern: [42, 66] count: 156
+Pattern: [42, 70] count: 156
+Pattern: [37, 38] count: 153
+Pattern: [16, 20] count: 151
+Pattern: [47, 53] count: 148
+Pattern: [22, 34] count: 142
+Pattern: [32, 49] count: 139
+Pattern: [8, 17] count: 136
+Pattern: [14, 39] count: 135
+Pattern: [43, 54] count: 135
+Pattern: [12, 41] count: 134
+Pattern: [35, 52] count: 131
+Pattern: [73, 79] count: 128
+Pattern: [3, 61] count: 126
+Pattern: [22, 63] count: 126
+Pattern: [11, 32] count: 123
+Pattern: [36, 44] count: 122
+Pattern: [0, 6] count: 120
+Pattern: [5, 45] count: 120
+Pattern: [7, 50] count: 120
+Pattern: [39, 56] count: 120
+Pattern: [29, 56] count: 117
+Pattern: [17, 77] count: 116
+Pattern: [40, 55] count: 115
+Pattern: [15, 33] count: 114
+Pattern: [17, 34] count: 114
+Pattern: [39, 57] count: 114
+Pattern: [43, 67] count: 108
+Pattern: [13, 26] count: 105
+Pattern: [1, 61] count: 104
+Pattern: [4, 29] count: 104
+Pattern: [19, 25] count: 104
+Pattern: [21, 32] count: 102
+Pattern: [36, 48] count: 102
+Pattern: [5, 12] count: 101
+Pattern: [9, 54] count: 100
+Pattern: [3, 8] count: 99
+Pattern: [11, 19] count: 96
+Pattern: [13, 85] count: 96
+Pattern: [21, 49] count: 96
+Pattern: [58, 83] count: 96
+Pattern: [78, 85] count: 96
+Pattern: [16, 44] count: 95
+Pattern: [53, 72] count: 93
+Pattern: [11, 38] count: 91
+Pattern: [51, 56] count: 90
+Pattern: [11, 18] count: 88
+Pattern: [47, 59] count: 88
+Pattern: [48, 53] count: 88
+Pattern: [16, 67] count: 87
+Pattern: [66, 69] count: 86
+Pattern: [43, 52] count: 85
+Pattern: [37, 69] count: 84
+Pattern: [37, 71] count: 84
+Pattern: [2, 38] count: 83
+Pattern: [18, 37] count: 82
+Pattern: [35, 44] count: 82
+Pattern: [43, 49] count: 81
+Pattern: [1, 65] count: 80
+Pattern: [35, 72] count: 78
+Pattern: [27, 31] count: 77
+Pattern: [23, 43] count: 75
+Pattern: [39, 41] count: 75
+Pattern: [34, 57] count: 74
+Pattern: [2, 31] count: 73
+Pattern: [36, 72] count: 73
+Pattern: [0, 28] count: 72
+Pattern: [9, 48] count: 72
+Pattern: [10, 37] count: 72
+Pattern: [13, 96] count: 72
+Pattern: [18, 59] count: 72
+Pattern: [18, 94] count: 72
+Pattern: [14, 37] count: 71
+Pattern: [66, 71] count: 70
+Pattern: [69, 70] count: 70
+Pattern: [70, 71] count: 70
+Pattern: [15, 54] count: 69
+Pattern: [16, 52] count: 69
+Pattern: [22, 26] count: 69
+Pattern: [6, 49] count: 66
+Pattern: [55, 63] count: 66
+Pattern: [7, 81] count: 64
+Pattern: [23, 87] count: 64
+Pattern: [32, 44] count: 64
+Pattern: [39, 44] count: 61
+Pattern: [1, 80] count: 60
+Pattern: [22, 33] count: 60
+Pattern: [44, 53] count: 60
+Pattern: [52, 53] count: 60
+Pattern: [32, 54] count: 59
+Pattern: [24, 55] count: 58
+Pattern: [5, 48] count: 57
+Pattern: [3, 16] count: 56
+Pattern: [3, 33] count: 56
+Pattern: [47, 79] count: 56
+Pattern: [15, 62] count: 55
+Pattern: [57, 59] count: 55
+Pattern: [9, 30] count: 52
+Pattern: [10, 11] count: 52
+Pattern: [17, 45] count: 52
+Pattern: [29, 39] count: 52
+Pattern: [32, 52] count: 52
+Pattern: [9, 26] count: 51
+Pattern: [6, 23] count: 50
+Pattern: [4, 8] count: 48
+Pattern: [7, 56] count: 48
+Pattern: [14, 88] count: 48
+Pattern: [42, 102] count: 48
+Pattern: [54, 66] count: 48
+Pattern: [54, 84] count: 48
+Pattern: [83, 92] count: 48
+Pattern: [92, 93] count: 48
+Pattern: [6, 54] count: 47
+Pattern: [12, 26] count: 46
+Pattern: [12, 13] count: 45
+Pattern: [43, 44] count: 45
+Pattern: [21, 24] count: 44
+Pattern: [26, 38] count: 44
+Pattern: [35, 48] count: 44
+Pattern: [21, 39] count: 43
+Pattern: [0, 12] count: 42
+Pattern: [21, 46] count: 42
+Pattern: [23, 32] count: 42
+Pattern: [25, 53] count: 42
+Pattern: [25, 55] count: 42
+Pattern: [36, 67] count: 42
+Pattern: [33, 55] count: 41
+Pattern: [48, 68] count: 41
+Pattern: [8, 13] count: 40
+Pattern: [10, 20] count: 40
+Pattern: [6, 18] count: 39
+Pattern: [39, 52] count: 39
+Pattern: [14, 53] count: 38
+Pattern: [32, 57] count: 38
+Pattern: [50, 72] count: 37
+Pattern: [53, 57] count: 37
+Pattern: [29, 51] count: 36
+Pattern: [64, 104] count: 36
+Pattern: [105, 106] count: 36
+Pattern: [107, 108] count: 36
+Pattern: [11, 14] count: 35
+Pattern: [2, 41] count: 34
+Pattern: [43, 48] count: 34
+Pattern: [4, 40] count: 33
+Pattern: [9, 13] count: 33
+Pattern: [39, 45] count: 33
+Pattern: [0, 10] count: 32
+Pattern: [0, 87] count: 32
+Pattern: [1, 37] count: 32
+Pattern: [1, 66] count: 32
+Pattern: [1, 70] count: 32
+Pattern: [6, 21] count: 32
+Pattern: [8, 58] count: 32
+Pattern: [14, 77] count: 32
+Pattern: [15, 49] count: 32
+Pattern: [25, 32] count: 32
+Pattern: [25, 35] count: 32
+Pattern: [91, 95] count: 32
+Pattern: [91, 97] count: 32
+Pattern: [0, 25] count: 31
+Pattern: [9, 20] count: 31
+Pattern: [21, 51] count: 31
+Pattern: [34, 76] count: 31
+Pattern: [2, 7] count: 30
+Pattern: [9, 40] count: 29
+Pattern: [9, 41] count: 29
+Pattern: [55, 62] count: 29
+Pattern: [10, 26] count: 28
+Pattern: [21, 40] count: 28
+Pattern: [32, 67] count: 28
+Pattern: [53, 74] count: 28
+Pattern: [53, 75] count: 28
+Pattern: [5, 55] count: 27
+Pattern: [16, 36] count: 27
+Pattern: [21, 41] count: 27
+Pattern: [49, 51] count: 27
+Pattern: [11, 101] count: 26
+Pattern: [12, 17] count: 26
+Pattern: [17, 52] count: 26
+Pattern: [20, 61] count: 26
+Pattern: [44, 65] count: 26
+Pattern: [50, 59] count: 26
+Pattern: [37, 44] count: 25
+Pattern: [48, 55] count: 25
+Pattern: [7, 74] count: 24
+Pattern: [7, 75] count: 24
+Pattern: [15, 48] count: 24
+Pattern: [19, 34] count: 24
+Pattern: [19, 79] count: 24
+Pattern: [23, 38] count: 24
+Pattern: [28, 45] count: 24
+Pattern: [30, 41] count: 24
+Pattern: [34, 41] count: 24
+Pattern: [35, 67] count: 24
+Pattern: [47, 49] count: 24
+Pattern: [52, 91] count: 24
+Pattern: [10, 29] count: 23
+Pattern: [61, 67] count: 23
+Pattern: [14, 17] count: 22
+Pattern: [21, 36] count: 22
+Pattern: [24, 49] count: 22
+Pattern: [57, 65] count: 22
+Pattern: [5, 22] count: 21
+Pattern: [14, 44] count: 21
+Pattern: [29, 63] count: 21
+Pattern: [46, 56] count: 21
+Pattern: [46, 57] count: 21
+Pattern: [0, 5] count: 20
+Pattern: [3, 13] count: 20
+Pattern: [6, 10] count: 20
+Pattern: [7, 48] count: 20
+Pattern: [7, 52] count: 20
+Pattern: [9, 63] count: 20
+Pattern: [12, 32] count: 20
+Pattern: [13, 30] count: 20
+Pattern: [15, 22] count: 20
+Pattern: [20, 39] count: 20
+Pattern: [20, 88] count: 20
+Pattern: [25, 39] count: 20
+Pattern: [25, 68] count: 20
+Pattern: [25, 89] count: 20
+Pattern: [32, 72] count: 20
+Pattern: [37, 42] count: 20
+Pattern: [44, 61] count: 20
+Pattern: [52, 61] count: 20
+Pattern: [55, 73] count: 20
+Pattern: [68, 73] count: 20
+Pattern: [6, 40] count: 19
+Pattern: [9, 52] count: 19
+Pattern: [14, 52] count: 19
+Pattern: [44, 46] count: 19
+Pattern: [48, 59] count: 19
+Pattern: [50, 76] count: 19
+Pattern: [7, 72] count: 18
+Pattern: [9, 33] count: 18
+Pattern: [10, 27] count: 18
+Pattern: [11, 36] count: 18
+Pattern: [16, 21] count: 18
+Pattern: [16, 57] count: 18
+Pattern: [19, 82] count: 18
+Pattern: [21, 28] count: 18
+Pattern: [29, 62] count: 18
+Pattern: [32, 45] count: 18
+Pattern: [39, 46] count: 18
+Pattern: [44, 59] count: 18
+Pattern: [49, 66] count: 18
+Pattern: [49, 70] count: 18
+Pattern: [56, 87] count: 18
+Pattern: [2, 39] count: 17
+Pattern: [2, 50] count: 17
+Pattern: [9, 44] count: 17
+Pattern: [9, 62] count: 17
+Pattern: [11, 35] count: 17
+Pattern: [15, 24] count: 17
+Pattern: [28, 49] count: 17
+Pattern: [31, 49] count: 17
+Pattern: [36, 45] count: 17
+Pattern: [0, 43] count: 16
+Pattern: [1, 29] count: 16
+Pattern: [6, 17] count: 16
+Pattern: [12, 24] count: 16
+Pattern: [14, 58] count: 16
+Pattern: [15, 88] count: 16
+Pattern: [17, 56] count: 16
+Pattern: [20, 89] count: 16
+Pattern: [36, 50] count: 16
+Pattern: [48, 61] count: 16
+Pattern: [48, 65] count: 16
+Pattern: [56, 68] count: 16
+Pattern: [78, 95] count: 16
+Pattern: [3, 11] count: 15
+Pattern: [4, 32] count: 15
+Pattern: [11, 76] count: 15
+Pattern: [15, 23] count: 15
+Pattern: [20, 43] count: 15
+Pattern: [29, 33] count: 15
+Pattern: [32, 74] count: 15
+Pattern: [32, 75] count: 15
+Pattern: [35, 45] count: 15
+Pattern: [0, 38] count: 14
+Pattern: [5, 7] count: 14
+Pattern: [5, 28] count: 14
+Pattern: [12, 48] count: 14
+Pattern: [14, 31] count: 14
+Pattern: [16, 34] count: 14
+Pattern: [17, 25] count: 14
+Pattern: [17, 74] count: 14
+Pattern: [17, 75] count: 14
+Pattern: [25, 49] count: 14
+Pattern: [30, 87] count: 14
+Pattern: [34, 37] count: 14
+Pattern: [34, 66] count: 14
+Pattern: [34, 70] count: 14
+Pattern: [37, 49] count: 14
+Pattern: [39, 67] count: 14
+Pattern: [41, 49] count: 14
+Pattern: [45, 53] count: 14
+Pattern: [48, 80] count: 14
+Pattern: [3, 37] count: 13
+Pattern: [4, 111] count: 13
+Final codetable size: 442
+Final Compression size: 580228.0
+Compression ratio: 9.704003703465846%
+Pattern from sa:79
+Elapsed time: 2.633 seconds
+Memory usage: 59.344482421875 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 6
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1, 4, 8, 15, 23, 26] count: 704
+Pattern: [1, 2, 4, 5, 18] count: 2040
+Pattern: [5, 7, 9, 17, 20] count: 936
+Pattern: [1, 4, 10, 13, 25] count: 708
+Pattern: [2, 6, 24, 28, 32] count: 492
+Pattern: [0, 2, 5, 22, 45] count: 384
+Pattern: [8, 17, 19, 29, 51] count: 328
+Pattern: [7, 8, 9, 17, 32] count: 208
+Pattern: [6, 12, 14, 20, 26] count: 96
+Pattern: [0, 18, 28, 31, 73] count: 72
+Pattern: [0, 2, 3, 16] count: 3656
+Pattern: [0, 3, 7, 21] count: 1696
+Pattern: [4, 6, 7, 15] count: 928
+Pattern: [0, 8, 27, 37] count: 864
+Pattern: [1, 28, 31, 40] count: 864
+Pattern: [4, 5, 9, 39] count: 672
+Pattern: [2, 5, 19, 58] count: 600
+Pattern: [2, 7, 25, 27] count: 600
+Pattern: [1, 7, 18, 45] count: 560
+Pattern: [3, 8, 10, 21] count: 520
+Pattern: [5, 14, 30, 35] count: 432
+Pattern: [6, 13, 14, 44] count: 340
+Pattern: [2, 17, 34, 39] count: 308
+Pattern: [2, 26, 31, 49] count: 288
+Pattern: [6, 9, 26, 54] count: 288
+Pattern: [9, 18, 50, 53] count: 256
+Pattern: [3, 22, 30, 37] count: 252
+Pattern: [7, 17, 25, 28] count: 208
+Pattern: [0, 25, 36, 53] count: 176
+Pattern: [11, 21, 23, 32] count: 168
+Pattern: [13, 21, 22, 39] count: 154
+Pattern: [9, 25, 42, 59] count: 144
+Pattern: [10, 21, 23, 35] count: 144
+Pattern: [8, 14, 17, 39] count: 128
+Pattern: [0, 1, 6] count: 4984
+Pattern: [0, 3, 11] count: 3896
+Pattern: [2, 12, 18] count: 3216
+Pattern: [1, 4, 11] count: 3128
+Pattern: [5, 6, 7] count: 3064
+Pattern: [2, 9, 10] count: 2592
+Pattern: [3, 9, 11] count: 2592
+Pattern: [9, 12, 18] count: 2496
+Pattern: [3, 10, 12] count: 2336
+Pattern: [1, 7, 13] count: 2280
+Pattern: [2, 10, 20] count: 2128
+Pattern: [3, 4, 18] count: 2096
+Pattern: [0, 5, 30] count: 2040
+Pattern: [6, 18, 20] count: 2032
+Pattern: [2, 12, 17] count: 1900
+Pattern: [2, 12, 23] count: 1880
+Pattern: [3, 13, 24] count: 1808
+Pattern: [1, 9, 32] count: 1696
+Pattern: [1, 14, 22] count: 1370
+Pattern: [1, 13, 38] count: 1368
+Pattern: [1, 19, 33] count: 1296
+Pattern: [1, 11, 28] count: 1288
+Pattern: [0, 27, 32] count: 1120
+Pattern: [1, 15, 49] count: 1008
+Pattern: [5, 12, 41] count: 992
+Pattern: [8, 13, 23] count: 944
+Pattern: [8, 9, 43] count: 864
+Pattern: [9, 14, 36] count: 864
+Pattern: [10, 24, 25] count: 864
+Pattern: [4, 33, 38] count: 720
+Pattern: [7, 14, 15] count: 672
+Pattern: [15, 21, 37] count: 648
+Pattern: [5, 14, 47] count: 640
+Pattern: [4, 19, 56] count: 632
+Pattern: [12, 14, 61] count: 576
+Pattern: [6, 17, 34] count: 516
+Pattern: [18, 32, 35] count: 488
+Pattern: [8, 21, 32] count: 472
+Pattern: [8, 19, 57] count: 444
+Pattern: [2, 38, 49] count: 432
+Pattern: [19, 25, 27] count: 432
+Pattern: [11, 24, 30] count: 384
+Pattern: [6, 14, 50] count: 352
+Pattern: [0, 7, 51] count: 304
+Pattern: [8, 14, 28] count: 304
+Pattern: [5, 36, 43] count: 288
+Pattern: [4, 17, 57] count: 270
+Pattern: [3, 14, 73] count: 256
+Pattern: [9, 39, 44] count: 240
+Pattern: [7, 26, 77] count: 224
+Pattern: [7, 21, 29] count: 216
+Pattern: [21, 42, 69] count: 216
+Pattern: [11, 26, 87] count: 192
+Pattern: [7, 19, 44] count: 184
+Pattern: [6, 21, 55] count: 181
+Pattern: [21, 22, 52] count: 156
+Pattern: [29, 37, 71] count: 144
+Pattern: [14, 25, 29] count: 72
+Pattern: [34, 48, 68] count: 70
+Pattern: [7, 56, 75] count: 64
+Pattern: [28, 40] count: 1407
+Pattern: [5, 31] count: 1296
+Pattern: [15, 29] count: 1203
+Pattern: [42, 46] count: 1107
+Pattern: [8, 34] count: 1086
+Pattern: [2, 27] count: 991
+Pattern: [4, 23] count: 938
+Pattern: [12, 14] count: 929
+Pattern: [12, 19] count: 756
+Pattern: [9, 22] count: 662
+Pattern: [0, 26] count: 626
+Pattern: [17, 21] count: 592
+Pattern: [6, 18] count: 589
+Pattern: [30, 41] count: 563
+Pattern: [1, 7] count: 528
+Pattern: [10, 11] count: 478
+Pattern: [3, 6] count: 468
+Pattern: [47, 50] count: 448
+Pattern: [21, 22] count: 431
+Pattern: [13, 30] count: 420
+Pattern: [9, 17] count: 409
+Pattern: [5, 35] count: 378
+Pattern: [8, 19] count: 374
+Pattern: [37, 38] count: 365
+Pattern: [18, 45] count: 354
+Pattern: [7, 23] count: 336
+Pattern: [0, 32] count: 330
+Pattern: [13, 24] count: 330
+Pattern: [50, 76] count: 320
+Pattern: [15, 33] count: 314
+Pattern: [1, 36] count: 313
+Pattern: [14, 19] count: 306
+Pattern: [29, 33] count: 290
+Pattern: [35, 52] count: 282
+Pattern: [8, 54] count: 281
+Pattern: [0, 27] count: 279
+Pattern: [4, 44] count: 273
+Pattern: [9, 55] count: 267
+Pattern: [64, 74] count: 256
+Pattern: [2, 17] count: 244
+Pattern: [59, 65] count: 244
+Pattern: [5, 36] count: 237
+Pattern: [28, 48] count: 233
+Pattern: [26, 81] count: 232
+Pattern: [34, 53] count: 232
+Pattern: [7, 24] count: 228
+Pattern: [39, 41] count: 222
+Pattern: [0, 16] count: 212
+Pattern: [6, 25] count: 207
+Pattern: [7, 16] count: 206
+Pattern: [35, 48] count: 206
+Pattern: [37, 43] count: 198
+Pattern: [20, 42] count: 192
+Pattern: [64, 75] count: 192
+Pattern: [78, 83] count: 192
+Pattern: [80, 86] count: 192
+Pattern: [82, 84] count: 192
+Pattern: [1, 44] count: 185
+Pattern: [36, 52] count: 185
+Pattern: [23, 45] count: 184
+Pattern: [31, 32] count: 180
+Pattern: [22, 51] count: 176
+Pattern: [12, 18] count: 174
+Pattern: [38, 60] count: 174
+Pattern: [17, 39] count: 167
+Pattern: [4, 56] count: 162
+Pattern: [26, 54] count: 162
+Pattern: [13, 21] count: 154
+Pattern: [10, 60] count: 152
+Pattern: [22, 39] count: 151
+Pattern: [5, 11] count: 148
+Pattern: [21, 41] count: 148
+Pattern: [68, 79] count: 146
+Pattern: [11, 38] count: 144
+Pattern: [66, 71] count: 144
+Pattern: [70, 71] count: 144
+Pattern: [36, 48] count: 141
+Pattern: [35, 72] count: 138
+Pattern: [1, 56] count: 135
+Pattern: [0, 51] count: 128
+Pattern: [10, 17] count: 128
+Pattern: [31, 43] count: 126
+Pattern: [15, 62] count: 125
+Pattern: [15, 63] count: 125
+Pattern: [18, 58] count: 120
+Pattern: [25, 53] count: 120
+Pattern: [12, 47] count: 117
+Pattern: [27, 55] count: 116
+Pattern: [35, 67] count: 114
+Pattern: [41, 51] count: 108
+Pattern: [32, 37] count: 106
+Pattern: [4, 5] count: 105
+Pattern: [26, 49] count: 100
+Pattern: [36, 72] count: 98
+Pattern: [66, 69] count: 97
+Pattern: [11, 24] count: 96
+Pattern: [13, 85] count: 96
+Pattern: [78, 85] count: 96
+Pattern: [22, 32] count: 95
+Pattern: [29, 62] count: 93
+Pattern: [29, 63] count: 93
+Pattern: [4, 37] count: 91
+Pattern: [5, 12] count: 90
+Pattern: [35, 44] count: 90
+Pattern: [1, 34] count: 89
+Pattern: [17, 25] count: 87
+Pattern: [10, 48] count: 85
+Pattern: [36, 67] count: 85
+Pattern: [57, 65] count: 84
+Pattern: [29, 30] count: 82
+Pattern: [38, 54] count: 82
+Pattern: [17, 37] count: 81
+Pattern: [69, 70] count: 81
+Pattern: [14, 20] count: 80
+Pattern: [28, 94] count: 80
+Pattern: [34, 68] count: 80
+Pattern: [7, 43] count: 78
+Pattern: [6, 53] count: 76
+Pattern: [13, 39] count: 75
+Pattern: [3, 21] count: 72
+Pattern: [6, 33] count: 72
+Pattern: [9, 41] count: 72
+Pattern: [13, 51] count: 72
+Pattern: [15, 19] count: 72
+Pattern: [57, 59] count: 72
+Pattern: [20, 22] count: 71
+Pattern: [36, 44] count: 71
+Pattern: [1, 6] count: 68
+Pattern: [7, 12] count: 68
+Pattern: [8, 9] count: 66
+Pattern: [0, 2] count: 64
+Pattern: [17, 27] count: 64
+Pattern: [58, 92] count: 64
+Pattern: [23, 30] count: 63
+Pattern: [46, 66] count: 63
+Pattern: [46, 70] count: 63
+Pattern: [17, 79] count: 62
+Pattern: [4, 57] count: 61
+Pattern: [6, 62] count: 60
+Pattern: [6, 63] count: 60
+Pattern: [13, 32] count: 60
+Pattern: [25, 38] count: 60
+Pattern: [22, 27] count: 59
+Pattern: [1, 4] count: 58
+Pattern: [23, 39] count: 57
+Pattern: [12, 93] count: 56
+Pattern: [23, 41] count: 56
+Pattern: [1, 35] count: 55
+Pattern: [5, 45] count: 54
+Pattern: [8, 44] count: 54
+Pattern: [8, 56] count: 54
+Pattern: [19, 32] count: 54
+Pattern: [27, 31] count: 54
+Pattern: [53, 77] count: 54
+Pattern: [3, 24] count: 53
+Pattern: [37, 54] count: 53
+Pattern: [7, 27] count: 52
+Pattern: [9, 39] count: 52
+Pattern: [12, 52] count: 52
+Pattern: [1, 33] count: 51
+Pattern: [60, 61] count: 51
+Pattern: [2, 32] count: 50
+Pattern: [10, 66] count: 50
+Pattern: [35, 56] count: 50
+Pattern: [19, 42] count: 48
+Pattern: [27, 45] count: 48
+Pattern: [30, 47] count: 48
+Pattern: [36, 56] count: 48
+Pattern: [49, 74] count: 48
+Pattern: [49, 75] count: 48
+Pattern: [77, 88] count: 48
+Pattern: [1, 23] count: 46
+Pattern: [12, 53] count: 46
+Pattern: [14, 48] count: 46
+Pattern: [54, 62] count: 45
+Pattern: [54, 63] count: 45
+Pattern: [0, 64] count: 44
+Pattern: [7, 13] count: 44
+Pattern: [10, 67] count: 44
+Pattern: [17, 51] count: 44
+Pattern: [34, 88] count: 44
+Pattern: [78, 80] count: 44
+Pattern: [1, 43] count: 43
+Pattern: [11, 27] count: 42
+Pattern: [12, 41] count: 42
+Pattern: [25, 39] count: 42
+Pattern: [37, 46] count: 42
+Pattern: [44, 59] count: 42
+Pattern: [6, 20] count: 41
+Pattern: [30, 48] count: 41
+Pattern: [3, 11] count: 40
+Pattern: [6, 21] count: 40
+Pattern: [10, 44] count: 40
+Pattern: [13, 18] count: 40
+Pattern: [14, 15] count: 40
+Pattern: [38, 43] count: 40
+Pattern: [2, 7] count: 39
+Pattern: [24, 55] count: 39
+Pattern: [8, 57] count: 38
+Pattern: [32, 48] count: 38
+Pattern: [1, 26] count: 37
+Pattern: [2, 69] count: 36
+Pattern: [2, 71] count: 36
+Pattern: [5, 104] count: 36
+Pattern: [7, 65] count: 36
+Pattern: [11, 96] count: 36
+Pattern: [12, 39] count: 36
+Pattern: [22, 25] count: 36
+Pattern: [29, 66] count: 36
+Pattern: [29, 70] count: 36
+Pattern: [53, 65] count: 36
+Pattern: [59, 72] count: 36
+Pattern: [105, 106] count: 36
+Pattern: [107, 108] count: 36
+Pattern: [19, 66] count: 35
+Pattern: [37, 49] count: 35
+Pattern: [37, 69] count: 35
+Pattern: [19, 70] count: 34
+Pattern: [32, 67] count: 34
+Pattern: [2, 31] count: 33
+Pattern: [27, 37] count: 33
+Pattern: [0, 53] count: 32
+Pattern: [11, 42] count: 32
+Pattern: [18, 80] count: 32
+Pattern: [87, 89] count: 32
+Pattern: [90, 95] count: 32
+Pattern: [90, 97] count: 32
+Pattern: [91, 95] count: 32
+Pattern: [91, 97] count: 32
+Pattern: [30, 52] count: 31
+Pattern: [4, 22] count: 30
+Pattern: [8, 32] count: 30
+Pattern: [9, 32] count: 30
+Pattern: [9, 52] count: 30
+Pattern: [18, 41] count: 30
+Pattern: [29, 37] count: 30
+Pattern: [40, 43] count: 30
+Pattern: [41, 48] count: 30
+Pattern: [10, 37] count: 29
+Pattern: [14, 35] count: 29
+Pattern: [14, 36] count: 29
+Pattern: [38, 67] count: 29
+Pattern: [0, 7] count: 28
+Pattern: [1, 45] count: 28
+Pattern: [2, 34] count: 28
+Pattern: [9, 48] count: 27
+Pattern: [22, 24] count: 27
+Pattern: [60, 67] count: 27
+Pattern: [17, 23] count: 26
+Pattern: [30, 39] count: 26
+Pattern: [32, 44] count: 26
+Pattern: [24, 33] count: 25
+Pattern: [32, 52] count: 25
+Pattern: [4, 7] count: 24
+Pattern: [13, 102] count: 24
+Pattern: [15, 66] count: 24
+Pattern: [15, 70] count: 24
+Pattern: [18, 109] count: 24
+Pattern: [19, 49] count: 24
+Pattern: [19, 50] count: 24
+Pattern: [25, 51] count: 24
+Pattern: [25, 55] count: 24
+Pattern: [27, 73] count: 24
+Pattern: [27, 92] count: 24
+Pattern: [30, 51] count: 24
+Pattern: [30, 53] count: 24
+Pattern: [34, 74] count: 24
+Pattern: [34, 75] count: 24
+Pattern: [52, 90] count: 24
+Pattern: [52, 91] count: 24
+Pattern: [74, 101] count: 24
+Pattern: [75, 101] count: 24
+Pattern: [21, 55] count: 23
+Pattern: [26, 32] count: 23
+Pattern: [45, 47] count: 23
+Pattern: [45, 76] count: 23
+Pattern: [61, 67] count: 23
+Pattern: [6, 14] count: 22
+Pattern: [19, 29] count: 22
+Pattern: [23, 43] count: 22
+Pattern: [24, 62] count: 22
+Pattern: [24, 63] count: 22
+Pattern: [28, 95] count: 22
+Pattern: [38, 48] count: 22
+Pattern: [43, 48] count: 22
+Pattern: [52, 59] count: 22
+Pattern: [6, 23] count: 21
+Pattern: [6, 24] count: 21
+Pattern: [13, 22] count: 21
+Pattern: [23, 32] count: 21
+Pattern: [34, 39] count: 21
+Pattern: [49, 62] count: 21
+Pattern: [49, 63] count: 21
+Pattern: [2, 77] count: 20
+Pattern: [7, 52] count: 20
+Pattern: [7, 72] count: 20
+Pattern: [13, 17] count: 20
+Pattern: [13, 50] count: 20
+Pattern: [15, 51] count: 20
+Pattern: [23, 37] count: 20
+Pattern: [14, 44] count: 19
+Pattern: [21, 23] count: 19
+Pattern: [41, 67] count: 19
+Pattern: [3, 13] count: 18
+Pattern: [4, 38] count: 18
+Pattern: [10, 52] count: 18
+Pattern: [10, 58] count: 18
+Pattern: [13, 55] count: 18
+Pattern: [19, 96] count: 18
+Pattern: [20, 32] count: 18
+Pattern: [25, 68] count: 18
+Pattern: [28, 56] count: 18
+Pattern: [31, 55] count: 18
+Pattern: [33, 49] count: 18
+Pattern: [33, 54] count: 18
+Pattern: [34, 45] count: 18
+Pattern: [6, 10] count: 17
+Pattern: [9, 67] count: 17
+Pattern: [21, 68] count: 17
+Pattern: [45, 53] count: 17
+Pattern: [1, 12] count: 16
+Pattern: [1, 19] count: 16
+Pattern: [3, 25] count: 16
+Pattern: [6, 79] count: 16
+Pattern: [7, 57] count: 16
+Pattern: [16, 87] count: 16
+Pattern: [20, 61] count: 16
+Pattern: [20, 93] count: 16
+Pattern: [22, 60] count: 16
+Pattern: [24, 94] count: 16
+Pattern: [39, 77] count: 16
+Pattern: [43, 60] count: 16
+Pattern: [50, 77] count: 16
+Pattern: [80, 111] count: 16
+Pattern: [2, 22] count: 15
+Pattern: [3, 40] count: 15
+Pattern: [4, 55] count: 15
+Pattern: [8, 23] count: 15
+Pattern: [8, 40] count: 15
+Pattern: [11, 32] count: 15
+Pattern: [17, 31] count: 15
+Pattern: [22, 38] count: 15
+Pattern: [31, 33] count: 15
+Pattern: [31, 62] count: 15
+Pattern: [31, 63] count: 15
+Pattern: [4, 17] count: 14
+Pattern: [4, 61] count: 14
+Pattern: [6, 89] count: 14
+Final codetable size: 442
+Final Compression size: 681614.0
+Compression ratio: 11.399630456189925%
+Pattern from sa:94
+Elapsed time: 3.369 seconds
+Memory usage: 71.52490997314453 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 7
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [3, 4, 15, 16, 29] count: 1296
+Pattern: [5, 7, 21, 22, 23] count: 432
+Pattern: [2, 8, 22, 33, 37] count: 312
+Pattern: [0, 2, 18, 19, 24] count: 280
+Pattern: [0, 10, 21, 24, 29] count: 232
+Pattern: [0, 12, 18, 29, 45] count: 144
+Pattern: [2, 9, 30, 36, 43] count: 144
+Pattern: [1, 2, 4, 42, 53] count: 112
+Pattern: [12, 14, 18, 49, 58] count: 40
+Pattern: [3, 4, 8, 13] count: 2624
+Pattern: [0, 1, 5, 41] count: 1640
+Pattern: [3, 11, 12, 14] count: 1472
+Pattern: [5, 9, 10, 18] count: 1344
+Pattern: [2, 9, 14, 22] count: 1056
+Pattern: [1, 3, 12, 32] count: 1000
+Pattern: [6, 14, 18, 35] count: 960
+Pattern: [1, 13, 16, 19] count: 880
+Pattern: [3, 10, 16, 17] count: 688
+Pattern: [15, 16, 33, 51] count: 648
+Pattern: [0, 15, 17, 25] count: 592
+Pattern: [4, 7, 23, 61] count: 576
+Pattern: [1, 14, 30, 35] count: 552
+Pattern: [0, 11, 17, 50] count: 544
+Pattern: [1, 17, 19, 30] count: 512
+Pattern: [2, 12, 23, 48] count: 484
+Pattern: [6, 9, 11, 45] count: 480
+Pattern: [9, 11, 21, 28] count: 432
+Pattern: [0, 1, 3, 76] count: 384
+Pattern: [1, 9, 17, 52] count: 328
+Pattern: [7, 9, 17, 44] count: 304
+Pattern: [6, 7, 36, 47] count: 288
+Pattern: [9, 23, 27, 38] count: 288
+Pattern: [1, 17, 23, 67] count: 270
+Pattern: [10, 11, 12, 26] count: 240
+Pattern: [7, 9, 23, 25] count: 192
+Pattern: [16, 19, 38, 49] count: 144
+Pattern: [17, 21, 37, 40] count: 144
+Pattern: [10, 17, 30, 59] count: 100
+Pattern: [2, 21, 32, 50] count: 64
+Pattern: [0, 2, 14] count: 3776
+Pattern: [1, 2, 16] count: 3776
+Pattern: [0, 1, 17] count: 3608
+Pattern: [2, 6, 10] count: 3304
+Pattern: [0, 4, 20] count: 3272
+Pattern: [0, 7, 18] count: 2872
+Pattern: [1, 2, 24] count: 2768
+Pattern: [3, 4, 19] count: 2720
+Pattern: [0, 2, 27] count: 2288
+Pattern: [0, 4, 28] count: 2036
+Pattern: [7, 9, 20] count: 1968
+Pattern: [1, 6, 22] count: 1870
+Pattern: [0, 15, 28] count: 1812
+Pattern: [4, 5, 11] count: 1768
+Pattern: [2, 7, 22] count: 1750
+Pattern: [1, 5, 13] count: 1744
+Pattern: [1, 7, 36] count: 1584
+Pattern: [1, 11, 26] count: 1560
+Pattern: [15, 19, 29] count: 1364
+Pattern: [5, 31, 46] count: 1296
+Pattern: [2, 11, 47] count: 1248
+Pattern: [2, 15, 32] count: 1014
+Pattern: [21, 26, 28] count: 916
+Pattern: [3, 20, 30] count: 912
+Pattern: [6, 9, 27] count: 864
+Pattern: [26, 28, 31] count: 864
+Pattern: [5, 14, 34] count: 820
+Pattern: [7, 24, 25] count: 720
+Pattern: [9, 13, 33] count: 720
+Pattern: [6, 14, 53] count: 648
+Pattern: [6, 20, 43] count: 624
+Pattern: [15, 22, 27] count: 584
+Pattern: [16, 23, 60] count: 576
+Pattern: [29, 31, 34] count: 504
+Pattern: [3, 38, 42] count: 432
+Pattern: [23, 31, 42] count: 432
+Pattern: [31, 46, 66] count: 432
+Pattern: [6, 32, 38] count: 408
+Pattern: [24, 25, 34] count: 384
+Pattern: [8, 12, 44] count: 324
+Pattern: [11, 19, 44] count: 308
+Pattern: [7, 22, 40] count: 288
+Pattern: [9, 15, 16] count: 288
+Pattern: [16, 37, 44] count: 288
+Pattern: [23, 26, 37] count: 288
+Pattern: [3, 14, 81] count: 256
+Pattern: [0, 19, 55] count: 252
+Pattern: [2, 39, 58] count: 152
+Pattern: [18, 20, 25] count: 148
+Pattern: [11, 39, 52] count: 140
+Pattern: [1, 7, 93] count: 96
+Pattern: [26, 28, 48] count: 92
+Pattern: [27, 40] count: 1032
+Pattern: [2, 8] count: 964
+Pattern: [6, 18] count: 954
+Pattern: [7, 35] count: 910
+Pattern: [33, 42] count: 816
+Pattern: [10, 26] count: 803
+Pattern: [19, 21] count: 771
+Pattern: [9, 16] count: 749
+Pattern: [3, 12] count: 742
+Pattern: [45, 50] count: 668
+Pattern: [0, 24] count: 614
+Pattern: [9, 29] count: 558
+Pattern: [5, 64] count: 548
+Pattern: [4, 23] count: 544
+Pattern: [7, 36] count: 526
+Pattern: [10, 25] count: 490
+Pattern: [21, 39] count: 464
+Pattern: [30, 39] count: 464
+Pattern: [0, 22] count: 451
+Pattern: [38, 43] count: 446
+Pattern: [12, 27] count: 424
+Pattern: [7, 28] count: 404
+Pattern: [13, 20] count: 384
+Pattern: [1, 19] count: 349
+Pattern: [8, 11] count: 324
+Pattern: [15, 29] count: 324
+Pattern: [34, 53] count: 320
+Pattern: [18, 21] count: 312
+Pattern: [25, 54] count: 312
+Pattern: [28, 31] count: 303
+Pattern: [2, 16] count: 296
+Pattern: [3, 14] count: 292
+Pattern: [5, 32] count: 292
+Pattern: [37, 49] count: 292
+Pattern: [2, 24] count: 288
+Pattern: [17, 52] count: 268
+Pattern: [10, 20] count: 266
+Pattern: [31, 46] count: 248
+Pattern: [34, 51] count: 248
+Pattern: [4, 22] count: 238
+Pattern: [59, 65] count: 226
+Pattern: [4, 17] count: 225
+Pattern: [3, 11] count: 224
+Pattern: [5, 13] count: 224
+Pattern: [1, 47] count: 222
+Pattern: [40, 43] count: 219
+Pattern: [29, 42] count: 216
+Pattern: [31, 55] count: 210
+Pattern: [7, 55] count: 204
+Pattern: [6, 15] count: 192
+Pattern: [50, 77] count: 192
+Pattern: [58, 78] count: 192
+Pattern: [80, 86] count: 192
+Pattern: [82, 84] count: 192
+Pattern: [37, 54] count: 177
+Pattern: [68, 73] count: 176
+Pattern: [26, 33] count: 168
+Pattern: [26, 62] count: 168
+Pattern: [26, 63] count: 168
+Pattern: [53, 58] count: 168
+Pattern: [23, 87] count: 162
+Pattern: [34, 57] count: 161
+Pattern: [8, 30] count: 159
+Pattern: [14, 36] count: 156
+Pattern: [16, 37] count: 156
+Pattern: [17, 56] count: 156
+Pattern: [12, 39] count: 148
+Pattern: [21, 32] count: 145
+Pattern: [1, 38] count: 144
+Pattern: [14, 85] count: 144
+Pattern: [44, 70] count: 144
+Pattern: [17, 48] count: 142
+Pattern: [11, 76] count: 140
+Pattern: [1, 10] count: 139
+Pattern: [35, 52] count: 139
+Pattern: [35, 44] count: 131
+Pattern: [51, 79] count: 128
+Pattern: [53, 79] count: 128
+Pattern: [8, 78] count: 126
+Pattern: [10, 47] count: 124
+Pattern: [11, 25] count: 123
+Pattern: [0, 39] count: 122
+Pattern: [30, 51] count: 122
+Pattern: [4, 9] count: 121
+Pattern: [49, 69] count: 120
+Pattern: [49, 71] count: 120
+Pattern: [57, 70] count: 118
+Pattern: [6, 19] count: 116
+Pattern: [56, 70] count: 116
+Pattern: [6, 59] count: 115
+Pattern: [36, 52] count: 112
+Pattern: [21, 43] count: 111
+Pattern: [20, 48] count: 109
+Pattern: [18, 30] count: 108
+Pattern: [36, 44] count: 107
+Pattern: [2, 17] count: 106
+Pattern: [5, 18] count: 104
+Pattern: [15, 81] count: 104
+Pattern: [16, 60] count: 103
+Pattern: [21, 51] count: 103
+Pattern: [2, 23] count: 102
+Pattern: [7, 15] count: 101
+Pattern: [22, 30] count: 96
+Pattern: [25, 74] count: 96
+Pattern: [25, 75] count: 96
+Pattern: [83, 92] count: 96
+Pattern: [6, 13] count: 94
+Pattern: [35, 67] count: 93
+Pattern: [46, 69] count: 92
+Pattern: [46, 71] count: 92
+Pattern: [44, 66] count: 88
+Pattern: [4, 32] count: 86
+Pattern: [34, 72] count: 86
+Pattern: [0, 40] count: 84
+Pattern: [2, 12] count: 84
+Pattern: [3, 77] count: 84
+Pattern: [0, 45] count: 80
+Pattern: [2, 74] count: 80
+Pattern: [2, 75] count: 80
+Pattern: [37, 38] count: 80
+Pattern: [56, 66] count: 80
+Pattern: [21, 22] count: 78
+Pattern: [10, 11] count: 75
+Pattern: [36, 67] count: 75
+Pattern: [19, 56] count: 73
+Pattern: [13, 61] count: 72
+Pattern: [33, 43] count: 71
+Pattern: [43, 62] count: 71
+Pattern: [43, 63] count: 71
+Pattern: [12, 43] count: 70
+Pattern: [42, 44] count: 70
+Pattern: [42, 57] count: 70
+Pattern: [57, 66] count: 70
+Pattern: [9, 31] count: 69
+Pattern: [20, 22] count: 69
+Pattern: [24, 65] count: 68
+Pattern: [6, 28] count: 67
+Pattern: [17, 72] count: 67
+Pattern: [8, 45] count: 64
+Pattern: [34, 69] count: 64
+Pattern: [34, 71] count: 64
+Pattern: [9, 11] count: 62
+Pattern: [48, 68] count: 62
+Pattern: [1, 9] count: 61
+Pattern: [17, 30] count: 61
+Pattern: [31, 49] count: 60
+Pattern: [31, 54] count: 60
+Pattern: [56, 68] count: 60
+Pattern: [0, 2] count: 58
+Pattern: [1, 73] count: 58
+Pattern: [7, 10] count: 57
+Pattern: [22, 33] count: 57
+Pattern: [3, 7] count: 56
+Pattern: [23, 80] count: 56
+Pattern: [28, 55] count: 55
+Pattern: [1, 2] count: 54
+Pattern: [11, 40] count: 54
+Pattern: [15, 19] count: 53
+Pattern: [17, 21] count: 53
+Pattern: [0, 8] count: 52
+Pattern: [6, 24] count: 52
+Pattern: [12, 18] count: 52
+Pattern: [13, 23] count: 52
+Pattern: [4, 39] count: 51
+Pattern: [24, 29] count: 51
+Pattern: [10, 27] count: 50
+Pattern: [26, 45] count: 50
+Pattern: [10, 32] count: 49
+Pattern: [23, 38] count: 49
+Pattern: [49, 51] count: 49
+Pattern: [7, 85] count: 48
+Pattern: [20, 32] count: 48
+Pattern: [21, 40] count: 48
+Pattern: [23, 69] count: 48
+Pattern: [23, 71] count: 48
+Pattern: [30, 76] count: 48
+Pattern: [52, 68] count: 48
+Pattern: [54, 66] count: 48
+Pattern: [58, 96] count: 48
+Pattern: [59, 102] count: 48
+Pattern: [83, 94] count: 48
+Pattern: [60, 61] count: 47
+Pattern: [16, 44] count: 46
+Pattern: [14, 37] count: 45
+Pattern: [22, 39] count: 45
+Pattern: [33, 49] count: 45
+Pattern: [34, 50] count: 45
+Pattern: [35, 72] count: 45
+Pattern: [36, 72] count: 44
+Pattern: [53, 65] count: 44
+Pattern: [37, 56] count: 43
+Pattern: [49, 62] count: 43
+Pattern: [49, 63] count: 43
+Pattern: [0, 54] count: 42
+Pattern: [1, 29] count: 42
+Pattern: [9, 21] count: 42
+Pattern: [9, 47] count: 42
+Pattern: [17, 33] count: 42
+Pattern: [27, 28] count: 42
+Pattern: [37, 57] count: 42
+Pattern: [35, 57] count: 41
+Pattern: [48, 88] count: 41
+Pattern: [20, 38] count: 40
+Pattern: [36, 57] count: 40
+Pattern: [18, 60] count: 39
+Pattern: [30, 32] count: 39
+Pattern: [11, 16] count: 38
+Pattern: [12, 24] count: 38
+Pattern: [15, 16] count: 38
+Pattern: [37, 61] count: 37
+Pattern: [37, 67] count: 37
+Pattern: [7, 27] count: 36
+Pattern: [11, 21] count: 36
+Pattern: [19, 48] count: 36
+Pattern: [27, 55] count: 36
+Pattern: [104, 105] count: 36
+Pattern: [106, 107] count: 36
+Pattern: [2, 38] count: 35
+Pattern: [8, 41] count: 35
+Pattern: [10, 21] count: 35
+Pattern: [19, 52] count: 34
+Pattern: [20, 47] count: 34
+Pattern: [1, 24] count: 33
+Pattern: [11, 14] count: 32
+Pattern: [12, 45] count: 32
+Pattern: [19, 73] count: 32
+Pattern: [34, 65] count: 32
+Pattern: [45, 76] count: 32
+Pattern: [68, 72] count: 32
+Pattern: [90, 95] count: 32
+Pattern: [90, 97] count: 32
+Pattern: [91, 95] count: 32
+Pattern: [91, 97] count: 32
+Pattern: [0, 49] count: 30
+Pattern: [1, 108] count: 30
+Pattern: [3, 4] count: 30
+Pattern: [5, 94] count: 30
+Pattern: [32, 38] count: 30
+Pattern: [33, 55] count: 30
+Pattern: [39, 65] count: 30
+Pattern: [54, 62] count: 30
+Pattern: [54, 63] count: 30
+Pattern: [15, 24] count: 29
+Pattern: [4, 13] count: 28
+Pattern: [7, 16] count: 28
+Pattern: [17, 39] count: 28
+Pattern: [55, 62] count: 28
+Pattern: [55, 63] count: 28
+Pattern: [14, 67] count: 27
+Pattern: [17, 19] count: 27
+Pattern: [33, 54] count: 27
+Pattern: [34, 35] count: 27
+Pattern: [34, 36] count: 27
+Pattern: [30, 47] count: 26
+Pattern: [52, 53] count: 26
+Pattern: [19, 30] count: 25
+Pattern: [37, 52] count: 25
+Pattern: [0, 65] count: 24
+Pattern: [2, 76] count: 24
+Pattern: [4, 6] count: 24
+Pattern: [10, 48] count: 24
+Pattern: [11, 27] count: 24
+Pattern: [17, 60] count: 24
+Pattern: [18, 45] count: 24
+Pattern: [23, 31] count: 24
+Pattern: [28, 80] count: 24
+Pattern: [74, 101] count: 24
+Pattern: [75, 101] count: 24
+Pattern: [1, 4] count: 22
+Pattern: [6, 39] count: 22
+Pattern: [9, 33] count: 22
+Pattern: [9, 62] count: 22
+Pattern: [9, 63] count: 22
+Pattern: [14, 60] count: 22
+Pattern: [16, 33] count: 22
+Pattern: [18, 37] count: 22
+Pattern: [30, 45] count: 22
+Pattern: [47, 50] count: 22
+Pattern: [53, 59] count: 22
+Pattern: [66, 69] count: 22
+Pattern: [1, 6] count: 21
+Pattern: [5, 35] count: 21
+Pattern: [5, 36] count: 21
+Pattern: [7, 65] count: 21
+Pattern: [16, 53] count: 21
+Pattern: [22, 29] count: 21
+Pattern: [25, 40] count: 21
+Pattern: [4, 35] count: 20
+Pattern: [6, 22] count: 20
+Pattern: [9, 38] count: 20
+Pattern: [10, 13] count: 20
+Pattern: [10, 62] count: 20
+Pattern: [10, 63] count: 20
+Pattern: [12, 32] count: 20
+Pattern: [16, 18] count: 20
+Pattern: [19, 22] count: 20
+Pattern: [20, 74] count: 20
+Pattern: [20, 75] count: 20
+Pattern: [34, 38] count: 20
+Pattern: [36, 61] count: 20
+Pattern: [45, 47] count: 20
+Pattern: [1, 13] count: 19
+Pattern: [6, 17] count: 19
+Pattern: [10, 33] count: 19
+Pattern: [19, 72] count: 19
+Pattern: [21, 89] count: 19
+Pattern: [2, 20] count: 18
+Pattern: [7, 49] count: 18
+Pattern: [7, 54] count: 18
+Pattern: [11, 22] count: 18
+Pattern: [11, 28] count: 18
+Pattern: [19, 67] count: 18
+Pattern: [23, 30] count: 18
+Pattern: [25, 47] count: 18
+Pattern: [44, 60] count: 18
+Pattern: [56, 73] count: 18
+Pattern: [60, 67] count: 18
+Pattern: [21, 33] count: 17
+Pattern: [21, 62] count: 17
+Pattern: [21, 63] count: 17
+Pattern: [33, 40] count: 17
+Pattern: [35, 65] count: 17
+Pattern: [36, 65] count: 17
+Pattern: [39, 56] count: 17
+Pattern: [40, 62] count: 17
+Pattern: [40, 63] count: 17
+Pattern: [1, 15] count: 16
+Pattern: [1, 74] count: 16
+Pattern: [1, 75] count: 16
+Pattern: [4, 36] count: 16
+Pattern: [6, 67] count: 16
+Pattern: [7, 11] count: 16
+Pattern: [8, 27] count: 16
+Pattern: [22, 62] count: 16
+Pattern: [22, 63] count: 16
+Pattern: [26, 109] count: 16
+Pattern: [42, 48] count: 16
+Pattern: [44, 88] count: 16
+Pattern: [49, 74] count: 16
+Pattern: [49, 75] count: 16
+Pattern: [57, 88] count: 16
+Pattern: [73, 74] count: 16
+Pattern: [73, 75] count: 16
+Pattern: [0, 23] count: 15
+Pattern: [2, 9] count: 15
+Pattern: [8, 53] count: 15
+Pattern: [13, 45] count: 15
+Pattern: [17, 44] count: 15
+Pattern: [21, 53] count: 15
+Pattern: [39, 44] count: 15
+Pattern: [52, 90] count: 15
+Final codetable size: 442
+Final Compression size: 596573.0
+Compression ratio: 9.977365107143623%
+Pattern from sa:91
+Elapsed time: 3.186 seconds
+Memory usage: 43.872230529785156 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 8
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 3, 4, 5, 14] count: 2912
+Pattern: [0, 7, 8, 27, 28] count: 1008
+Pattern: [1, 4, 10, 15, 21] count: 612
+Pattern: [1, 3, 17, 19, 34] count: 456
+Pattern: [3, 15, 19, 33, 49] count: 432
+Pattern: [4, 5, 10, 22, 47] count: 120
+Pattern: [0, 2, 4, 13] count: 3752
+Pattern: [1, 3, 11, 12] count: 2288
+Pattern: [0, 2, 9, 17] count: 2016
+Pattern: [2, 6, 8, 9] count: 1248
+Pattern: [1, 4, 10, 32] count: 944
+Pattern: [9, 15, 24, 25] count: 864
+Pattern: [1, 19, 21, 29] count: 700
+Pattern: [5, 15, 30, 33] count: 648
+Pattern: [9, 15, 22, 28] count: 576
+Pattern: [1, 10, 13, 33] count: 432
+Pattern: [6, 10, 18, 41] count: 376
+Pattern: [0, 21, 39, 42] count: 324
+Pattern: [3, 11, 13, 36] count: 280
+Pattern: [13, 14, 16, 52] count: 272
+Pattern: [4, 10, 32, 36] count: 232
+Pattern: [3, 17, 32, 50] count: 208
+Pattern: [0, 10, 25, 74] count: 152
+Pattern: [6, 7, 20] count: 2968
+Pattern: [0, 1, 37] count: 1872
+Pattern: [2, 4, 37] count: 1872
+Pattern: [1, 18, 23] count: 1816
+Pattern: [0, 26, 27] count: 1808
+Pattern: [0, 13, 40] count: 1728
+Pattern: [3, 17, 23] count: 1544
+Pattern: [4, 8, 16] count: 1408
+Pattern: [5, 8, 16] count: 1312
+Pattern: [2, 10, 45] count: 1304
+Pattern: [0, 4, 46] count: 1296
+Pattern: [1, 8, 38] count: 1296
+Pattern: [7, 8, 13] count: 1128
+Pattern: [0, 5, 45] count: 1056
+Pattern: [3, 24, 29] count: 896
+Pattern: [18, 19, 27] count: 752
+Pattern: [0, 25, 47] count: 648
+Pattern: [22, 31, 46] count: 648
+Pattern: [2, 34, 36] count: 624
+Pattern: [9, 26, 63] count: 576
+Pattern: [2, 21, 51] count: 564
+Pattern: [10, 14, 39] count: 552
+Pattern: [2, 5, 28] count: 546
+Pattern: [4, 33, 44] count: 528
+Pattern: [8, 22, 32] count: 500
+Pattern: [10, 14, 45] count: 488
+Pattern: [10, 13, 19] count: 464
+Pattern: [1, 23, 25] count: 436
+Pattern: [15, 29, 69] count: 432
+Pattern: [19, 29, 38] count: 432
+Pattern: [3, 6, 49] count: 384
+Pattern: [12, 22, 44] count: 374
+Pattern: [5, 10, 15] count: 360
+Pattern: [8, 14, 26] count: 288
+Pattern: [9, 21, 39] count: 288
+Pattern: [1, 15, 50] count: 256
+Pattern: [14, 22, 26] count: 210
+Pattern: [6, 32, 49] count: 200
+Pattern: [3, 39, 48] count: 176
+Pattern: [25, 38, 49] count: 144
+Pattern: [4, 13, 58] count: 88
+Pattern: [38, 51, 56] count: 72
+Pattern: [5, 14] count: 2000
+Pattern: [2, 4] count: 1948
+Pattern: [3, 16] count: 1279
+Pattern: [26, 27] count: 1190
+Pattern: [0, 19] count: 1144
+Pattern: [15, 28] count: 1056
+Pattern: [9, 22] count: 1052
+Pattern: [1, 11] count: 980
+Pattern: [8, 24] count: 924
+Pattern: [4, 21] count: 826
+Pattern: [18, 50] count: 816
+Pattern: [10, 35] count: 786
+Pattern: [40, 43] count: 744
+Pattern: [29, 42] count: 720
+Pattern: [0, 12] count: 708
+Pattern: [13, 31] count: 642
+Pattern: [6, 7] count: 628
+Pattern: [5, 34] count: 616
+Pattern: [16, 18] count: 608
+Pattern: [30, 36] count: 570
+Pattern: [32, 40] count: 557
+Pattern: [2, 41] count: 556
+Pattern: [3, 6] count: 532
+Pattern: [30, 35] count: 520
+Pattern: [12, 60] count: 468
+Pattern: [10, 25] count: 464
+Pattern: [15, 42] count: 444
+Pattern: [31, 46] count: 402
+Pattern: [25, 54] count: 390
+Pattern: [21, 23] count: 376
+Pattern: [3, 19] count: 348
+Pattern: [17, 34] count: 328
+Pattern: [6, 59] count: 324
+Pattern: [9, 55] count: 314
+Pattern: [47, 53] count: 308
+Pattern: [8, 58] count: 288
+Pattern: [12, 37] count: 288
+Pattern: [4, 41] count: 286
+Pattern: [11, 31] count: 284
+Pattern: [39, 44] count: 278
+Pattern: [7, 65] count: 276
+Pattern: [59, 65] count: 276
+Pattern: [1, 66] count: 262
+Pattern: [64, 68] count: 258
+Pattern: [39, 57] count: 240
+Pattern: [23, 38] count: 238
+Pattern: [4, 25] count: 234
+Pattern: [10, 36] count: 231
+Pattern: [15, 26] count: 230
+Pattern: [0, 41] count: 226
+Pattern: [17, 49] count: 224
+Pattern: [2, 11] count: 222
+Pattern: [19, 51] count: 220
+Pattern: [21, 54] count: 216
+Pattern: [32, 48] count: 214
+Pattern: [17, 64] count: 204
+Pattern: [24, 62] count: 202
+Pattern: [30, 45] count: 200
+Pattern: [53, 73] count: 200
+Pattern: [12, 82] count: 192
+Pattern: [20, 80] count: 192
+Pattern: [24, 78] count: 192
+Pattern: [43, 61] count: 192
+Pattern: [58, 83] count: 192
+Pattern: [84, 85] count: 192
+Pattern: [1, 70] count: 190
+Pattern: [3, 51] count: 188
+Pattern: [32, 52] count: 184
+Pattern: [33, 57] count: 184
+Pattern: [24, 63] count: 182
+Pattern: [13, 23] count: 177
+Pattern: [39, 56] count: 166
+Pattern: [6, 86] count: 162
+Pattern: [38, 43] count: 156
+Pattern: [2, 14] count: 155
+Pattern: [0, 35] count: 154
+Pattern: [34, 48] count: 150
+Pattern: [32, 44] count: 146
+Pattern: [33, 38] count: 146
+Pattern: [3, 5] count: 144
+Pattern: [10, 45] count: 144
+Pattern: [25, 45] count: 136
+Pattern: [4, 13] count: 131
+Pattern: [32, 67] count: 130
+Pattern: [9, 24] count: 128
+Pattern: [21, 49] count: 128
+Pattern: [34, 44] count: 128
+Pattern: [53, 76] count: 128
+Pattern: [75, 79] count: 128
+Pattern: [77, 81] count: 128
+Pattern: [33, 56] count: 124
+Pattern: [10, 30] count: 120
+Pattern: [16, 20] count: 120
+Pattern: [17, 87] count: 120
+Pattern: [39, 52] count: 120
+Pattern: [22, 48] count: 117
+Pattern: [3, 55] count: 115
+Pattern: [8, 23] count: 108
+Pattern: [21, 41] count: 107
+Pattern: [8, 10] count: 104
+Pattern: [34, 56] count: 104
+Pattern: [27, 55] count: 101
+Pattern: [4, 37] count: 100
+Pattern: [26, 53] count: 98
+Pattern: [15, 71] count: 96
+Pattern: [36, 45] count: 96
+Pattern: [36, 61] count: 96
+Pattern: [74, 79] count: 96
+Pattern: [35, 61] count: 92
+Pattern: [38, 62] count: 91
+Pattern: [3, 11] count: 85
+Pattern: [1, 92] count: 84
+Pattern: [39, 67] count: 84
+Pattern: [5, 23] count: 81
+Pattern: [8, 49] count: 80
+Pattern: [43, 48] count: 80
+Pattern: [16, 44] count: 78
+Pattern: [2, 46] count: 76
+Pattern: [39, 72] count: 76
+Pattern: [6, 31] count: 72
+Pattern: [7, 29] count: 72
+Pattern: [8, 78] count: 72
+Pattern: [14, 42] count: 72
+Pattern: [29, 31] count: 72
+Pattern: [36, 38] count: 72
+Pattern: [38, 63] count: 72
+Pattern: [28, 54] count: 70
+Pattern: [4, 10] count: 69
+Pattern: [21, 48] count: 69
+Pattern: [35, 38] count: 69
+Pattern: [51, 75] count: 68
+Pattern: [4, 47] count: 66
+Pattern: [4, 73] count: 64
+Pattern: [6, 32] count: 64
+Pattern: [19, 53] count: 64
+Pattern: [33, 47] count: 64
+Pattern: [15, 16] count: 63
+Pattern: [23, 41] count: 61
+Pattern: [24, 33] count: 61
+Pattern: [9, 60] count: 60
+Pattern: [19, 29] count: 60
+Pattern: [43, 67] count: 60
+Pattern: [50, 81] count: 60
+Pattern: [51, 69] count: 60
+Pattern: [51, 71] count: 60
+Pattern: [26, 48] count: 59
+Pattern: [21, 52] count: 57
+Pattern: [37, 40] count: 53
+Pattern: [2, 13] count: 52
+Pattern: [10, 74] count: 52
+Pattern: [25, 53] count: 52
+Pattern: [0, 9] count: 50
+Pattern: [2, 18] count: 50
+Pattern: [0, 77] count: 48
+Pattern: [3, 21] count: 48
+Pattern: [7, 50] count: 48
+Pattern: [11, 20] count: 48
+Pattern: [32, 72] count: 48
+Pattern: [42, 102] count: 48
+Pattern: [77, 88] count: 48
+Pattern: [93, 94] count: 48
+Pattern: [23, 30] count: 46
+Pattern: [35, 52] count: 46
+Pattern: [13, 21] count: 45
+Pattern: [8, 16] count: 44
+Pattern: [11, 62] count: 44
+Pattern: [11, 63] count: 44
+Pattern: [23, 61] count: 44
+Pattern: [35, 44] count: 44
+Pattern: [66, 69] count: 44
+Pattern: [78, 80] count: 44
+Pattern: [33, 44] count: 43
+Pattern: [16, 21] count: 42
+Pattern: [22, 67] count: 42
+Pattern: [31, 70] count: 42
+Pattern: [43, 44] count: 42
+Pattern: [25, 48] count: 41
+Pattern: [5, 41] count: 40
+Pattern: [12, 14] count: 40
+Pattern: [14, 81] count: 40
+Pattern: [25, 34] count: 40
+Pattern: [10, 62] count: 38
+Pattern: [0, 4] count: 36
+Pattern: [12, 45] count: 36
+Pattern: [12, 53] count: 36
+Pattern: [19, 69] count: 36
+Pattern: [19, 71] count: 36
+Pattern: [21, 72] count: 36
+Pattern: [25, 49] count: 36
+Pattern: [31, 66] count: 36
+Pattern: [68, 96] count: 36
+Pattern: [104, 105] count: 36
+Pattern: [106, 107] count: 36
+Pattern: [3, 33] count: 34
+Pattern: [4, 11] count: 34
+Pattern: [15, 47] count: 34
+Pattern: [36, 44] count: 34
+Pattern: [39, 48] count: 34
+Pattern: [1, 37] count: 33
+Pattern: [3, 14] count: 33
+Pattern: [52, 75] count: 33
+Pattern: [0, 47] count: 32
+Pattern: [0, 76] count: 32
+Pattern: [5, 18] count: 32
+Pattern: [8, 62] count: 32
+Pattern: [25, 76] count: 32
+Pattern: [32, 57] count: 32
+Pattern: [57, 71] count: 32
+Pattern: [90, 95] count: 32
+Pattern: [90, 97] count: 32
+Pattern: [91, 95] count: 32
+Pattern: [91, 97] count: 32
+Pattern: [35, 67] count: 31
+Pattern: [36, 67] count: 31
+Pattern: [3, 42] count: 30
+Pattern: [16, 38] count: 30
+Pattern: [16, 61] count: 30
+Pattern: [17, 44] count: 30
+Pattern: [22, 96] count: 30
+Pattern: [36, 48] count: 30
+Pattern: [36, 52] count: 30
+Pattern: [47, 87] count: 30
+Pattern: [66, 71] count: 30
+Pattern: [69, 70] count: 30
+Pattern: [70, 71] count: 30
+Pattern: [15, 66] count: 29
+Pattern: [15, 70] count: 29
+Pattern: [17, 48] count: 29
+Pattern: [31, 43] count: 28
+Pattern: [35, 48] count: 28
+Pattern: [56, 71] count: 28
+Pattern: [16, 30] count: 27
+Pattern: [10, 63] count: 26
+Pattern: [11, 53] count: 26
+Pattern: [21, 56] count: 26
+Pattern: [23, 37] count: 26
+Pattern: [34, 57] count: 26
+Pattern: [43, 52] count: 26
+Pattern: [48, 75] count: 26
+Pattern: [51, 74] count: 26
+Pattern: [23, 44] count: 25
+Pattern: [35, 72] count: 25
+Pattern: [2, 77] count: 24
+Pattern: [3, 69] count: 24
+Pattern: [3, 71] count: 24
+Pattern: [4, 61] count: 24
+Pattern: [8, 31] count: 24
+Pattern: [10, 89] count: 24
+Pattern: [17, 26] count: 24
+Pattern: [17, 32] count: 24
+Pattern: [28, 55] count: 24
+Pattern: [30, 55] count: 24
+Pattern: [30, 68] count: 24
+Pattern: [32, 55] count: 24
+Pattern: [33, 42] count: 24
+Pattern: [51, 73] count: 24
+Pattern: [52, 74] count: 24
+Pattern: [55, 73] count: 24
+Pattern: [64, 108] count: 24
+Pattern: [68, 73] count: 24
+Pattern: [21, 32] count: 23
+Pattern: [23, 26] count: 22
+Pattern: [10, 41] count: 21
+Pattern: [2, 34] count: 20
+Pattern: [17, 29] count: 20
+Pattern: [21, 34] count: 20
+Pattern: [37, 54] count: 20
+Pattern: [48, 55] count: 20
+Pattern: [48, 74] count: 20
+Pattern: [72, 75] count: 20
+Pattern: [8, 63] count: 19
+Pattern: [10, 23] count: 19
+Pattern: [16, 57] count: 19
+Pattern: [32, 38] count: 19
+Pattern: [0, 87] count: 18
+Pattern: [4, 94] count: 18
+Pattern: [5, 13] count: 18
+Pattern: [5, 44] count: 18
+Pattern: [10, 16] count: 18
+Pattern: [19, 66] count: 18
+Pattern: [19, 70] count: 18
+Pattern: [20, 47] count: 18
+Pattern: [21, 46] count: 18
+Pattern: [22, 52] count: 18
+Pattern: [26, 80] count: 18
+Pattern: [41, 49] count: 18
+Pattern: [44, 71] count: 18
+Pattern: [22, 26] count: 17
+Pattern: [25, 88] count: 17
+Pattern: [34, 41] count: 17
+Pattern: [1, 110] count: 16
+Pattern: [2, 15] count: 16
+Pattern: [4, 46] count: 16
+Pattern: [5, 82] count: 16
+Pattern: [6, 90] count: 16
+Pattern: [6, 91] count: 16
+Pattern: [8, 34] count: 16
+Pattern: [8, 77] count: 16
+Pattern: [18, 111] count: 16
+Pattern: [19, 79] count: 16
+Pattern: [21, 24] count: 16
+Pattern: [23, 25] count: 16
+Pattern: [25, 77] count: 16
+Pattern: [28, 45] count: 16
+Pattern: [30, 44] count: 16
+Pattern: [32, 68] count: 16
+Pattern: [41, 58] count: 16
+Pattern: [43, 62] count: 16
+Pattern: [56, 69] count: 16
+Pattern: [56, 73] count: 16
+Pattern: [56, 89] count: 16
+Pattern: [57, 69] count: 16
+Pattern: [64, 74] count: 16
+Pattern: [77, 109] count: 16
+Pattern: [0, 44] count: 15
+Pattern: [4, 30] count: 15
+Pattern: [21, 74] count: 15
+Pattern: [21, 75] count: 15
+Pattern: [25, 44] count: 15
+Pattern: [25, 52] count: 15
+Pattern: [25, 55] count: 15
+Pattern: [25, 72] count: 15
+Pattern: [56, 75] count: 15
+Pattern: [0, 18] count: 14
+Pattern: [4, 54] count: 14
+Pattern: [5, 66] count: 14
+Pattern: [5, 70] count: 14
+Pattern: [10, 43] count: 14
+Pattern: [10, 47] count: 14
+Pattern: [11, 54] count: 14
+Pattern: [17, 77] count: 14
+Pattern: [30, 48] count: 14
+Pattern: [32, 61] count: 14
+Pattern: [37, 49] count: 14
+Pattern: [38, 39] count: 14
+Pattern: [44, 49] count: 14
+Pattern: [2, 44] count: 13
+Pattern: [13, 34] count: 13
+Pattern: [14, 17] count: 13
+Pattern: [21, 43] count: 13
+Pattern: [25, 68] count: 13
+Pattern: [26, 47] count: 13
+Pattern: [36, 72] count: 13
+Pattern: [40, 62] count: 13
+Pattern: [40, 63] count: 13
+Pattern: [0, 57] count: 12
+Pattern: [3, 50] count: 12
+Pattern: [5, 52] count: 12
+Pattern: [5, 67] count: 12
+Pattern: [10, 88] count: 12
+Pattern: [11, 15] count: 12
+Pattern: [11, 24] count: 12
+Pattern: [13, 16] count: 12
+Pattern: [14, 49] count: 12
+Pattern: [16, 41] count: 12
+Pattern: [17, 41] count: 12
+Pattern: [21, 39] count: 12
+Pattern: [22, 75] count: 12
+Pattern: [23, 28] count: 12
+Pattern: [29, 66] count: 12
+Pattern: [29, 70] count: 12
+Pattern: [32, 62] count: 12
+Pattern: [33, 43] count: 12
+Pattern: [34, 74] count: 12
+Pattern: [38, 54] count: 12
+Pattern: [39, 61] count: 12
+Pattern: [47, 55] count: 12
+Pattern: [47, 68] count: 12
+Pattern: [48, 77] count: 12
+Pattern: [67, 89] count: 12
+Pattern: [73, 79] count: 12
+Pattern: [79, 112] count: 12
+Pattern: [88, 93] count: 12
+Pattern: [89, 93] count: 12
+Pattern: [11, 40] count: 11
+Pattern: [13, 36] count: 11
+Pattern: [25, 62] count: 11
+Final codetable size: 442
+Final Compression size: 681964.0
+Compression ratio: 11.405484019437843%
+Pattern from sa:65
+Elapsed time: 1.987 seconds
+Memory usage: 223.64830780029297 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 9
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [1, 3, 6, 21, 32, 36] count: 224
+Pattern: [6, 8, 15, 24, 28] count: 864
+Pattern: [1, 8, 10, 18, 24] count: 848
+Pattern: [0, 6, 11, 12, 48] count: 508
+Pattern: [2, 5, 17, 18, 47] count: 240
+Pattern: [0, 11, 14, 17, 27] count: 96
+Pattern: [0, 4, 6, 12] count: 2992
+Pattern: [0, 3, 7, 20] count: 2744
+Pattern: [1, 6, 14, 18] count: 2080
+Pattern: [3, 4, 29, 33] count: 1584
+Pattern: [0, 1, 4, 39] count: 1408
+Pattern: [3, 10, 12, 35] count: 1120
+Pattern: [4, 9, 24, 32] count: 864
+Pattern: [1, 6, 15, 23] count: 480
+Pattern: [3, 25, 31, 40] count: 432
+Pattern: [0, 1, 13, 70] count: 216
+Pattern: [6, 9, 37, 61] count: 192
+Pattern: [6, 17, 26, 45] count: 152
+Pattern: [8, 19, 34, 57] count: 144
+Pattern: [0, 1, 2] count: 7906
+Pattern: [1, 2, 9] count: 4608
+Pattern: [0, 2, 17] count: 3602
+Pattern: [1, 2, 21] count: 3218
+Pattern: [1, 4, 26] count: 2256
+Pattern: [2, 11, 18] count: 1984
+Pattern: [14, 20, 23] count: 1824
+Pattern: [0, 5, 41] count: 1640
+Pattern: [0, 13, 37] count: 1368
+Pattern: [4, 15, 25] count: 1364
+Pattern: [5, 8, 15] count: 1332
+Pattern: [5, 9, 35] count: 1248
+Pattern: [10, 11, 47] count: 1248
+Pattern: [12, 13, 16] count: 1024
+Pattern: [2, 17, 31] count: 984
+Pattern: [10, 13, 14] count: 888
+Pattern: [16, 17, 30] count: 884
+Pattern: [8, 9, 38] count: 864
+Pattern: [3, 24, 34] count: 768
+Pattern: [15, 17, 27] count: 584
+Pattern: [1, 2, 60] count: 576
+Pattern: [1, 23, 40] count: 576
+Pattern: [5, 11, 52] count: 528
+Pattern: [5, 18, 28] count: 528
+Pattern: [11, 22, 26] count: 522
+Pattern: [1, 18, 65] count: 408
+Pattern: [1, 5, 73] count: 400
+Pattern: [19, 25, 34] count: 354
+Pattern: [6, 23, 27] count: 336
+Pattern: [13, 25, 63] count: 288
+Pattern: [2, 36, 64] count: 256
+Pattern: [5, 32, 44] count: 240
+Pattern: [7, 19, 54] count: 224
+Pattern: [6, 36, 51] count: 176
+Pattern: [34, 53, 73] count: 136
+Pattern: [15, 18, 20] count: 80
+Pattern: [8, 29, 53] count: 72
+Pattern: [4, 6] count: 2292
+Pattern: [12, 14] count: 1664
+Pattern: [16, 42] count: 1584
+Pattern: [18, 23] count: 1364
+Pattern: [8, 15] count: 1286
+Pattern: [24, 28] count: 1272
+Pattern: [19, 46] count: 1152
+Pattern: [3, 7] count: 1128
+Pattern: [26, 40] count: 1010
+Pattern: [22, 30] count: 992
+Pattern: [10, 11] count: 928
+Pattern: [12, 45] count: 912
+Pattern: [5, 36] count: 896
+Pattern: [0, 13] count: 846
+Pattern: [1, 2] count: 713
+Pattern: [27, 55] count: 696
+Pattern: [31, 39] count: 612
+Pattern: [8, 18] count: 576
+Pattern: [16, 41] count: 576
+Pattern: [6, 50] count: 568
+Pattern: [31, 51] count: 540
+Pattern: [4, 43] count: 490
+Pattern: [19, 48] count: 459
+Pattern: [7, 58] count: 440
+Pattern: [25, 32] count: 416
+Pattern: [11, 34] count: 410
+Pattern: [22, 27] count: 388
+Pattern: [3, 5] count: 360
+Pattern: [3, 31] count: 360
+Pattern: [1, 30] count: 354
+Pattern: [15, 32] count: 354
+Pattern: [22, 44] count: 352
+Pattern: [12, 16] count: 349
+Pattern: [19, 35] count: 348
+Pattern: [0, 59] count: 310
+Pattern: [14, 17] count: 308
+Pattern: [19, 20] count: 299
+Pattern: [9, 10] count: 294
+Pattern: [13, 27] count: 290
+Pattern: [29, 62] count: 288
+Pattern: [50, 65] count: 288
+Pattern: [37, 38] count: 278
+Pattern: [39, 44] count: 252
+Pattern: [10, 28] count: 250
+Pattern: [5, 64] count: 244
+Pattern: [6, 33] count: 240
+Pattern: [25, 53] count: 238
+Pattern: [11, 43] count: 233
+Pattern: [14, 22] count: 222
+Pattern: [0, 7] count: 220
+Pattern: [2, 4] count: 220
+Pattern: [8, 30] count: 216
+Pattern: [29, 63] count: 216
+Pattern: [1, 23] count: 214
+Pattern: [34, 56] count: 210
+Pattern: [19, 36] count: 200
+Pattern: [17, 44] count: 193
+Pattern: [16, 87] count: 192
+Pattern: [24, 83] count: 192
+Pattern: [80, 86] count: 192
+Pattern: [82, 84] count: 192
+Pattern: [9, 39] count: 190
+Pattern: [27, 40] count: 172
+Pattern: [23, 56] count: 168
+Pattern: [26, 77] count: 168
+Pattern: [9, 43] count: 167
+Pattern: [2, 15] count: 162
+Pattern: [66, 69] count: 160
+Pattern: [39, 52] count: 154
+Pattern: [32, 52] count: 148
+Pattern: [68, 79] count: 146
+Pattern: [3, 76] count: 144
+Pattern: [14, 85] count: 144
+Pattern: [22, 57] count: 144
+Pattern: [33, 65] count: 144
+Pattern: [37, 43] count: 144
+Pattern: [38, 66] count: 144
+Pattern: [49, 71] count: 144
+Pattern: [51, 74] count: 144
+Pattern: [51, 75] count: 144
+Pattern: [15, 46] count: 138
+Pattern: [39, 48] count: 132
+Pattern: [6, 8] count: 128
+Pattern: [11, 32] count: 128
+Pattern: [17, 79] count: 128
+Pattern: [23, 44] count: 128
+Pattern: [27, 68] count: 128
+Pattern: [50, 81] count: 128
+Pattern: [61, 67] count: 124
+Pattern: [1, 25] count: 121
+Pattern: [9, 59] count: 116
+Pattern: [3, 26] count: 110
+Pattern: [23, 57] count: 108
+Pattern: [34, 44] count: 108
+Pattern: [38, 70] count: 108
+Pattern: [69, 70] count: 108
+Pattern: [5, 11] count: 107
+Pattern: [4, 19] count: 104
+Pattern: [7, 9] count: 101
+Pattern: [32, 48] count: 100
+Pattern: [52, 53] count: 100
+Pattern: [38, 67] count: 97
+Pattern: [6, 54] count: 96
+Pattern: [8, 36] count: 96
+Pattern: [8, 50] count: 96
+Pattern: [45, 58] count: 96
+Pattern: [49, 56] count: 96
+Pattern: [49, 62] count: 96
+Pattern: [53, 72] count: 96
+Pattern: [66, 71] count: 96
+Pattern: [78, 92] count: 96
+Pattern: [0, 2] count: 90
+Pattern: [37, 69] count: 90
+Pattern: [22, 52] count: 85
+Pattern: [22, 48] count: 83
+Pattern: [11, 23] count: 80
+Pattern: [12, 23] count: 80
+Pattern: [15, 54] count: 80
+Pattern: [1, 20] count: 79
+Pattern: [10, 41] count: 79
+Pattern: [17, 60] count: 77
+Pattern: [15, 49] count: 76
+Pattern: [39, 67] count: 74
+Pattern: [4, 49] count: 73
+Pattern: [16, 96] count: 72
+Pattern: [49, 57] count: 72
+Pattern: [70, 71] count: 72
+Pattern: [37, 61] count: 69
+Pattern: [10, 73] count: 68
+Pattern: [25, 39] count: 68
+Pattern: [28, 80] count: 68
+Pattern: [11, 17] count: 67
+Pattern: [19, 56] count: 66
+Pattern: [44, 53] count: 66
+Pattern: [32, 44] count: 65
+Pattern: [0, 29] count: 64
+Pattern: [10, 25] count: 62
+Pattern: [49, 63] count: 62
+Pattern: [48, 53] count: 61
+Pattern: [37, 71] count: 60
+Pattern: [53, 57] count: 60
+Pattern: [4, 26] count: 58
+Pattern: [38, 60] count: 58
+Pattern: [60, 61] count: 58
+Pattern: [6, 16] count: 56
+Pattern: [27, 78] count: 56
+Pattern: [5, 17] count: 54
+Pattern: [22, 72] count: 50
+Pattern: [64, 74] count: 50
+Pattern: [64, 75] count: 50
+Pattern: [4, 17] count: 49
+Pattern: [0, 47] count: 48
+Pattern: [10, 37] count: 48
+Pattern: [10, 47] count: 48
+Pattern: [11, 49] count: 48
+Pattern: [12, 102] count: 48
+Pattern: [30, 76] count: 48
+Pattern: [32, 67] count: 48
+Pattern: [77, 88] count: 48
+Pattern: [93, 94] count: 48
+Pattern: [32, 72] count: 47
+Pattern: [78, 95] count: 46
+Pattern: [7, 43] count: 45
+Pattern: [23, 30] count: 45
+Pattern: [31, 43] count: 45
+Pattern: [43, 48] count: 45
+Pattern: [44, 49] count: 44
+Pattern: [54, 62] count: 44
+Pattern: [43, 52] count: 43
+Pattern: [4, 5] count: 42
+Pattern: [6, 19] count: 42
+Pattern: [14, 61] count: 42
+Pattern: [39, 57] count: 42
+Pattern: [14, 38] count: 41
+Pattern: [34, 74] count: 41
+Pattern: [34, 75] count: 41
+Pattern: [2, 35] count: 40
+Pattern: [8, 29] count: 40
+Pattern: [17, 27] count: 40
+Pattern: [33, 54] count: 40
+Pattern: [36, 76] count: 40
+Pattern: [36, 81] count: 40
+Pattern: [45, 66] count: 40
+Pattern: [5, 22] count: 39
+Pattern: [15, 26] count: 38
+Pattern: [33, 49] count: 38
+Pattern: [54, 63] count: 38
+Pattern: [14, 34] count: 37
+Pattern: [13, 38] count: 36
+Pattern: [13, 61] count: 36
+Pattern: [35, 53] count: 36
+Pattern: [38, 41] count: 36
+Pattern: [41, 61] count: 36
+Pattern: [64, 104] count: 36
+Pattern: [105, 106] count: 36
+Pattern: [107, 108] count: 36
+Pattern: [43, 44] count: 35
+Pattern: [1, 9] count: 34
+Pattern: [1, 37] count: 34
+Pattern: [8, 49] count: 34
+Pattern: [8, 54] count: 34
+Pattern: [11, 77] count: 34
+Pattern: [17, 52] count: 34
+Pattern: [26, 28] count: 34
+Pattern: [22, 60] count: 33
+Pattern: [25, 89] count: 33
+Pattern: [1, 5] count: 32
+Pattern: [4, 78] count: 32
+Pattern: [10, 43] count: 32
+Pattern: [17, 48] count: 32
+Pattern: [20, 49] count: 32
+Pattern: [30, 59] count: 32
+Pattern: [32, 57] count: 32
+Pattern: [33, 55] count: 32
+Pattern: [45, 73] count: 32
+Pattern: [52, 90] count: 32
+Pattern: [52, 91] count: 32
+Pattern: [55, 62] count: 32
+Pattern: [90, 97] count: 32
+Pattern: [91, 97] count: 32
+Pattern: [10, 26] count: 30
+Pattern: [10, 32] count: 30
+Pattern: [39, 72] count: 30
+Pattern: [20, 25] count: 29
+Pattern: [8, 23] count: 28
+Pattern: [11, 26] count: 28
+Pattern: [14, 77] count: 28
+Pattern: [35, 68] count: 28
+Pattern: [39, 56] count: 28
+Pattern: [53, 56] count: 28
+Pattern: [30, 51] count: 27
+Pattern: [5, 34] count: 26
+Pattern: [15, 23] count: 26
+Pattern: [19, 72] count: 26
+Pattern: [22, 25] count: 26
+Pattern: [32, 54] count: 26
+Pattern: [2, 11] count: 25
+Pattern: [57, 59] count: 25
+Pattern: [3, 42] count: 24
+Pattern: [13, 62] count: 24
+Pattern: [14, 89] count: 24
+Pattern: [17, 56] count: 24
+Pattern: [19, 29] count: 24
+Pattern: [19, 30] count: 24
+Pattern: [20, 88] count: 24
+Pattern: [31, 58] count: 24
+Pattern: [43, 67] count: 24
+Pattern: [55, 63] count: 24
+Pattern: [32, 49] count: 22
+Pattern: [2, 52] count: 21
+Pattern: [11, 39] count: 21
+Pattern: [17, 67] count: 21
+Pattern: [17, 72] count: 21
+Pattern: [23, 32] count: 21
+Pattern: [34, 36] count: 21
+Pattern: [4, 54] count: 20
+Pattern: [5, 77] count: 20
+Pattern: [7, 50] count: 20
+Pattern: [13, 33] count: 20
+Pattern: [25, 40] count: 20
+Pattern: [48, 61] count: 20
+Pattern: [90, 95] count: 20
+Pattern: [91, 95] count: 20
+Pattern: [22, 37] count: 19
+Pattern: [0, 22] count: 18
+Pattern: [5, 13] count: 18
+Pattern: [10, 27] count: 18
+Pattern: [11, 22] count: 18
+Pattern: [12, 37] count: 18
+Pattern: [16, 22] count: 18
+Pattern: [19, 52] count: 18
+Pattern: [19, 112] count: 18
+Pattern: [21, 82] count: 18
+Pattern: [25, 35] count: 18
+Pattern: [30, 39] count: 18
+Pattern: [38, 48] count: 18
+Pattern: [68, 72] count: 18
+Pattern: [0, 5] count: 17
+Pattern: [14, 53] count: 17
+Pattern: [17, 37] count: 17
+Pattern: [20, 93] count: 17
+Pattern: [22, 33] count: 17
+Pattern: [22, 62] count: 17
+Pattern: [27, 29] count: 17
+Pattern: [2, 38] count: 16
+Pattern: [2, 69] count: 16
+Pattern: [4, 23] count: 16
+Pattern: [4, 41] count: 16
+Pattern: [4, 80] count: 16
+Pattern: [5, 20] count: 16
+Pattern: [7, 15] count: 16
+Pattern: [7, 18] count: 16
+Pattern: [11, 89] count: 16
+Pattern: [12, 30] count: 16
+Pattern: [14, 32] count: 16
+Pattern: [20, 53] count: 16
+Pattern: [25, 64] count: 16
+Pattern: [28, 54] count: 16
+Pattern: [30, 101] count: 16
+Pattern: [35, 74] count: 16
+Pattern: [35, 75] count: 16
+Pattern: [35, 81] count: 16
+Pattern: [51, 110] count: 16
+Pattern: [58, 111] count: 16
+Pattern: [78, 94] count: 16
+Pattern: [9, 38] count: 15
+Pattern: [9, 61] count: 15
+Pattern: [10, 22] count: 15
+Pattern: [11, 53] count: 15
+Pattern: [30, 34] count: 15
+Pattern: [31, 54] count: 15
+Pattern: [37, 49] count: 15
+Pattern: [43, 63] count: 15
+Pattern: [5, 53] count: 14
+Pattern: [6, 34] count: 14
+Pattern: [7, 54] count: 14
+Pattern: [14, 23] count: 14
+Pattern: [14, 26] count: 14
+Pattern: [14, 45] count: 14
+Pattern: [16, 17] count: 14
+Pattern: [17, 34] count: 14
+Pattern: [17, 57] count: 14
+Pattern: [26, 37] count: 14
+Pattern: [28, 49] count: 14
+Pattern: [31, 49] count: 14
+Pattern: [36, 39] count: 14
+Pattern: [56, 68] count: 14
+Pattern: [56, 73] count: 14
+Pattern: [0, 10] count: 13
+Pattern: [2, 48] count: 13
+Pattern: [4, 14] count: 13
+Pattern: [7, 49] count: 13
+Pattern: [22, 63] count: 13
+Pattern: [22, 67] count: 13
+Pattern: [36, 43] count: 13
+Pattern: [59, 72] count: 13
+Pattern: [77, 81] count: 13
+Pattern: [5, 18] count: 12
+Pattern: [5, 88] count: 12
+Pattern: [9, 76] count: 12
+Pattern: [11, 38] count: 12
+Pattern: [11, 61] count: 12
+Pattern: [13, 35] count: 12
+Pattern: [13, 66] count: 12
+Pattern: [13, 98] count: 12
+Pattern: [13, 99] count: 12
+Pattern: [13, 100] count: 12
+Pattern: [15, 77] count: 12
+Pattern: [17, 38] count: 12
+Pattern: [22, 56] count: 12
+Pattern: [25, 26] count: 12
+Pattern: [25, 101] count: 12
+Pattern: [28, 30] count: 12
+Pattern: [29, 34] count: 12
+Pattern: [29, 66] count: 12
+Pattern: [33, 43] count: 12
+Pattern: [34, 68] count: 12
+Pattern: [35, 78] count: 12
+Pattern: [35, 85] count: 12
+Pattern: [41, 42] count: 12
+Pattern: [43, 49] count: 12
+Pattern: [43, 54] count: 12
+Pattern: [43, 60] count: 12
+Pattern: [50, 59] count: 12
+Pattern: [55, 103] count: 12
+Pattern: [73, 74] count: 12
+Pattern: [73, 75] count: 12
+Pattern: [78, 98] count: 12
+Pattern: [78, 99] count: 12
+Pattern: [78, 100] count: 12
+Pattern: [85, 98] count: 12
+Pattern: [85, 99] count: 12
+Pattern: [85, 100] count: 12
+Pattern: [2, 72] count: 11
+Pattern: [9, 32] count: 11
+Pattern: [13, 25] count: 11
+Pattern: [25, 88] count: 11
+Pattern: [26, 49] count: 11
+Pattern: [26, 54] count: 11
+Pattern: [29, 54] count: 11
+Pattern: [32, 36] count: 11
+Pattern: [40, 62] count: 11
+Pattern: [48, 88] count: 11
+Pattern: [0, 40] count: 10
+Pattern: [1, 7] count: 10
+Pattern: [1, 49] count: 10
+Final codetable size: 442
+Final Compression size: 620112.0
+Compression ratio: 10.37104232226575%
+Pattern from sa:56
+Elapsed time: 1.697 seconds
+Memory usage: 200.2153091430664 MB
+
+SA working: 0
+
+Iterations: 30
+
+Processing file: mushroom.txt, Run: 10
+Initial compression size: 5979264.0
+Final codetable: 
+Pattern: [0, 1, 4, 14, 42, 59] count: 144
+Pattern: [0, 3, 10, 15, 25] count: 944
+Pattern: [0, 3, 7, 24, 27] count: 864
+Pattern: [2, 5, 31, 42, 49] count: 432
+Pattern: [0, 9, 20, 32, 36] count: 288
+Pattern: [4, 7, 19, 25, 82] count: 192
+Pattern: [0, 4, 5, 42, 65] count: 144
+Pattern: [2, 11, 14, 28, 30] count: 144
+Pattern: [3, 9, 10, 14, 67] count: 144
+Pattern: [6, 7, 13, 14, 58] count: 88
+Pattern: [0, 2, 3, 21] count: 3052
+Pattern: [1, 11, 18, 34] count: 1092
+Pattern: [7, 10, 11, 45] count: 728
+Pattern: [0, 2, 19, 48] count: 633
+Pattern: [1, 4, 19, 36] count: 576
+Pattern: [3, 4, 18, 38] count: 576
+Pattern: [2, 7, 16, 44] count: 560
+Pattern: [3, 10, 14, 48] count: 536
+Pattern: [10, 11, 25, 35] count: 456
+Pattern: [0, 8, 25, 50] count: 384
+Pattern: [8, 18, 22, 34] count: 384
+Pattern: [11, 14, 20, 30] count: 336
+Pattern: [1, 21, 33, 41] count: 324
+Pattern: [5, 30, 41, 46] count: 324
+Pattern: [2, 23, 25, 28] count: 292
+Pattern: [9, 11, 20, 48] count: 272
+Pattern: [1, 5, 39, 50] count: 256
+Pattern: [5, 21, 23, 33] count: 216
+Pattern: [10, 21, 22, 28] count: 181
+Pattern: [6, 10, 27, 62] count: 144
+Pattern: [10, 28, 34, 53] count: 144
+Pattern: [17, 24, 31, 43] count: 144
+Pattern: [1, 26, 35, 53] count: 120
+Pattern: [22, 30, 31, 34] count: 108
+Pattern: [12, 44, 47, 65] count: 48
+Pattern: [0, 2, 9] count: 4608
+Pattern: [0, 2, 13] count: 3944
+Pattern: [1, 5, 6] count: 3400
+Pattern: [6, 14, 20] count: 3040
+Pattern: [3, 4, 23] count: 2912
+Pattern: [1, 4, 12] count: 2816
+Pattern: [7, 12, 18] count: 2792
+Pattern: [8, 15, 29] count: 2228
+Pattern: [4, 10, 14] count: 2120
+Pattern: [4, 9, 16] count: 2016
+Pattern: [2, 16, 17] count: 1932
+Pattern: [11, 12, 18] count: 1904
+Pattern: [7, 9, 13] count: 1896
+Pattern: [0, 4, 37] count: 1872
+Pattern: [2, 11, 19] count: 1792
+Pattern: [3, 18, 20] count: 1736
+Pattern: [3, 27, 40] count: 1728
+Pattern: [4, 9, 26] count: 1728
+Pattern: [4, 17, 23] count: 1414
+Pattern: [0, 1, 46] count: 1296
+Pattern: [1, 13, 32] count: 1284
+Pattern: [3, 21, 22] count: 1243
+Pattern: [0, 10, 23] count: 1232
+Pattern: [3, 10, 50] count: 1120
+Pattern: [4, 19, 22] count: 1116
+Pattern: [1, 34, 45] count: 1056
+Pattern: [5, 8, 10] count: 1056
+Pattern: [10, 24, 28] count: 1040
+Pattern: [4, 22, 33] count: 984
+Pattern: [2, 16, 36] count: 960
+Pattern: [5, 19, 22] count: 924
+Pattern: [2, 28, 38] count: 864
+Pattern: [9, 15, 38] count: 864
+Pattern: [8, 11, 32] count: 736
+Pattern: [1, 31, 39] count: 720
+Pattern: [3, 17, 27] count: 656
+Pattern: [3, 14, 26] count: 648
+Pattern: [2, 26, 49] count: 576
+Pattern: [12, 13, 22] count: 556
+Pattern: [13, 17, 37] count: 540
+Pattern: [14, 22, 41] count: 508
+Pattern: [8, 32, 54] count: 504
+Pattern: [11, 21, 24] count: 480
+Pattern: [3, 36, 45] count: 432
+Pattern: [4, 9, 67] count: 432
+Pattern: [4, 11, 30] count: 432
+Pattern: [3, 12, 51] count: 400
+Pattern: [14, 20, 51] count: 400
+Pattern: [4, 20, 75] count: 352
+Pattern: [11, 19, 50] count: 352
+Pattern: [4, 11, 42] count: 336
+Pattern: [0, 25, 39] count: 332
+Pattern: [12, 32, 52] count: 316
+Pattern: [10, 21, 47] count: 288
+Pattern: [12, 30, 53] count: 224
+Pattern: [27, 55, 58] count: 160
+Pattern: [21, 32, 34] count: 80
+Pattern: [0, 12] count: 1398
+Pattern: [1, 13] count: 1175
+Pattern: [6, 8] count: 954
+Pattern: [14, 23] count: 893
+Pattern: [3, 5] count: 870
+Pattern: [19, 42] count: 810
+Pattern: [7, 35] count: 806
+Pattern: [0, 4] count: 766
+Pattern: [9, 21] count: 764
+Pattern: [10, 25] count: 698
+Pattern: [7, 36] count: 600
+Pattern: [33, 46] count: 558
+Pattern: [31, 51] count: 522
+Pattern: [16, 22] count: 508
+Pattern: [17, 24] count: 497
+Pattern: [12, 30] count: 494
+Pattern: [28, 40] count: 492
+Pattern: [15, 33] count: 426
+Pattern: [11, 43] count: 420
+Pattern: [3, 34] count: 384
+Pattern: [26, 31] count: 375
+Pattern: [2, 10] count: 362
+Pattern: [16, 42] count: 342
+Pattern: [20, 21] count: 340
+Pattern: [4, 17] count: 338
+Pattern: [27, 58] count: 320
+Pattern: [30, 41] count: 312
+Pattern: [9, 20] count: 292
+Pattern: [1, 15] count: 280
+Pattern: [24, 50] count: 280
+Pattern: [8, 45] count: 276
+Pattern: [14, 18] count: 275
+Pattern: [11, 47] count: 274
+Pattern: [64, 68] count: 258
+Pattern: [23, 43] count: 250
+Pattern: [35, 39] count: 246
+Pattern: [13, 30] count: 236
+Pattern: [9, 25] count: 229
+Pattern: [3, 44] count: 219
+Pattern: [4, 22] count: 219
+Pattern: [10, 34] count: 218
+Pattern: [32, 35] count: 212
+Pattern: [54, 55] count: 212
+Pattern: [14, 17] count: 204
+Pattern: [4, 33] count: 201
+Pattern: [3, 56] count: 192
+Pattern: [6, 84] count: 192
+Pattern: [26, 81] count: 192
+Pattern: [59, 76] count: 192
+Pattern: [60, 61] count: 192
+Pattern: [78, 83] count: 192
+Pattern: [80, 86] count: 192
+Pattern: [24, 28] count: 189
+Pattern: [3, 57] count: 188
+Pattern: [20, 25] count: 188
+Pattern: [37, 40] count: 186
+Pattern: [47, 53] count: 186
+Pattern: [15, 63] count: 171
+Pattern: [39, 52] count: 170
+Pattern: [53, 73] count: 164
+Pattern: [5, 65] count: 161
+Pattern: [3, 74] count: 160
+Pattern: [66, 69] count: 160
+Pattern: [12, 48] count: 159
+Pattern: [4, 41] count: 156
+Pattern: [34, 44] count: 156
+Pattern: [19, 39] count: 154
+Pattern: [2, 16] count: 147
+Pattern: [20, 23] count: 147
+Pattern: [27, 85] count: 144
+Pattern: [38, 66] count: 144
+Pattern: [38, 70] count: 144
+Pattern: [66, 71] count: 144
+Pattern: [69, 70] count: 144
+Pattern: [70, 71] count: 144
+Pattern: [34, 57] count: 138
+Pattern: [1, 11] count: 131
+Pattern: [7, 12] count: 130
+Pattern: [18, 48] count: 129
+Pattern: [2, 77] count: 128
+Pattern: [64, 79] count: 128
+Pattern: [9, 43] count: 127
+Pattern: [31, 55] count: 126
+Pattern: [13, 21] count: 125
+Pattern: [36, 39] count: 122
+Pattern: [15, 87] count: 120
+Pattern: [10, 21] count: 119
+Pattern: [15, 62] count: 117
+Pattern: [2, 54] count: 115
+Pattern: [34, 56] count: 114
+Pattern: [19, 45] count: 112
+Pattern: [22, 31] count: 112
+Pattern: [32, 36] count: 108
+Pattern: [9, 23] count: 107
+Pattern: [21, 23] count: 106
+Pattern: [35, 52] count: 100
+Pattern: [44, 49] count: 98
+Pattern: [18, 77] count: 96
+Pattern: [21, 54] count: 96
+Pattern: [4, 55] count: 95
+Pattern: [9, 12] count: 95
+Pattern: [19, 51] count: 94
+Pattern: [0, 14] count: 92
+Pattern: [10, 11] count: 90
+Pattern: [14, 60] count: 90
+Pattern: [37, 43] count: 90
+Pattern: [38, 62] count: 90
+Pattern: [38, 63] count: 90
+Pattern: [41, 48] count: 85
+Pattern: [20, 60] count: 84
+Pattern: [45, 65] count: 84
+Pattern: [49, 56] count: 84
+Pattern: [49, 57] count: 84
+Pattern: [1, 25] count: 83
+Pattern: [11, 13] count: 83
+Pattern: [2, 23] count: 81
+Pattern: [47, 72] count: 80
+Pattern: [26, 45] count: 76
+Pattern: [0, 56] count: 74
+Pattern: [2, 46] count: 72
+Pattern: [5, 96] count: 72
+Pattern: [17, 41] count: 72
+Pattern: [22, 43] count: 72
+Pattern: [7, 52] count: 70
+Pattern: [14, 20] count: 70
+Pattern: [26, 59] count: 70
+Pattern: [33, 38] count: 70
+Pattern: [10, 30] count: 69
+Pattern: [17, 31] count: 69
+Pattern: [11, 61] count: 66
+Pattern: [4, 48] count: 65
+Pattern: [1, 32] count: 64
+Pattern: [64, 74] count: 64
+Pattern: [31, 39] count: 63
+Pattern: [52, 53] count: 63
+Pattern: [25, 54] count: 61
+Pattern: [0, 44] count: 60
+Pattern: [1, 4] count: 58
+Pattern: [3, 15] count: 58
+Pattern: [7, 39] count: 58
+Pattern: [12, 61] count: 58
+Pattern: [45, 59] count: 58
+Pattern: [39, 41] count: 57
+Pattern: [9, 61] count: 56
+Pattern: [22, 32] count: 56
+Pattern: [2, 34] count: 54
+Pattern: [4, 13] count: 54
+Pattern: [6, 40] count: 54
+Pattern: [29, 47] count: 54
+Pattern: [29, 73] count: 54
+Pattern: [30, 35] count: 54
+Pattern: [36, 43] count: 54
+Pattern: [78, 95] count: 54
+Pattern: [28, 31] count: 51
+Pattern: [53, 72] count: 51
+Pattern: [22, 24] count: 50
+Pattern: [26, 54] count: 50
+Pattern: [0, 48] count: 49
+Pattern: [28, 80] count: 49
+Pattern: [47, 52] count: 49
+Pattern: [0, 41] count: 48
+Pattern: [2, 92] count: 48
+Pattern: [5, 85] count: 48
+Pattern: [7, 81] count: 48
+Pattern: [8, 50] count: 48
+Pattern: [9, 10] count: 48
+Pattern: [22, 39] count: 48
+Pattern: [42, 102] count: 48
+Pattern: [93, 94] count: 48
+Pattern: [7, 23] count: 47
+Pattern: [9, 11] count: 46
+Pattern: [13, 17] count: 44
+Pattern: [18, 44] count: 44
+Pattern: [21, 63] count: 44
+Pattern: [24, 55] count: 44
+Pattern: [11, 40] count: 42
+Pattern: [16, 68] count: 42
+Pattern: [21, 62] count: 42
+Pattern: [50, 65] count: 42
+Pattern: [20, 37] count: 41
+Pattern: [23, 26] count: 41
+Pattern: [35, 43] count: 41
+Pattern: [4, 74] count: 40
+Pattern: [39, 57] count: 39
+Pattern: [72, 76] count: 39
+Pattern: [0, 24] count: 38
+Pattern: [10, 77] count: 38
+Pattern: [11, 12] count: 38
+Pattern: [14, 41] count: 38
+Pattern: [21, 41] count: 38
+Pattern: [33, 57] count: 38
+Pattern: [1, 43] count: 37
+Pattern: [16, 23] count: 37
+Pattern: [13, 90] count: 36
+Pattern: [13, 91] count: 36
+Pattern: [18, 20] count: 36
+Pattern: [19, 29] count: 36
+Pattern: [39, 44] count: 36
+Pattern: [41, 46] count: 36
+Pattern: [64, 104] count: 36
+Pattern: [105, 106] count: 36
+Pattern: [107, 108] count: 36
+Pattern: [1, 30] count: 35
+Pattern: [7, 53] count: 35
+Pattern: [24, 65] count: 35
+Pattern: [0, 49] count: 34
+Pattern: [11, 30] count: 34
+Pattern: [12, 52] count: 34
+Pattern: [3, 48] count: 33
+Pattern: [20, 36] count: 33
+Pattern: [4, 21] count: 32
+Pattern: [47, 59] count: 32
+Pattern: [48, 61] count: 32
+Pattern: [52, 73] count: 32
+Pattern: [53, 57] count: 32
+Pattern: [72, 73] count: 32
+Pattern: [77, 88] count: 32
+Pattern: [78, 97] count: 32
+Pattern: [5, 19] count: 31
+Pattern: [28, 54] count: 31
+Pattern: [44, 53] count: 31
+Pattern: [48, 60] count: 31
+Pattern: [60, 67] count: 31
+Pattern: [1, 69] count: 30
+Pattern: [1, 71] count: 30
+Pattern: [4, 9] count: 30
+Pattern: [14, 22] count: 30
+Pattern: [17, 32] count: 30
+Pattern: [18, 56] count: 30
+Pattern: [25, 63] count: 30
+Pattern: [31, 68] count: 30
+Pattern: [33, 49] count: 30
+Pattern: [3, 52] count: 29
+Pattern: [41, 67] count: 29
+Pattern: [43, 62] count: 29
+Pattern: [3, 66] count: 28
+Pattern: [9, 32] count: 28
+Pattern: [25, 47] count: 28
+Pattern: [27, 80] count: 28
+Pattern: [33, 44] count: 28
+Pattern: [33, 56] count: 28
+Pattern: [7, 30] count: 27
+Pattern: [11, 28] count: 27
+Pattern: [13, 46] count: 27
+Pattern: [20, 35] count: 27
+Pattern: [21, 33] count: 27
+Pattern: [40, 63] count: 27
+Pattern: [41, 51] count: 27
+Pattern: [8, 24] count: 26
+Pattern: [14, 79] count: 26
+Pattern: [19, 89] count: 26
+Pattern: [25, 73] count: 26
+Pattern: [34, 64] count: 26
+Pattern: [3, 72] count: 25
+Pattern: [10, 36] count: 25
+Pattern: [24, 45] count: 25
+Pattern: [25, 62] count: 25
+Pattern: [47, 87] count: 25
+Pattern: [1, 38] count: 24
+Pattern: [4, 92] count: 24
+Pattern: [10, 55] count: 24
+Pattern: [14, 28] count: 24
+Pattern: [18, 35] count: 24
+Pattern: [23, 41] count: 24
+Pattern: [37, 67] count: 24
+Pattern: [48, 93] count: 24
+Pattern: [52, 78] count: 24
+Pattern: [57, 76] count: 24
+Pattern: [75, 101] count: 24
+Pattern: [7, 10] count: 23
+Pattern: [12, 59] count: 23
+Pattern: [17, 48] count: 23
+Pattern: [0, 31] count: 22
+Pattern: [26, 62] count: 22
+Pattern: [30, 87] count: 22
+Pattern: [11, 63] count: 21
+Pattern: [23, 30] count: 21
+Pattern: [38, 46] count: 21
+Pattern: [43, 63] count: 21
+Pattern: [46, 69] count: 21
+Pattern: [46, 71] count: 21
+Pattern: [47, 48] count: 21
+Pattern: [48, 74] count: 21
+Pattern: [52, 61] count: 21
+Pattern: [2, 41] count: 20
+Pattern: [4, 79] count: 20
+Pattern: [9, 37] count: 20
+Pattern: [17, 40] count: 20
+Pattern: [19, 65] count: 20
+Pattern: [22, 62] count: 20
+Pattern: [32, 58] count: 20
+Pattern: [44, 76] count: 20
+Pattern: [47, 57] count: 20
+Pattern: [56, 73] count: 20
+Pattern: [0, 52] count: 19
+Pattern: [9, 28] count: 19
+Pattern: [10, 12] count: 19
+Pattern: [10, 59] count: 19
+Pattern: [39, 72] count: 19
+Pattern: [61, 67] count: 19
+Pattern: [1, 6] count: 18
+Pattern: [1, 46] count: 18
+Pattern: [1, 103] count: 18
+Pattern: [6, 88] count: 18
+Pattern: [10, 79] count: 18
+Pattern: [11, 14] count: 18
+Pattern: [16, 51] count: 18
+Pattern: [17, 53] count: 18
+Pattern: [21, 61] count: 18
+Pattern: [37, 48] count: 18
+Pattern: [49, 74] count: 18
+Pattern: [53, 56] count: 18
+Pattern: [65, 88] count: 18
+Pattern: [11, 67] count: 17
+Pattern: [25, 33] count: 17
+Pattern: [36, 52] count: 17
+Pattern: [37, 55] count: 17
+Pattern: [3, 45] count: 16
+Pattern: [6, 39] count: 16
+Pattern: [8, 111] count: 16
+Pattern: [11, 62] count: 16
+Pattern: [12, 32] count: 16
+Pattern: [13, 15] count: 16
+Pattern: [13, 23] count: 16
+Pattern: [22, 48] count: 16
+Pattern: [23, 33] count: 16
+Pattern: [25, 89] count: 16
+Pattern: [26, 63] count: 16
+Pattern: [32, 109] count: 16
+Pattern: [39, 65] count: 16
+Pattern: [53, 77] count: 16
+Pattern: [4, 23] count: 15
+Pattern: [4, 30] count: 15
+Pattern: [9, 39] count: 15
+Pattern: [17, 37] count: 15
+Pattern: [22, 41] count: 15
+Pattern: [26, 40] count: 15
+Pattern: [30, 38] count: 15
+Pattern: [30, 48] count: 15
+Pattern: [30, 69] count: 15
+Pattern: [30, 71] count: 15
+Pattern: [36, 61] count: 15
+Pattern: [44, 47] count: 15
+Pattern: [48, 53] count: 15
+Pattern: [90, 98] count: 15
+Pattern: [90, 99] count: 15
+Pattern: [90, 100] count: 15
+Pattern: [91, 98] count: 15
+Pattern: [91, 99] count: 15
+Pattern: [91, 100] count: 15
+Final codetable size: 442
+Final Compression size: 706689.0
+Compression ratio: 11.818996451737204%
+Pattern from sa:92
+Elapsed time: 2.893 seconds
+Memory usage: 156.53672790527344 MB
+
+SA working: 0
+
+Iterations: 30
+

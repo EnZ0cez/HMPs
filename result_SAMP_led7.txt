@@ -1,0 +1,1450 @@
+Processing file: led7.txt, Run: 1
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [1, 2, 3, 4, 7, 8, 13] count: 155
+Pattern: [0, 1, 3, 4, 6, 11] count: 379
+Pattern: [3, 4, 5, 7, 11, 19] count: 27
+Pattern: [1, 2, 3, 4, 8] count: 469
+Pattern: [1, 4, 8, 10, 11] count: 55
+Pattern: [2, 8, 9, 10, 12] count: 26
+Pattern: [1, 7, 9, 13, 18] count: 25
+Pattern: [0, 1, 2, 4] count: 931
+Pattern: [0, 1, 6, 8] count: 722
+Pattern: [1, 3, 5, 6] count: 515
+Pattern: [1, 2, 8, 10] count: 306
+Pattern: [0, 5, 6] count: 834
+Pattern: [0, 2, 9] count: 830
+Pattern: [1, 3, 11] count: 580
+Pattern: [5, 9, 10] count: 516
+Pattern: [0, 3, 12] count: 406
+Pattern: [2, 3, 9] count: 404
+Pattern: [9, 10, 12] count: 297
+Pattern: [8, 10, 16] count: 275
+Pattern: [4, 6, 17] count: 264
+Pattern: [4, 10, 11] count: 96
+Pattern: [4, 10, 12] count: 74
+Pattern: [2, 4, 21] count: 31
+Pattern: [11, 13, 19] count: 27
+Pattern: [2, 5] count: 1405
+Pattern: [1, 5] count: 1187
+Pattern: [0, 7] count: 997
+Pattern: [5, 6] count: 922
+Pattern: [3, 7] count: 741
+Pattern: [2, 12] count: 689
+Pattern: [6, 8] count: 353
+Pattern: [9, 10] count: 240
+Pattern: [12, 21] count: 234
+Pattern: [1, 18] count: 201
+Pattern: [3, 15] count: 198
+Pattern: [4, 13] count: 191
+Pattern: [5, 22] count: 186
+Pattern: [8, 23] count: 180
+Pattern: [3, 17] count: 177
+Pattern: [5, 19] count: 148
+Pattern: [8, 20] count: 84
+Pattern: [7, 13] count: 75
+Pattern: [3, 12] count: 70
+Pattern: [9, 11] count: 68
+Pattern: [6, 13] count: 61
+Pattern: [12, 14] count: 48
+Pattern: [4, 11] count: 47
+Pattern: [8, 17] count: 44
+Pattern: [2, 16] count: 37
+Pattern: [5, 15] count: 37
+Pattern: [7, 10] count: 37
+Pattern: [8, 22] count: 28
+Pattern: [0, 1] count: 24
+Pattern: [0, 19] count: 24
+Pattern: [10, 15] count: 24
+Pattern: [2, 15] count: 23
+Pattern: [0, 23] count: 22
+Pattern: [1, 19] count: 22
+Pattern: [2, 8] count: 22
+Pattern: [3, 16] count: 22
+Pattern: [3, 22] count: 22
+Pattern: [7, 20] count: 22
+Pattern: [8, 19] count: 22
+Pattern: [1, 14] count: 20
+Pattern: [1, 20] count: 20
+Pattern: [3, 23] count: 19
+Pattern: [1, 22] count: 18
+Pattern: [2, 14] count: 18
+Pattern: [9, 18] count: 18
+Pattern: [6, 16] count: 17
+Pattern: [10, 17] count: 17
+Pattern: [4, 22] count: 14
+Pattern: [5, 14] count: 14
+Pattern: [3, 19] count: 12
+Pattern: [5, 23] count: 12
+Pattern: [10, 16] count: 12
+Pattern: [2, 21] count: 10
+Pattern: [5, 18] count: 10
+Pattern: [1, 15] count: 9
+Pattern: [2, 17] count: 9
+Pattern: [5, 17] count: 7
+Pattern: [11, 14] count: 7
+Pattern: [0, 21] count: 6
+Pattern: [3, 4] count: 6
+Pattern: [8, 15] count: 6
+Pattern: [11, 23] count: 6
+Pattern: [0, 12] count: 5
+Pattern: [1, 17] count: 5
+Pattern: [8, 16] count: 5
+Pattern: [2, 22] count: 4
+Pattern: [9, 20] count: 4
+Pattern: [10, 23] count: 4
+Pattern: [11, 16] count: 4
+Pattern: [11, 18] count: 4
+Pattern: [0, 6] count: 3
+Pattern: [1, 6] count: 3
+Pattern: [1, 21] count: 3
+Pattern: [3, 5] count: 3
+Pattern: [3, 21] count: 3
+Pattern: [4, 10] count: 3
+Pattern: [5, 20] count: 3
+Pattern: [7, 16] count: 3
+Pattern: [9, 14] count: 3
+Pattern: [9, 16] count: 3
+Pattern: [10, 18] count: 3
+Pattern: [11, 12] count: 3
+Pattern: [12, 15] count: 3
+Pattern: [12, 20] count: 3
+Pattern: [1, 16] count: 2
+Pattern: [2, 18] count: 2
+Pattern: [2, 20] count: 2
+Pattern: [3, 13] count: 2
+Pattern: [3, 20] count: 2
+Pattern: [4, 14] count: 2
+Pattern: [8, 11] count: 2
+Pattern: [8, 18] count: 2
+Pattern: [9, 13] count: 2
+Pattern: [10, 19] count: 2
+Pattern: [10, 22] count: 2
+Pattern: [11, 15] count: 2
+Pattern: [11, 19] count: 2
+Pattern: [11, 21] count: 2
+Pattern: [13, 23] count: 2
+Pattern: [0, 15] count: 1
+Pattern: [1, 10] count: 1
+Pattern: [2, 13] count: 1
+Pattern: [3, 6] count: 1
+Pattern: [3, 11] count: 1
+Pattern: [4, 8] count: 1
+Pattern: [4, 12] count: 1
+Pattern: [5, 16] count: 1
+Pattern: [5, 21] count: 1
+Pattern: [6, 19] count: 1
+Pattern: [6, 20] count: 1
+Pattern: [8, 12] count: 1
+Pattern: [8, 13] count: 1
+Pattern: [9, 22] count: 1
+Pattern: [11, 17] count: 1
+Pattern: [12, 19] count: 1
+Pattern: [12, 22] count: 1
+Final codetable size: 140
+Final Compression size: 69403.0
+Compression ratio: 8.4720458984375%
+Pattern from sa:30
+Elapsed time: 1.808 seconds
+Memory usage: 293.90177154541016 MB
+
+SA working: 117
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 2
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [0, 2, 5, 9, 10, 12] count: 213
+Pattern: [2, 3, 4, 7, 8, 13] count: 177
+Pattern: [3, 4, 6, 8, 12, 23] count: 18
+Pattern: [0, 1, 3, 6, 11] count: 429
+Pattern: [1, 2, 3, 6, 8] count: 283
+Pattern: [0, 2, 5, 6, 9] count: 257
+Pattern: [0, 5, 9, 21] count: 235
+Pattern: [0, 7, 8, 10] count: 77
+Pattern: [4, 5, 7, 10] count: 76
+Pattern: [4, 7, 8, 11] count: 59
+Pattern: [7, 8, 9, 10] count: 51
+Pattern: [9, 12, 13, 14] count: 27
+Pattern: [0, 1, 2] count: 1294
+Pattern: [0, 1, 3] count: 1282
+Pattern: [0, 4, 8] count: 841
+Pattern: [2, 5, 7] count: 798
+Pattern: [2, 4, 5] count: 620
+Pattern: [2, 3, 7] count: 614
+Pattern: [4, 5, 6] count: 575
+Pattern: [3, 4, 7] count: 572
+Pattern: [2, 5, 12] count: 562
+Pattern: [0, 7, 10] count: 533
+Pattern: [0, 3, 9] count: 449
+Pattern: [2, 4, 10] count: 398
+Pattern: [3, 5, 9] count: 395
+Pattern: [3, 6, 15] count: 270
+Pattern: [5, 9, 18] count: 270
+Pattern: [4, 7, 10] count: 134
+Pattern: [1, 10, 11] count: 120
+Pattern: [3, 8, 9] count: 112
+Pattern: [5, 11, 12] count: 97
+Pattern: [3, 11, 12] count: 95
+Pattern: [9, 10, 11] count: 68
+Pattern: [10, 11, 19] count: 33
+Pattern: [0, 6] count: 1646
+Pattern: [3, 4] count: 1600
+Pattern: [2, 3] count: 1432
+Pattern: [1, 5] count: 1187
+Pattern: [4, 5] count: 935
+Pattern: [6, 8] count: 914
+Pattern: [1, 13] count: 469
+Pattern: [7, 14] count: 314
+Pattern: [10, 16] count: 221
+Pattern: [12, 21] count: 217
+Pattern: [4, 8] count: 203
+Pattern: [11, 19] count: 198
+Pattern: [5, 22] count: 177
+Pattern: [3, 15] count: 162
+Pattern: [7, 10] count: 162
+Pattern: [1, 20] count: 149
+Pattern: [5, 9] count: 107
+Pattern: [12, 14] count: 82
+Pattern: [8, 20] count: 58
+Pattern: [0, 12] count: 49
+Pattern: [4, 13] count: 45
+Pattern: [6, 21] count: 43
+Pattern: [6, 17] count: 42
+Pattern: [9, 10] count: 42
+Pattern: [11, 23] count: 42
+Pattern: [2, 20] count: 41
+Pattern: [7, 18] count: 37
+Pattern: [6, 10] count: 35
+Pattern: [7, 22] count: 32
+Pattern: [4, 10] count: 29
+Pattern: [2, 12] count: 28
+Pattern: [3, 7] count: 28
+Pattern: [0, 1] count: 25
+Pattern: [6, 16] count: 24
+Pattern: [8, 9] count: 24
+Pattern: [12, 20] count: 24
+Pattern: [10, 15] count: 23
+Pattern: [11, 15] count: 23
+Pattern: [8, 22] count: 22
+Pattern: [9, 14] count: 22
+Pattern: [3, 22] count: 20
+Pattern: [8, 17] count: 20
+Pattern: [8, 16] count: 19
+Pattern: [0, 11] count: 17
+Pattern: [3, 17] count: 17
+Pattern: [5, 15] count: 17
+Pattern: [0, 22] count: 16
+Pattern: [2, 9] count: 15
+Pattern: [0, 19] count: 14
+Pattern: [6, 13] count: 14
+Pattern: [6, 23] count: 14
+Pattern: [3, 19] count: 11
+Pattern: [12, 13] count: 10
+Pattern: [0, 2] count: 9
+Pattern: [4, 16] count: 9
+Pattern: [0, 15] count: 7
+Pattern: [6, 19] count: 7
+Pattern: [9, 11] count: 7
+Pattern: [4, 14] count: 6
+Pattern: [9, 13] count: 6
+Pattern: [11, 17] count: 6
+Pattern: [5, 17] count: 5
+Pattern: [5, 20] count: 5
+Pattern: [7, 21] count: 5
+Pattern: [12, 22] count: 5
+Pattern: [1, 22] count: 4
+Pattern: [7, 15] count: 4
+Pattern: [10, 18] count: 4
+Pattern: [0, 14] count: 3
+Pattern: [0, 21] count: 3
+Pattern: [1, 4] count: 3
+Pattern: [1, 6] count: 3
+Pattern: [1, 11] count: 3
+Pattern: [2, 18] count: 3
+Pattern: [3, 21] count: 3
+Pattern: [3, 23] count: 3
+Pattern: [5, 19] count: 3
+Pattern: [6, 15] count: 3
+Pattern: [6, 22] count: 3
+Pattern: [9, 18] count: 3
+Pattern: [11, 13] count: 3
+Pattern: [13, 20] count: 3
+Pattern: [2, 13] count: 2
+Pattern: [4, 11] count: 2
+Pattern: [9, 16] count: 2
+Pattern: [10, 20] count: 2
+Pattern: [10, 22] count: 2
+Pattern: [11, 20] count: 2
+Pattern: [11, 22] count: 2
+Pattern: [12, 18] count: 2
+Pattern: [0, 16] count: 1
+Pattern: [0, 17] count: 1
+Pattern: [0, 20] count: 1
+Pattern: [0, 23] count: 1
+Pattern: [1, 15] count: 1
+Pattern: [1, 16] count: 1
+Pattern: [1, 17] count: 1
+Pattern: [1, 18] count: 1
+Pattern: [2, 4] count: 1
+Pattern: [3, 6] count: 1
+Pattern: [3, 16] count: 1
+Pattern: [5, 6] count: 1
+Pattern: [6, 20] count: 1
+Pattern: [7, 11] count: 1
+Pattern: [7, 17] count: 1
+Pattern: [7, 19] count: 1
+Pattern: [7, 23] count: 1
+Pattern: [8, 15] count: 1
+Pattern: [8, 18] count: 1
+Pattern: [8, 19] count: 1
+Pattern: [10, 19] count: 1
+Pattern: [10, 23] count: 1
+Pattern: [11, 16] count: 1
+Pattern: [11, 21] count: 1
+Pattern: [12, 17] count: 1
+Pattern: [13, 17] count: 1
+Pattern: [13, 19] count: 1
+Pattern: [13, 21] count: 1
+Final codetable size: 152
+Final Compression size: 71426.0
+Compression ratio: 8.718994140625%
+Pattern from sa:42
+Elapsed time: 1.608 seconds
+Memory usage: 259.5152130126953 MB
+
+SA working: 170
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 3
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [3, 4, 6, 8, 11] count: 246
+Pattern: [0, 2, 6, 9, 10] count: 82
+Pattern: [2, 4, 5, 7, 12] count: 57
+Pattern: [0, 3, 5, 11, 12] count: 53
+Pattern: [7, 9, 10, 13, 18] count: 23
+Pattern: [4, 5, 7, 11, 13] count: 11
+Pattern: [1, 2, 3, 4] count: 909
+Pattern: [3, 6, 8, 11] count: 273
+Pattern: [5, 7, 9, 14] count: 247
+Pattern: [1, 6, 10, 11] count: 87
+Pattern: [0, 1, 4] count: 1448
+Pattern: [1, 2, 5] count: 843
+Pattern: [2, 3, 6] count: 818
+Pattern: [2, 5, 7] count: 798
+Pattern: [3, 5, 6] count: 770
+Pattern: [0, 3, 9] count: 449
+Pattern: [1, 5, 11] count: 344
+Pattern: [3, 7, 8] count: 331
+Pattern: [6, 8, 11] count: 329
+Pattern: [5, 6, 12] count: 299
+Pattern: [0, 5, 21] count: 267
+Pattern: [2, 4, 20] count: 255
+Pattern: [5, 7, 18] count: 249
+Pattern: [5, 6, 19] count: 233
+Pattern: [4, 8, 12] count: 106
+Pattern: [6, 10, 11] count: 96
+Pattern: [8, 9, 12] count: 63
+Pattern: [6, 9, 18] count: 35
+Pattern: [5, 13, 15] count: 29
+Pattern: [2, 6] count: 1192
+Pattern: [2, 8] count: 956
+Pattern: [0, 10] count: 955
+Pattern: [4, 5] count: 935
+Pattern: [5, 7] count: 924
+Pattern: [0, 12] count: 740
+Pattern: [1, 9] count: 529
+Pattern: [6, 10] count: 470
+Pattern: [7, 8] count: 440
+Pattern: [7, 12] count: 434
+Pattern: [9, 12] count: 363
+Pattern: [13, 20] count: 262
+Pattern: [3, 11] count: 206
+Pattern: [5, 15] count: 203
+Pattern: [7, 18] count: 202
+Pattern: [8, 17] count: 195
+Pattern: [3, 22] count: 171
+Pattern: [1, 4] count: 89
+Pattern: [8, 16] count: 64
+Pattern: [10, 13] count: 55
+Pattern: [12, 21] count: 54
+Pattern: [9, 14] count: 52
+Pattern: [7, 10] count: 43
+Pattern: [11, 23] count: 40
+Pattern: [8, 23] count: 36
+Pattern: [6, 13] count: 35
+Pattern: [1, 23] count: 34
+Pattern: [12, 14] count: 34
+Pattern: [11, 12] count: 32
+Pattern: [5, 22] count: 28
+Pattern: [11, 21] count: 28
+Pattern: [5, 17] count: 26
+Pattern: [10, 11] count: 26
+Pattern: [4, 12] count: 25
+Pattern: [7, 22] count: 25
+Pattern: [8, 15] count: 24
+Pattern: [12, 13] count: 24
+Pattern: [2, 22] count: 22
+Pattern: [1, 11] count: 21
+Pattern: [11, 15] count: 21
+Pattern: [0, 21] count: 20
+Pattern: [0, 17] count: 19
+Pattern: [2, 17] count: 18
+Pattern: [2, 20] count: 17
+Pattern: [4, 6] count: 17
+Pattern: [13, 22] count: 17
+Pattern: [6, 8] count: 16
+Pattern: [13, 16] count: 16
+Pattern: [5, 16] count: 15
+Pattern: [5, 21] count: 14
+Pattern: [3, 15] count: 13
+Pattern: [4, 13] count: 12
+Pattern: [10, 22] count: 12
+Pattern: [5, 19] count: 11
+Pattern: [7, 16] count: 11
+Pattern: [11, 14] count: 11
+Pattern: [11, 17] count: 11
+Pattern: [10, 18] count: 10
+Pattern: [13, 17] count: 9
+Pattern: [7, 19] count: 8
+Pattern: [7, 14] count: 7
+Pattern: [3, 9] count: 6
+Pattern: [6, 9] count: 6
+Pattern: [8, 19] count: 6
+Pattern: [0, 2] count: 5
+Pattern: [1, 19] count: 5
+Pattern: [3, 20] count: 5
+Pattern: [5, 18] count: 5
+Pattern: [7, 15] count: 5
+Pattern: [3, 17] count: 4
+Pattern: [5, 23] count: 4
+Pattern: [8, 11] count: 4
+Pattern: [9, 21] count: 4
+Pattern: [2, 16] count: 3
+Pattern: [4, 11] count: 3
+Pattern: [6, 11] count: 3
+Pattern: [6, 21] count: 3
+Pattern: [6, 23] count: 3
+Pattern: [9, 18] count: 3
+Pattern: [10, 14] count: 3
+Pattern: [12, 22] count: 3
+Pattern: [13, 19] count: 3
+Pattern: [0, 3] count: 2
+Pattern: [0, 16] count: 2
+Pattern: [1, 16] count: 2
+Pattern: [3, 19] count: 2
+Pattern: [4, 8] count: 2
+Pattern: [5, 6] count: 2
+Pattern: [9, 16] count: 2
+Pattern: [11, 18] count: 2
+Pattern: [11, 22] count: 2
+Pattern: [12, 15] count: 2
+Pattern: [12, 16] count: 2
+Pattern: [12, 18] count: 2
+Pattern: [0, 15] count: 1
+Pattern: [0, 22] count: 1
+Pattern: [2, 10] count: 1
+Pattern: [2, 15] count: 1
+Pattern: [2, 19] count: 1
+Pattern: [3, 21] count: 1
+Pattern: [4, 20] count: 1
+Pattern: [5, 13] count: 1
+Pattern: [6, 15] count: 1
+Pattern: [7, 9] count: 1
+Pattern: [7, 17] count: 1
+Pattern: [8, 20] count: 1
+Pattern: [9, 11] count: 1
+Pattern: [10, 15] count: 1
+Pattern: [10, 16] count: 1
+Pattern: [11, 16] count: 1
+Pattern: [11, 20] count: 1
+Pattern: [13, 15] count: 1
+Pattern: [13, 23] count: 1
+Final codetable size: 142
+Final Compression size: 110577.0
+Compression ratio: 13.4981689453125%
+Pattern from sa:39
+Elapsed time: 1.376 seconds
+Memory usage: 143.3191680908203 MB
+
+SA working: 149
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 4
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [0, 3, 5, 6, 12] count: 237
+Pattern: [0, 2, 7, 8, 9] count: 56
+Pattern: [1, 4, 8, 11, 13] count: 47
+Pattern: [1, 4, 5, 11, 13] count: 36
+Pattern: [3, 4, 8, 11] count: 297
+Pattern: [2, 4, 7, 8] count: 287
+Pattern: [2, 4, 8, 13] count: 268
+Pattern: [0, 4, 6] count: 1231
+Pattern: [1, 2, 3] count: 1070
+Pattern: [2, 4, 6] count: 847
+Pattern: [0, 5, 7] count: 809
+Pattern: [0, 1, 7] count: 623
+Pattern: [2, 4, 5] count: 620
+Pattern: [2, 3, 8] count: 599
+Pattern: [3, 4, 11] count: 572
+Pattern: [5, 9, 10] count: 516
+Pattern: [0, 3, 7] count: 464
+Pattern: [1, 8, 10] count: 371
+Pattern: [3, 6, 23] count: 248
+Pattern: [0, 7, 8] count: 188
+Pattern: [3, 9, 11] count: 103
+Pattern: [7, 11, 12] count: 55
+Pattern: [8, 11, 12] count: 42
+Pattern: [5, 7, 20] count: 31
+Pattern: [0, 2] count: 1906
+Pattern: [0, 1] count: 1903
+Pattern: [0, 3] count: 1688
+Pattern: [1, 2] count: 1672
+Pattern: [2, 4] count: 1426
+Pattern: [2, 6] count: 1192
+Pattern: [3, 5] count: 1180
+Pattern: [4, 8] count: 1159
+Pattern: [2, 9] count: 935
+Pattern: [3, 8] count: 927
+Pattern: [5, 10] count: 666
+Pattern: [6, 11] count: 644
+Pattern: [1, 11] count: 404
+Pattern: [5, 15] count: 300
+Pattern: [7, 20] count: 287
+Pattern: [12, 14] count: 261
+Pattern: [2, 16] count: 189
+Pattern: [4, 22] count: 185
+Pattern: [8, 17] count: 181
+Pattern: [2, 18] count: 154
+Pattern: [12, 21] count: 113
+Pattern: [6, 13] count: 107
+Pattern: [0, 6] count: 90
+Pattern: [7, 13] count: 66
+Pattern: [0, 7] count: 65
+Pattern: [5, 19] count: 64
+Pattern: [3, 12] count: 56
+Pattern: [9, 21] count: 47
+Pattern: [8, 9] count: 43
+Pattern: [10, 12] count: 43
+Pattern: [5, 22] count: 38
+Pattern: [9, 18] count: 37
+Pattern: [7, 12] count: 35
+Pattern: [13, 14] count: 35
+Pattern: [4, 17] count: 28
+Pattern: [4, 13] count: 26
+Pattern: [11, 16] count: 26
+Pattern: [3, 19] count: 25
+Pattern: [8, 16] count: 23
+Pattern: [0, 14] count: 22
+Pattern: [5, 17] count: 22
+Pattern: [11, 19] count: 22
+Pattern: [12, 22] count: 21
+Pattern: [12, 17] count: 20
+Pattern: [8, 15] count: 19
+Pattern: [6, 8] count: 18
+Pattern: [9, 22] count: 18
+Pattern: [2, 17] count: 17
+Pattern: [3, 23] count: 17
+Pattern: [8, 23] count: 17
+Pattern: [4, 16] count: 16
+Pattern: [11, 23] count: 16
+Pattern: [2, 14] count: 15
+Pattern: [11, 18] count: 15
+Pattern: [13, 16] count: 15
+Pattern: [4, 15] count: 13
+Pattern: [10, 22] count: 13
+Pattern: [0, 16] count: 9
+Pattern: [1, 10] count: 9
+Pattern: [10, 18] count: 8
+Pattern: [8, 10] count: 7
+Pattern: [4, 10] count: 6
+Pattern: [5, 9] count: 6
+Pattern: [5, 21] count: 6
+Pattern: [10, 14] count: 6
+Pattern: [3, 22] count: 5
+Pattern: [12, 19] count: 5
+Pattern: [13, 17] count: 5
+Pattern: [0, 18] count: 4
+Pattern: [3, 6] count: 4
+Pattern: [5, 23] count: 4
+Pattern: [7, 10] count: 4
+Pattern: [9, 15] count: 4
+Pattern: [9, 23] count: 4
+Pattern: [12, 23] count: 4
+Pattern: [2, 22] count: 3
+Pattern: [2, 23] count: 3
+Pattern: [4, 19] count: 3
+Pattern: [4, 20] count: 3
+Pattern: [6, 10] count: 3
+Pattern: [6, 12] count: 3
+Pattern: [9, 13] count: 3
+Pattern: [2, 15] count: 2
+Pattern: [5, 18] count: 2
+Pattern: [6, 20] count: 2
+Pattern: [8, 19] count: 2
+Pattern: [9, 14] count: 2
+Pattern: [9, 17] count: 2
+Pattern: [12, 15] count: 2
+Pattern: [12, 16] count: 2
+Pattern: [0, 10] count: 1
+Pattern: [0, 12] count: 1
+Pattern: [2, 12] count: 1
+Pattern: [2, 19] count: 1
+Pattern: [2, 21] count: 1
+Pattern: [3, 17] count: 1
+Pattern: [3, 21] count: 1
+Pattern: [4, 18] count: 1
+Pattern: [5, 16] count: 1
+Pattern: [6, 17] count: 1
+Pattern: [7, 8] count: 1
+Pattern: [8, 18] count: 1
+Pattern: [8, 20] count: 1
+Pattern: [9, 19] count: 1
+Pattern: [10, 15] count: 1
+Pattern: [10, 16] count: 1
+Pattern: [10, 23] count: 1
+Pattern: [11, 14] count: 1
+Pattern: [11, 15] count: 1
+Pattern: [12, 13] count: 1
+Pattern: [12, 20] count: 1
+Pattern: [13, 19] count: 1
+Pattern: [13, 20] count: 1
+Final codetable size: 137
+Final Compression size: 95570.0
+Compression ratio: 11.666259765625%
+Pattern from sa:39
+Elapsed time: 1.255 seconds
+Memory usage: 215.89789581298828 MB
+
+SA working: 156
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 5
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [1, 7, 11, 13, 20] count: 23
+Pattern: [2, 5, 6, 12, 13] count: 18
+Pattern: [0, 4, 6] count: 1231
+Pattern: [2, 3, 4] count: 1028
+Pattern: [0, 2, 9] count: 830
+Pattern: [2, 5, 7] count: 798
+Pattern: [6, 8, 10] count: 318
+Pattern: [5, 7, 11] count: 126
+Pattern: [9, 10, 11] count: 68
+Pattern: [0, 1] count: 1903
+Pattern: [1, 4] count: 1843
+Pattern: [3, 8] count: 927
+Pattern: [5, 6] count: 922
+Pattern: [3, 9] count: 507
+Pattern: [9, 10] count: 503
+Pattern: [4, 10] count: 494
+Pattern: [0, 12] count: 487
+Pattern: [4, 11] count: 474
+Pattern: [7, 8] count: 440
+Pattern: [1, 13] count: 332
+Pattern: [6, 8] count: 281
+Pattern: [2, 16] count: 257
+Pattern: [5, 7] count: 228
+Pattern: [3, 19] count: 199
+Pattern: [6, 23] count: 192
+Pattern: [12, 21] count: 177
+Pattern: [12, 14] count: 70
+Pattern: [11, 19] count: 58
+Pattern: [2, 9] count: 57
+Pattern: [13, 20] count: 56
+Pattern: [2, 15] count: 51
+Pattern: [2, 18] count: 51
+Pattern: [11, 13] count: 46
+Pattern: [6, 17] count: 42
+Pattern: [9, 11] count: 36
+Pattern: [3, 15] count: 32
+Pattern: [2, 17] count: 31
+Pattern: [11, 21] count: 25
+Pattern: [7, 23] count: 24
+Pattern: [7, 20] count: 23
+Pattern: [11, 23] count: 23
+Pattern: [3, 22] count: 21
+Pattern: [2, 10] count: 19
+Pattern: [2, 21] count: 19
+Pattern: [6, 19] count: 19
+Pattern: [10, 13] count: 15
+Pattern: [3, 23] count: 14
+Pattern: [12, 13] count: 11
+Pattern: [2, 22] count: 8
+Pattern: [2, 14] count: 7
+Pattern: [7, 17] count: 7
+Pattern: [6, 21] count: 6
+Pattern: [10, 12] count: 6
+Pattern: [2, 4] count: 5
+Pattern: [2, 20] count: 5
+Pattern: [3, 17] count: 5
+Pattern: [6, 15] count: 5
+Pattern: [7, 18] count: 5
+Pattern: [7, 22] count: 5
+Pattern: [6, 9] count: 4
+Pattern: [11, 15] count: 4
+Pattern: [11, 16] count: 4
+Pattern: [2, 13] count: 3
+Pattern: [3, 4] count: 3
+Pattern: [6, 16] count: 3
+Pattern: [6, 22] count: 3
+Pattern: [3, 21] count: 2
+Pattern: [6, 13] count: 2
+Pattern: [7, 19] count: 2
+Pattern: [11, 17] count: 2
+Pattern: [2, 19] count: 1
+Pattern: [2, 23] count: 1
+Pattern: [3, 13] count: 1
+Pattern: [6, 20] count: 1
+Pattern: [7, 12] count: 1
+Pattern: [7, 14] count: 1
+Pattern: [7, 21] count: 1
+Pattern: [10, 23] count: 1
+Pattern: [12, 16] count: 1
+Final codetable size: 79
+Final Compression size: 163946.0
+Compression ratio: 20.012939453125%
+Pattern from sa:16
+Elapsed time: 0.51 seconds
+Memory usage: 407.83960723876953 MB
+
+SA working: 64
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 6
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [1, 2, 3, 8, 13] count: 224
+Pattern: [2, 3, 6, 8, 17] count: 213
+Pattern: [0, 5, 10, 11, 19] count: 26
+Pattern: [3, 4, 8, 12, 20] count: 25
+Pattern: [0, 2, 6, 10, 17] count: 21
+Pattern: [0, 1, 2, 9] count: 363
+Pattern: [0, 3, 7, 8] count: 111
+Pattern: [4, 7, 10, 12] count: 48
+Pattern: [5, 6, 9, 13] count: 27
+Pattern: [0, 2, 5] count: 1252
+Pattern: [0, 3, 6] count: 1224
+Pattern: [3, 4, 6] count: 1028
+Pattern: [2, 3, 5] count: 833
+Pattern: [0, 2, 8] count: 654
+Pattern: [0, 3, 7] count: 464
+Pattern: [4, 5, 7] count: 360
+Pattern: [1, 3, 9] count: 227
+Pattern: [3, 7, 9] count: 169
+Pattern: [2, 8, 9] count: 150
+Pattern: [7, 8, 11] count: 69
+Pattern: [11, 13, 19] count: 27
+Pattern: [1, 4] count: 1843
+Pattern: [3, 6] count: 1366
+Pattern: [1, 5] count: 1187
+Pattern: [2, 7] count: 1169
+Pattern: [2, 9] count: 935
+Pattern: [6, 8] count: 914
+Pattern: [3, 7] count: 741
+Pattern: [9, 10] count: 599
+Pattern: [5, 11] count: 328
+Pattern: [0, 16] count: 302
+Pattern: [12, 14] count: 300
+Pattern: [12, 21] count: 282
+Pattern: [8, 11] count: 271
+Pattern: [6, 10] count: 259
+Pattern: [7, 18] count: 242
+Pattern: [13, 20] count: 242
+Pattern: [3, 8] count: 155
+Pattern: [4, 12] count: 106
+Pattern: [2, 8] count: 90
+Pattern: [7, 10] count: 63
+Pattern: [0, 11] count: 57
+Pattern: [1, 9] count: 44
+Pattern: [6, 15] count: 41
+Pattern: [10, 13] count: 41
+Pattern: [1, 18] count: 34
+Pattern: [8, 10] count: 34
+Pattern: [7, 22] count: 33
+Pattern: [5, 13] count: 32
+Pattern: [11, 23] count: 30
+Pattern: [0, 7] count: 26
+Pattern: [9, 11] count: 26
+Pattern: [2, 17] count: 24
+Pattern: [10, 11] count: 24
+Pattern: [13, 23] count: 24
+Pattern: [7, 9] count: 22
+Pattern: [12, 15] count: 22
+Pattern: [2, 16] count: 20
+Pattern: [2, 22] count: 20
+Pattern: [6, 21] count: 20
+Pattern: [2, 20] count: 19
+Pattern: [1, 14] count: 17
+Pattern: [13, 18] count: 17
+Pattern: [2, 3] count: 16
+Pattern: [10, 23] count: 16
+Pattern: [13, 22] count: 16
+Pattern: [10, 16] count: 14
+Pattern: [13, 15] count: 12
+Pattern: [13, 17] count: 10
+Pattern: [2, 10] count: 9
+Pattern: [12, 18] count: 9
+Pattern: [12, 22] count: 7
+Pattern: [1, 3] count: 6
+Pattern: [12, 19] count: 6
+Pattern: [0, 6] count: 5
+Pattern: [0, 12] count: 5
+Pattern: [1, 23] count: 5
+Pattern: [8, 16] count: 5
+Pattern: [11, 17] count: 5
+Pattern: [1, 22] count: 4
+Pattern: [2, 15] count: 4
+Pattern: [6, 17] count: 4
+Pattern: [6, 19] count: 4
+Pattern: [7, 15] count: 4
+Pattern: [10, 19] count: 4
+Pattern: [11, 19] count: 4
+Pattern: [13, 16] count: 4
+Pattern: [0, 15] count: 3
+Pattern: [1, 11] count: 3
+Pattern: [1, 21] count: 3
+Pattern: [5, 10] count: 3
+Pattern: [7, 13] count: 3
+Pattern: [8, 14] count: 3
+Pattern: [12, 17] count: 3
+Pattern: [2, 19] count: 2
+Pattern: [3, 12] count: 2
+Pattern: [6, 16] count: 2
+Pattern: [6, 18] count: 2
+Pattern: [6, 22] count: 2
+Pattern: [7, 14] count: 2
+Pattern: [10, 17] count: 2
+Pattern: [11, 16] count: 2
+Pattern: [11, 20] count: 2
+Pattern: [13, 14] count: 2
+Pattern: [0, 4] count: 1
+Pattern: [0, 17] count: 1
+Pattern: [1, 15] count: 1
+Pattern: [2, 4] count: 1
+Pattern: [3, 11] count: 1
+Pattern: [4, 8] count: 1
+Pattern: [5, 7] count: 1
+Pattern: [5, 12] count: 1
+Pattern: [5, 15] count: 1
+Pattern: [5, 18] count: 1
+Pattern: [5, 22] count: 1
+Pattern: [6, 11] count: 1
+Pattern: [6, 20] count: 1
+Pattern: [7, 17] count: 1
+Pattern: [7, 19] count: 1
+Pattern: [8, 22] count: 1
+Pattern: [10, 15] count: 1
+Pattern: [11, 13] count: 1
+Pattern: [11, 18] count: 1
+Pattern: [11, 22] count: 1
+Final codetable size: 124
+Final Compression size: 94076.0
+Compression ratio: 11.48388671875%
+Pattern from sa:30
+Elapsed time: 0.803 seconds
+Memory usage: 541.7380599975586 MB
+
+SA working: 116
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 7
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [2, 4, 6, 8, 10] count: 238
+Pattern: [2, 3, 6, 9, 12] count: 180
+Pattern: [1, 4, 7, 10, 13] count: 33
+Pattern: [4, 7, 8, 10, 11] count: 8
+Pattern: [0, 1, 8, 11] count: 308
+Pattern: [0, 1, 6, 19] count: 222
+Pattern: [0, 2, 7, 16] count: 27
+Pattern: [0, 1, 2] count: 1294
+Pattern: [2, 3, 4] count: 1028
+Pattern: [0, 5, 6] count: 834
+Pattern: [0, 5, 7] count: 809
+Pattern: [3, 4, 5] count: 785
+Pattern: [0, 7, 9] count: 574
+Pattern: [1, 6, 11] count: 560
+Pattern: [5, 7, 10] count: 514
+Pattern: [2, 6, 10] count: 374
+Pattern: [2, 3, 12] count: 362
+Pattern: [5, 6, 9] count: 347
+Pattern: [4, 8, 10] count: 344
+Pattern: [3, 6, 9] count: 338
+Pattern: [7, 12, 14] count: 288
+Pattern: [6, 8, 16] count: 275
+Pattern: [6, 8, 23] count: 250
+Pattern: [3, 11, 12] count: 95
+Pattern: [6, 8, 12] count: 95
+Pattern: [8, 9, 10] count: 83
+Pattern: [8, 10, 11] count: 70
+Pattern: [5, 6, 16] count: 19
+Pattern: [0, 6] count: 1646
+Pattern: [3, 4] count: 1600
+Pattern: [1, 6] count: 1442
+Pattern: [3, 7] count: 741
+Pattern: [9, 12] count: 577
+Pattern: [1, 9] count: 529
+Pattern: [8, 13] count: 354
+Pattern: [6, 15] count: 303
+Pattern: [2, 20] count: 285
+Pattern: [2, 10] count: 248
+Pattern: [7, 20] count: 236
+Pattern: [6, 17] count: 215
+Pattern: [6, 16] count: 214
+Pattern: [9, 21] count: 210
+Pattern: [7, 22] count: 196
+Pattern: [9, 18] count: 183
+Pattern: [6, 23] count: 178
+Pattern: [9, 11] count: 171
+Pattern: [8, 12] count: 169
+Pattern: [4, 10] count: 110
+Pattern: [5, 13] count: 110
+Pattern: [11, 19] count: 86
+Pattern: [12, 14] count: 66
+Pattern: [1, 11] count: 50
+Pattern: [2, 13] count: 49
+Pattern: [11, 23] count: 45
+Pattern: [9, 14] count: 42
+Pattern: [10, 18] count: 42
+Pattern: [8, 17] count: 37
+Pattern: [12, 21] count: 32
+Pattern: [0, 17] count: 24
+Pattern: [1, 13] count: 24
+Pattern: [6, 22] count: 24
+Pattern: [9, 22] count: 24
+Pattern: [12, 22] count: 23
+Pattern: [3, 8] count: 22
+Pattern: [3, 15] count: 22
+Pattern: [3, 21] count: 22
+Pattern: [7, 18] count: 22
+Pattern: [12, 15] count: 22
+Pattern: [0, 15] count: 20
+Pattern: [0, 16] count: 20
+Pattern: [7, 23] count: 20
+Pattern: [8, 11] count: 20
+Pattern: [5, 11] count: 19
+Pattern: [7, 15] count: 19
+Pattern: [13, 19] count: 19
+Pattern: [0, 21] count: 18
+Pattern: [7, 16] count: 18
+Pattern: [0, 2] count: 17
+Pattern: [6, 19] count: 14
+Pattern: [0, 23] count: 13
+Pattern: [7, 17] count: 13
+Pattern: [4, 18] count: 11
+Pattern: [4, 22] count: 11
+Pattern: [9, 15] count: 8
+Pattern: [11, 13] count: 6
+Pattern: [2, 3] count: 5
+Pattern: [3, 11] count: 5
+Pattern: [8, 14] count: 5
+Pattern: [0, 7] count: 4
+Pattern: [0, 11] count: 4
+Pattern: [1, 4] count: 4
+Pattern: [2, 18] count: 4
+Pattern: [3, 6] count: 4
+Pattern: [3, 17] count: 4
+Pattern: [7, 19] count: 4
+Pattern: [9, 19] count: 4
+Pattern: [10, 15] count: 4
+Pattern: [13, 20] count: 4
+Pattern: [13, 23] count: 4
+Pattern: [2, 16] count: 3
+Pattern: [4, 14] count: 3
+Pattern: [4, 16] count: 3
+Pattern: [6, 18] count: 3
+Pattern: [6, 21] count: 3
+Pattern: [7, 14] count: 3
+Pattern: [8, 21] count: 3
+Pattern: [10, 11] count: 3
+Pattern: [2, 5] count: 2
+Pattern: [3, 22] count: 2
+Pattern: [7, 10] count: 2
+Pattern: [8, 22] count: 2
+Pattern: [12, 17] count: 2
+Pattern: [13, 15] count: 2
+Pattern: [13, 16] count: 2
+Pattern: [13, 17] count: 2
+Pattern: [0, 1] count: 1
+Pattern: [0, 8] count: 1
+Pattern: [0, 18] count: 1
+Pattern: [0, 22] count: 1
+Pattern: [2, 22] count: 1
+Pattern: [3, 9] count: 1
+Pattern: [3, 18] count: 1
+Pattern: [4, 15] count: 1
+Pattern: [5, 17] count: 1
+Pattern: [6, 12] count: 1
+Pattern: [6, 20] count: 1
+Pattern: [8, 18] count: 1
+Pattern: [8, 23] count: 1
+Pattern: [10, 14] count: 1
+Pattern: [10, 16] count: 1
+Pattern: [10, 22] count: 1
+Pattern: [11, 16] count: 1
+Pattern: [11, 17] count: 1
+Pattern: [11, 18] count: 1
+Pattern: [11, 20] count: 1
+Pattern: [13, 21] count: 1
+Final codetable size: 136
+Final Compression size: 74670.0
+Compression ratio: 9.114990234375%
+Pattern from sa:39
+Elapsed time: 1.128 seconds
+Memory usage: 245.5149154663086 MB
+
+SA working: 129
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 8
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [1, 3, 4, 7, 8, 11] count: 45
+Pattern: [2, 5, 6, 9, 10] count: 66
+Pattern: [5, 7, 10, 12, 13] count: 28
+Pattern: [1, 7, 9, 13, 18] count: 25
+Pattern: [4, 7, 8, 13] count: 222
+Pattern: [0, 1, 4] count: 1448
+Pattern: [0, 4, 6] count: 1231
+Pattern: [1, 2, 3] count: 1070
+Pattern: [0, 5, 6] count: 834
+Pattern: [0, 2, 9] count: 830
+Pattern: [2, 3, 6] count: 818
+Pattern: [4, 6, 8] count: 813
+Pattern: [0, 5, 7] count: 809
+Pattern: [2, 4, 8] count: 806
+Pattern: [1, 2, 10] count: 602
+Pattern: [4, 5, 6] count: 575
+Pattern: [5, 9, 12] count: 514
+Pattern: [2, 9, 12] count: 506
+Pattern: [2, 3, 9] count: 404
+Pattern: [1, 6, 10] count: 401
+Pattern: [2, 8, 10] count: 357
+Pattern: [1, 5, 10] count: 351
+Pattern: [0, 7, 8] count: 188
+Pattern: [3, 9, 11] count: 103
+Pattern: [6, 9, 11] count: 103
+Pattern: [5, 10, 11] count: 94
+Pattern: [3, 5] count: 1180
+Pattern: [6, 8] count: 914
+Pattern: [2, 10] count: 318
+Pattern: [3, 11] count: 310
+Pattern: [9, 18] count: 221
+Pattern: [10, 14] count: 221
+Pattern: [4, 22] count: 209
+Pattern: [0, 21] count: 199
+Pattern: [5, 15] count: 184
+Pattern: [11, 19] count: 184
+Pattern: [8, 17] count: 182
+Pattern: [7, 13] count: 140
+Pattern: [2, 12] count: 95
+Pattern: [0, 1] count: 86
+Pattern: [10, 11] count: 78
+Pattern: [12, 14] count: 69
+Pattern: [1, 13] count: 59
+Pattern: [8, 23] count: 54
+Pattern: [4, 20] count: 47
+Pattern: [12, 21] count: 46
+Pattern: [9, 12] count: 43
+Pattern: [9, 14] count: 43
+Pattern: [13, 20] count: 41
+Pattern: [1, 10] count: 38
+Pattern: [6, 11] count: 35
+Pattern: [5, 22] count: 34
+Pattern: [13, 17] count: 32
+Pattern: [8, 16] count: 26
+Pattern: [9, 20] count: 26
+Pattern: [9, 22] count: 26
+Pattern: [9, 15] count: 25
+Pattern: [3, 12] count: 24
+Pattern: [13, 15] count: 24
+Pattern: [4, 17] count: 23
+Pattern: [9, 17] count: 22
+Pattern: [12, 16] count: 22
+Pattern: [9, 21] count: 21
+Pattern: [8, 15] count: 20
+Pattern: [13, 16] count: 20
+Pattern: [10, 18] count: 19
+Pattern: [5, 6] count: 18
+Pattern: [7, 11] count: 18
+Pattern: [6, 19] count: 17
+Pattern: [5, 17] count: 16
+Pattern: [4, 12] count: 15
+Pattern: [4, 15] count: 15
+Pattern: [7, 16] count: 14
+Pattern: [13, 21] count: 12
+Pattern: [5, 7] count: 11
+Pattern: [5, 19] count: 11
+Pattern: [12, 19] count: 10
+Pattern: [1, 11] count: 9
+Pattern: [0, 12] count: 6
+Pattern: [2, 4] count: 6
+Pattern: [9, 16] count: 6
+Pattern: [12, 22] count: 6
+Pattern: [13, 23] count: 6
+Pattern: [0, 14] count: 5
+Pattern: [0, 19] count: 5
+Pattern: [9, 23] count: 5
+Pattern: [1, 19] count: 4
+Pattern: [3, 4] count: 4
+Pattern: [4, 16] count: 4
+Pattern: [11, 12] count: 4
+Pattern: [13, 22] count: 4
+Pattern: [0, 15] count: 3
+Pattern: [4, 19] count: 3
+Pattern: [5, 21] count: 3
+Pattern: [5, 23] count: 3
+Pattern: [6, 15] count: 3
+Pattern: [7, 19] count: 3
+Pattern: [7, 20] count: 3
+Pattern: [7, 22] count: 3
+Pattern: [12, 17] count: 3
+Pattern: [12, 18] count: 3
+Pattern: [1, 18] count: 2
+Pattern: [1, 20] count: 2
+Pattern: [1, 22] count: 2
+Pattern: [7, 17] count: 2
+Pattern: [8, 19] count: 2
+Pattern: [8, 20] count: 2
+Pattern: [10, 12] count: 2
+Pattern: [10, 16] count: 2
+Pattern: [10, 21] count: 2
+Pattern: [0, 16] count: 1
+Pattern: [0, 18] count: 1
+Pattern: [1, 9] count: 1
+Pattern: [1, 23] count: 1
+Pattern: [3, 21] count: 1
+Pattern: [4, 23] count: 1
+Pattern: [5, 16] count: 1
+Pattern: [6, 9] count: 1
+Pattern: [6, 16] count: 1
+Pattern: [6, 17] count: 1
+Pattern: [7, 8] count: 1
+Pattern: [7, 18] count: 1
+Pattern: [8, 11] count: 1
+Pattern: [9, 19] count: 1
+Pattern: [12, 15] count: 1
+Pattern: [13, 14] count: 1
+Pattern: [13, 19] count: 1
+Final codetable size: 127
+Final Compression size: 77445.0
+Compression ratio: 9.4537353515625%
+Pattern from sa:28
+Elapsed time: 0.608 seconds
+Memory usage: 142.68238067626953 MB
+
+SA working: 109
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 9
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [1, 2, 3, 4, 5, 7] count: 205
+Pattern: [0, 3, 4, 5, 6] count: 449
+Pattern: [0, 2, 5, 7, 10] count: 408
+Pattern: [0, 5, 6, 11, 19] count: 198
+Pattern: [3, 5, 6, 9, 12] count: 187
+Pattern: [0, 3, 5, 7, 12] count: 84
+Pattern: [4, 5, 7, 10, 12] count: 40
+Pattern: [3, 4, 7, 11, 13] count: 28
+Pattern: [3, 5, 7, 11, 22] count: 21
+Pattern: [1, 6, 10, 11, 13] count: 11
+Pattern: [2, 3, 5, 6] count: 495
+Pattern: [0, 1, 2, 9] count: 363
+Pattern: [0, 5, 7, 18] count: 223
+Pattern: [4, 5, 10, 11] count: 40
+Pattern: [0, 1, 4] count: 1448
+Pattern: [2, 3, 5] count: 833
+Pattern: [0, 2, 12] count: 612
+Pattern: [2, 3, 8] count: 599
+Pattern: [3, 6, 8] count: 596
+Pattern: [4, 5, 6] count: 575
+Pattern: [5, 9, 10] count: 516
+Pattern: [2, 4, 10] count: 398
+Pattern: [2, 6, 10] count: 374
+Pattern: [1, 3, 13] count: 368
+Pattern: [2, 6, 12] count: 310
+Pattern: [1, 7, 13] count: 307
+Pattern: [0, 10, 14] count: 282
+Pattern: [2, 7, 18] count: 255
+Pattern: [0, 1, 23] count: 252
+Pattern: [1, 3, 9] count: 227
+Pattern: [6, 9, 11] count: 103
+Pattern: [3, 11, 12] count: 95
+Pattern: [4, 11, 12] count: 68
+Pattern: [7, 9, 11] count: 68
+Pattern: [8, 9, 12] count: 63
+Pattern: [7, 12, 13] count: 60
+Pattern: [5, 11, 15] count: 33
+Pattern: [3, 7] count: 741
+Pattern: [9, 12] count: 577
+Pattern: [8, 11] count: 398
+Pattern: [6, 19] count: 270
+Pattern: [5, 10] count: 259
+Pattern: [8, 16] count: 249
+Pattern: [0, 21] count: 217
+Pattern: [6, 17] count: 208
+Pattern: [3, 5] count: 204
+Pattern: [4, 20] count: 201
+Pattern: [7, 22] count: 190
+Pattern: [11, 23] count: 190
+Pattern: [7, 18] count: 172
+Pattern: [1, 13] count: 154
+Pattern: [11, 19] count: 90
+Pattern: [4, 12] count: 73
+Pattern: [6, 10] count: 71
+Pattern: [2, 14] count: 66
+Pattern: [6, 15] count: 49
+Pattern: [8, 10] count: 44
+Pattern: [2, 9] count: 41
+Pattern: [9, 11] count: 41
+Pattern: [8, 20] count: 38
+Pattern: [2, 7] count: 36
+Pattern: [5, 18] count: 33
+Pattern: [6, 21] count: 30
+Pattern: [6, 16] count: 29
+Pattern: [6, 18] count: 27
+Pattern: [5, 12] count: 25
+Pattern: [4, 22] count: 24
+Pattern: [5, 15] count: 24
+Pattern: [7, 14] count: 24
+Pattern: [7, 17] count: 24
+Pattern: [9, 20] count: 24
+Pattern: [8, 17] count: 22
+Pattern: [11, 17] count: 21
+Pattern: [0, 15] count: 20
+Pattern: [0, 23] count: 20
+Pattern: [1, 10] count: 20
+Pattern: [6, 23] count: 20
+Pattern: [3, 6] count: 19
+Pattern: [5, 22] count: 19
+Pattern: [7, 20] count: 19
+Pattern: [13, 20] count: 19
+Pattern: [4, 15] count: 18
+Pattern: [7, 10] count: 17
+Pattern: [5, 9] count: 16
+Pattern: [13, 21] count: 14
+Pattern: [7, 15] count: 13
+Pattern: [0, 1] count: 12
+Pattern: [0, 14] count: 12
+Pattern: [5, 16] count: 12
+Pattern: [13, 22] count: 12
+Pattern: [4, 8] count: 10
+Pattern: [5, 13] count: 10
+Pattern: [11, 15] count: 10
+Pattern: [0, 5] count: 9
+Pattern: [0, 19] count: 8
+Pattern: [0, 2] count: 7
+Pattern: [8, 9] count: 7
+Pattern: [5, 20] count: 6
+Pattern: [13, 15] count: 6
+Pattern: [4, 17] count: 5
+Pattern: [8, 23] count: 5
+Pattern: [13, 14] count: 5
+Pattern: [0, 12] count: 4
+Pattern: [2, 10] count: 4
+Pattern: [6, 22] count: 4
+Pattern: [7, 16] count: 4
+Pattern: [8, 18] count: 4
+Pattern: [0, 17] count: 3
+Pattern: [5, 6] count: 3
+Pattern: [7, 11] count: 3
+Pattern: [7, 19] count: 3
+Pattern: [8, 22] count: 3
+Pattern: [11, 14] count: 3
+Pattern: [11, 22] count: 3
+Pattern: [12, 13] count: 3
+Pattern: [0, 9] count: 2
+Pattern: [0, 22] count: 2
+Pattern: [2, 4] count: 2
+Pattern: [5, 19] count: 2
+Pattern: [7, 21] count: 2
+Pattern: [8, 14] count: 2
+Pattern: [8, 15] count: 2
+Pattern: [10, 11] count: 2
+Pattern: [11, 16] count: 2
+Pattern: [13, 17] count: 2
+Pattern: [13, 19] count: 2
+Pattern: [13, 23] count: 2
+Pattern: [0, 6] count: 1
+Pattern: [0, 7] count: 1
+Pattern: [1, 5] count: 1
+Pattern: [2, 18] count: 1
+Pattern: [2, 22] count: 1
+Pattern: [4, 5] count: 1
+Pattern: [4, 16] count: 1
+Pattern: [5, 14] count: 1
+Pattern: [5, 17] count: 1
+Pattern: [5, 23] count: 1
+Pattern: [6, 12] count: 1
+Pattern: [6, 14] count: 1
+Pattern: [6, 20] count: 1
+Pattern: [8, 19] count: 1
+Pattern: [8, 21] count: 1
+Pattern: [9, 15] count: 1
+Pattern: [9, 17] count: 1
+Pattern: [9, 21] count: 1
+Pattern: [10, 15] count: 1
+Pattern: [10, 16] count: 1
+Pattern: [11, 18] count: 1
+Pattern: [11, 21] count: 1
+Final codetable size: 149
+Final Compression size: 92085.0
+Compression ratio: 11.2408447265625%
+Pattern from sa:41
+Elapsed time: 0.894 seconds
+Memory usage: 411.22716522216797 MB
+
+SA working: 171
+
+Iterations: 21
+
+Processing file: led7.txt, Run: 10
+Initial compression size: 819200.0
+Final codetable: 
+Pattern: [9, 10, 11, 12, 14] count: 31
+Pattern: [1, 4, 8, 10] count: 318
+Pattern: [0, 5, 9, 18] count: 242
+Pattern: [0, 1, 2] count: 1294
+Pattern: [0, 2, 3] count: 1095
+Pattern: [4, 6, 8] count: 813
+Pattern: [0, 1, 11] count: 609
+Pattern: [4, 5, 6] count: 575
+Pattern: [2, 5, 10] count: 572
+Pattern: [2, 7, 10] count: 555
+Pattern: [0, 3, 21] count: 278
+Pattern: [5, 9, 14] count: 276
+Pattern: [6, 8, 17] count: 260
+Pattern: [6, 9, 12] count: 252
+Pattern: [4, 7, 10] count: 134
+Pattern: [3, 8, 9] count: 112
+Pattern: [6, 9, 10] count: 110
+Pattern: [5, 9, 13] count: 81
+Pattern: [5, 11, 13] count: 50
+Pattern: [8, 11, 12] count: 42
+Pattern: [3, 4] count: 1600
+Pattern: [1, 8] count: 1185
+Pattern: [2, 7] count: 1169
+Pattern: [5, 7] count: 924
+Pattern: [5, 6] count: 922
+Pattern: [0, 12] count: 740
+Pattern: [9, 10] count: 599
+Pattern: [13, 20] count: 284
+Pattern: [6, 23] count: 246
+Pattern: [10, 16] count: 207
+Pattern: [3, 9] count: 176
+Pattern: [5, 21] count: 156
+Pattern: [7, 8] count: 122
+Pattern: [2, 13] count: 72
+Pattern: [6, 8] count: 72
+Pattern: [12, 21] count: 65
+Pattern: [0, 11] count: 52
+Pattern: [12, 14] count: 47
+Pattern: [1, 5] count: 45
+Pattern: [6, 16] count: 44
+Pattern: [2, 6] count: 43
+Pattern: [8, 16] count: 38
+Pattern: [11, 13] count: 38
+Pattern: [13, 17] count: 37
+Pattern: [6, 19] count: 36
+Pattern: [4, 5] count: 34
+Pattern: [4, 10] count: 34
+Pattern: [10, 15] count: 28
+Pattern: [5, 18] count: 26
+Pattern: [10, 19] count: 23
+Pattern: [12, 22] count: 23
+Pattern: [1, 18] count: 22
+Pattern: [8, 12] count: 22
+Pattern: [5, 11] count: 21
+Pattern: [7, 11] count: 21
+Pattern: [12, 15] count: 21
+Pattern: [12, 17] count: 21
+Pattern: [10, 17] count: 20
+Pattern: [0, 14] count: 19
+Pattern: [1, 15] count: 19
+Pattern: [6, 17] count: 19
+Pattern: [8, 21] count: 19
+Pattern: [13, 22] count: 18
+Pattern: [8, 9] count: 16
+Pattern: [11, 19] count: 14
+Pattern: [1, 22] count: 12
+Pattern: [0, 21] count: 11
+Pattern: [11, 14] count: 11
+Pattern: [5, 14] count: 10
+Pattern: [2, 10] count: 9
+Pattern: [1, 2] count: 7
+Pattern: [5, 15] count: 7
+Pattern: [5, 19] count: 7
+Pattern: [7, 23] count: 7
+Pattern: [13, 15] count: 7
+Pattern: [8, 17] count: 6
+Pattern: [9, 18] count: 6
+Pattern: [10, 23] count: 6
+Pattern: [6, 15] count: 5
+Pattern: [8, 11] count: 5
+Pattern: [11, 21] count: 5
+Pattern: [0, 7] count: 4
+Pattern: [7, 18] count: 4
+Pattern: [1, 3] count: 3
+Pattern: [1, 11] count: 3
+Pattern: [5, 12] count: 3
+Pattern: [6, 11] count: 3
+Pattern: [7, 16] count: 3
+Pattern: [8, 18] count: 3
+Pattern: [8, 23] count: 3
+Pattern: [10, 18] count: 3
+Pattern: [11, 15] count: 3
+Pattern: [12, 18] count: 3
+Pattern: [13, 14] count: 3
+Pattern: [13, 16] count: 3
+Pattern: [0, 18] count: 2
+Pattern: [1, 14] count: 2
+Pattern: [4, 8] count: 2
+Pattern: [5, 16] count: 2
+Pattern: [7, 22] count: 2
+Pattern: [8, 20] count: 2
+Pattern: [8, 22] count: 2
+Pattern: [10, 22] count: 2
+Pattern: [11, 22] count: 2
+Pattern: [12, 16] count: 2
+Pattern: [0, 2] count: 1
+Pattern: [1, 4] count: 1
+Pattern: [1, 19] count: 1
+Pattern: [1, 23] count: 1
+Pattern: [2, 12] count: 1
+Pattern: [3, 21] count: 1
+Pattern: [4, 18] count: 1
+Pattern: [4, 20] count: 1
+Pattern: [5, 13] count: 1
+Pattern: [5, 22] count: 1
+Pattern: [6, 21] count: 1
+Pattern: [6, 22] count: 1
+Pattern: [7, 14] count: 1
+Pattern: [7, 19] count: 1
+Pattern: [7, 21] count: 1
+Pattern: [11, 18] count: 1
+Pattern: [11, 20] count: 1
+Pattern: [11, 23] count: 1
+Pattern: [13, 19] count: 1
+Final codetable size: 124
+Final Compression size: 112234.0
+Compression ratio: 13.700439453124998%
+Pattern from sa:28
+Elapsed time: 0.573 seconds
+Memory usage: 45.94816589355469 MB
+
+SA working: 77
+
+Iterations: 21
+

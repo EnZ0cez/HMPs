@@ -1,0 +1,930 @@
+Processing file: heart.txt, Run: 1
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [1, 6, 21, 25, 38, 43] count: 3
+Pattern: [3, 21, 31, 33, 38] count: 18
+Pattern: [5, 16, 23, 31, 39] count: 12
+Pattern: [3, 6, 21, 23, 39] count: 9
+Pattern: [5, 8, 21, 25, 30] count: 6
+Pattern: [32, 33, 38, 41, 45] count: 6
+Pattern: [10, 11, 21, 30] count: 117
+Pattern: [5, 11, 16, 31] count: 53
+Pattern: [3, 16, 31, 33] count: 34
+Pattern: [1, 23, 32, 33] count: 22
+Pattern: [7, 21, 30] count: 18
+Pattern: [1, 33] count: 164
+Pattern: [6, 16] count: 142
+Pattern: [11, 30] count: 132
+Pattern: [41, 48] count: 126
+Pattern: [38, 45] count: 94
+Pattern: [25, 39] count: 72
+Pattern: [23, 31] count: 69
+Pattern: [9, 21] count: 62
+Pattern: [32, 47] count: 44
+Pattern: [25, 31] count: 38
+Pattern: [8, 21] count: 37
+Pattern: [3, 33] count: 30
+Pattern: [41, 49] count: 26
+Pattern: [38, 47] count: 25
+Pattern: [2, 33] count: 23
+Pattern: [5, 16] count: 22
+Pattern: [39, 47] count: 21
+Pattern: [42, 48] count: 21
+Pattern: [31, 45] count: 19
+Pattern: [32, 45] count: 19
+Pattern: [42, 49] count: 19
+Pattern: [6, 18] count: 18
+Pattern: [10, 22] count: 18
+Pattern: [9, 22] count: 17
+Pattern: [31, 47] count: 15
+Pattern: [5, 18] count: 14
+Pattern: [42, 50] count: 14
+Pattern: [6, 17] count: 13
+Pattern: [43, 51] count: 13
+Pattern: [5, 20] count: 11
+Pattern: [23, 30] count: 11
+Pattern: [25, 38] count: 10
+Pattern: [41, 50] count: 9
+Pattern: [43, 50] count: 9
+Pattern: [16, 33] count: 8
+Pattern: [23, 39] count: 8
+Pattern: [41, 51] count: 8
+Pattern: [42, 51] count: 8
+Pattern: [5, 23] count: 7
+Pattern: [10, 21] count: 7
+Pattern: [25, 40] count: 7
+Pattern: [39, 45] count: 6
+Pattern: [40, 45] count: 6
+Pattern: [43, 48] count: 6
+Pattern: [43, 49] count: 6
+Pattern: [1, 36] count: 5
+Pattern: [3, 36] count: 5
+Pattern: [6, 23] count: 5
+Pattern: [6, 47] count: 5
+Pattern: [7, 22] count: 5
+Pattern: [8, 22] count: 5
+Pattern: [11, 16] count: 5
+Pattern: [32, 46] count: 5
+Pattern: [39, 46] count: 5
+Pattern: [44, 51] count: 5
+Pattern: [44, 52] count: 5
+Pattern: [6, 19] count: 4
+Pattern: [6, 46] count: 4
+Pattern: [11, 29] count: 4
+Pattern: [14, 30] count: 4
+Pattern: [25, 32] count: 4
+Pattern: [40, 47] count: 4
+Pattern: [44, 50] count: 4
+Pattern: [5, 17] count: 3
+Pattern: [6, 20] count: 3
+Pattern: [23, 38] count: 3
+Pattern: [31, 46] count: 3
+Pattern: [41, 52] count: 3
+Final codetable size: 79
+Final Compression size: 13572.0
+Compression ratio: 10.012393767705383%
+Pattern from sa:11
+Elapsed time: 0.184 seconds
+Memory usage: 29.51787567138672 MB
+
+SA working: 34
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 2
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [2, 5, 10, 11, 21, 31] count: 2
+Pattern: [1, 6, 16, 21, 23] count: 56
+Pattern: [6, 21, 32, 33, 47] count: 38
+Pattern: [23, 30, 31, 33] count: 102
+Pattern: [10, 21, 30, 31] count: 57
+Pattern: [1, 6, 10, 31] count: 26
+Pattern: [2, 6, 10, 33] count: 11
+Pattern: [1, 10, 16] count: 62
+Pattern: [10, 23, 30] count: 58
+Pattern: [7, 11, 45] count: 13
+Pattern: [11, 33] count: 185
+Pattern: [41, 48] count: 130
+Pattern: [30, 31] count: 110
+Pattern: [16, 21] count: 106
+Pattern: [30, 32] count: 94
+Pattern: [38, 45] count: 94
+Pattern: [25, 39] count: 76
+Pattern: [1, 5] count: 48
+Pattern: [1, 6] count: 47
+Pattern: [3, 6] count: 37
+Pattern: [3, 5] count: 34
+Pattern: [38, 47] count: 32
+Pattern: [9, 11] count: 31
+Pattern: [16, 22] count: 27
+Pattern: [41, 49] count: 26
+Pattern: [39, 45] count: 24
+Pattern: [39, 47] count: 24
+Pattern: [18, 21] count: 23
+Pattern: [9, 25] count: 21
+Pattern: [42, 48] count: 21
+Pattern: [42, 49] count: 19
+Pattern: [8, 11] count: 15
+Pattern: [11, 30] count: 14
+Pattern: [42, 50] count: 14
+Pattern: [43, 51] count: 14
+Pattern: [8, 25] count: 12
+Pattern: [21, 45] count: 11
+Pattern: [25, 38] count: 11
+Pattern: [2, 6] count: 9
+Pattern: [10, 50] count: 9
+Pattern: [25, 40] count: 9
+Pattern: [11, 43] count: 8
+Pattern: [25, 30] count: 8
+Pattern: [41, 51] count: 8
+Pattern: [42, 51] count: 8
+Pattern: [9, 47] count: 7
+Pattern: [20, 21] count: 7
+Pattern: [43, 48] count: 7
+Pattern: [3, 16] count: 6
+Pattern: [8, 45] count: 6
+Pattern: [9, 45] count: 6
+Pattern: [11, 36] count: 6
+Pattern: [17, 47] count: 6
+Pattern: [39, 46] count: 6
+Pattern: [14, 33] count: 5
+Pattern: [16, 47] count: 5
+Pattern: [19, 21] count: 5
+Pattern: [43, 49] count: 5
+Pattern: [44, 51] count: 5
+Pattern: [44, 52] count: 5
+Pattern: [1, 39] count: 4
+Pattern: [2, 5] count: 4
+Pattern: [6, 22] count: 4
+Pattern: [10, 17] count: 4
+Pattern: [11, 23] count: 4
+Pattern: [18, 22] count: 4
+Pattern: [32, 41] count: 4
+Pattern: [40, 45] count: 4
+Pattern: [5, 21] count: 3
+Pattern: [6, 21] count: 3
+Pattern: [7, 47] count: 3
+Pattern: [9, 23] count: 3
+Pattern: [10, 25] count: 3
+Pattern: [10, 45] count: 3
+Pattern: [11, 47] count: 3
+Pattern: [13, 33] count: 3
+Pattern: [16, 46] count: 3
+Pattern: [17, 22] count: 3
+Pattern: [20, 22] count: 3
+Final codetable size: 79
+Final Compression size: 17650.0
+Compression ratio: 13.020833333333334%
+Pattern from sa:11
+Elapsed time: 0.121 seconds
+Memory usage: 46.50932312011719 MB
+
+SA working: 40
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 3
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [6, 11, 21, 30, 31, 38, 47, 48] count: 7
+Pattern: [6, 16, 21, 23, 30, 31, 38] count: 33
+Pattern: [5, 8, 11, 30, 31, 39] count: 6
+Pattern: [6, 30, 32, 33, 39, 46] count: 6
+Pattern: [3, 10, 11, 33, 38, 49] count: 3
+Pattern: [1, 6, 11, 30, 31] count: 91
+Pattern: [11, 16, 23, 31, 33] count: 88
+Pattern: [1, 10, 21, 30, 45] count: 28
+Pattern: [9, 11, 21, 25, 48] count: 21
+Pattern: [21, 23, 31, 39, 48] count: 18
+Pattern: [2, 16, 21, 30, 33] count: 14
+Pattern: [6, 21, 30, 39, 43] count: 10
+Pattern: [1, 11, 22, 23, 31] count: 8
+Pattern: [1, 21, 25, 32, 51] count: 8
+Pattern: [16, 21, 23, 42, 48] count: 8
+Pattern: [5, 11, 21, 32, 47] count: 5
+Pattern: [6, 14, 16, 33, 47] count: 2
+Pattern: [5, 9, 21, 31] count: 29
+Pattern: [10, 11, 38, 41] count: 27
+Pattern: [22, 30, 31, 39] count: 9
+Pattern: [5, 30, 31] count: 73
+Pattern: [1, 10, 16] count: 62
+Pattern: [10, 21, 23] count: 55
+Pattern: [11, 23, 32] count: 40
+Pattern: [23, 39, 49] count: 13
+Pattern: [1, 20, 39] count: 4
+Pattern: [16, 33] count: 160
+Pattern: [41, 48] count: 106
+Pattern: [6, 30] count: 87
+Pattern: [11, 45] count: 87
+Pattern: [21, 25] count: 66
+Pattern: [11, 47] count: 62
+Pattern: [1, 33] count: 43
+Pattern: [32, 39] count: 40
+Pattern: [38, 45] count: 34
+Pattern: [3, 39] count: 25
+Pattern: [22, 25] count: 24
+Pattern: [23, 38] count: 22
+Pattern: [18, 33] count: 21
+Pattern: [1, 41] count: 20
+Pattern: [11, 25] count: 18
+Pattern: [41, 49] count: 18
+Pattern: [38, 47] count: 17
+Pattern: [42, 49] count: 17
+Pattern: [10, 50] count: 16
+Pattern: [42, 48] count: 16
+Pattern: [5, 30] count: 15
+Pattern: [32, 38] count: 14
+Pattern: [39, 47] count: 14
+Pattern: [1, 30] count: 12
+Pattern: [6, 31] count: 12
+Pattern: [8, 21] count: 12
+Pattern: [43, 51] count: 12
+Pattern: [3, 10] count: 10
+Pattern: [9, 21] count: 10
+Pattern: [32, 40] count: 9
+Pattern: [42, 50] count: 9
+Pattern: [3, 33] count: 8
+Pattern: [3, 43] count: 8
+Pattern: [5, 31] count: 8
+Pattern: [10, 44] count: 8
+Pattern: [23, 39] count: 8
+Pattern: [33, 51] count: 8
+Pattern: [1, 45] count: 7
+Pattern: [16, 36] count: 7
+Pattern: [3, 38] count: 6
+Pattern: [39, 45] count: 6
+Pattern: [3, 7] count: 5
+Pattern: [6, 25] count: 5
+Pattern: [9, 22] count: 5
+Pattern: [11, 46] count: 5
+Pattern: [17, 33] count: 5
+Pattern: [42, 51] count: 5
+Pattern: [3, 30] count: 4
+Pattern: [7, 21] count: 4
+Pattern: [9, 44] count: 4
+Pattern: [23, 40] count: 4
+Pattern: [25, 32] count: 4
+Pattern: [41, 50] count: 4
+Final codetable size: 79
+Final Compression size: 27153.0
+Compression ratio: 20.031427053824363%
+Pattern from sa:26
+Elapsed time: 0.121 seconds
+Memory usage: 87.64842987060547 MB
+
+SA working: 89
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 4
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [3, 5, 10, 18, 23, 30, 31, 33] count: 2
+Pattern: [11, 16, 21, 30, 42, 48] count: 12
+Pattern: [21, 31, 38, 45, 48] count: 68
+Pattern: [1, 9, 16, 21, 45] count: 35
+Pattern: [10, 30, 31, 33, 39] count: 26
+Pattern: [6, 8, 30, 33, 38] count: 24
+Pattern: [1, 6, 16, 39, 48] count: 13
+Pattern: [1, 5, 8, 11, 23] count: 8
+Pattern: [6, 23, 39, 41, 47] count: 7
+Pattern: [1, 9, 25, 39, 47] count: 4
+Pattern: [17, 21, 25, 31, 39] count: 3
+Pattern: [6, 8, 21, 23, 32] count: 2
+Pattern: [1, 10, 11, 21] count: 74
+Pattern: [30, 33, 41] count: 166
+Pattern: [16, 21, 31] count: 140
+Pattern: [16, 21, 23] count: 108
+Pattern: [25, 31, 45] count: 59
+Pattern: [5, 10, 11] count: 34
+Pattern: [6, 9, 23] count: 30
+Pattern: [3, 9, 22] count: 4
+Pattern: [30, 33] count: 104
+Pattern: [6, 11] count: 103
+Pattern: [10, 16] count: 103
+Pattern: [32, 39] count: 59
+Pattern: [25, 47] count: 53
+Pattern: [1, 11] count: 49
+Pattern: [16, 23] count: 47
+Pattern: [38, 48] count: 46
+Pattern: [39, 48] count: 36
+Pattern: [25, 45] count: 33
+Pattern: [5, 9] count: 31
+Pattern: [1, 8] count: 25
+Pattern: [6, 16] count: 22
+Pattern: [3, 11] count: 21
+Pattern: [23, 47] count: 21
+Pattern: [38, 49] count: 20
+Pattern: [3, 10] count: 17
+Pattern: [23, 45] count: 17
+Pattern: [1, 22] count: 16
+Pattern: [42, 47] count: 16
+Pattern: [6, 31] count: 15
+Pattern: [43, 51] count: 14
+Pattern: [16, 25] count: 13
+Pattern: [22, 31] count: 13
+Pattern: [3, 21] count: 12
+Pattern: [30, 36] count: 11
+Pattern: [32, 38] count: 11
+Pattern: [39, 50] count: 11
+Pattern: [42, 49] count: 11
+Pattern: [5, 8] count: 10
+Pattern: [5, 16] count: 9
+Pattern: [18, 21] count: 9
+Pattern: [32, 40] count: 9
+Pattern: [1, 9] count: 8
+Pattern: [25, 46] count: 8
+Pattern: [40, 48] count: 8
+Pattern: [2, 11] count: 7
+Pattern: [43, 50] count: 7
+Pattern: [1, 7] count: 6
+Pattern: [6, 18] count: 6
+Pattern: [39, 49] count: 6
+Pattern: [42, 50] count: 6
+Pattern: [2, 10] count: 5
+Pattern: [3, 7] count: 5
+Pattern: [5, 45] count: 5
+Pattern: [44, 51] count: 5
+Pattern: [44, 52] count: 5
+Pattern: [2, 7] count: 4
+Pattern: [5, 7] count: 4
+Pattern: [6, 33] count: 4
+Pattern: [6, 51] count: 4
+Pattern: [16, 45] count: 4
+Pattern: [17, 21] count: 4
+Pattern: [18, 42] count: 4
+Pattern: [29, 33] count: 4
+Pattern: [30, 35] count: 4
+Pattern: [2, 21] count: 3
+Pattern: [3, 8] count: 3
+Pattern: [3, 43] count: 3
+Final codetable size: 79
+Final Compression size: 25597.0
+Compression ratio: 18.883528092540132%
+Pattern from sa:21
+Elapsed time: 0.089 seconds
+Memory usage: 114.77506256103516 MB
+
+SA working: 65
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 5
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [1, 10, 11, 25, 30, 31, 41] count: 11
+Pattern: [1, 5, 18, 21, 30, 38, 45] count: 4
+Pattern: [11, 18, 25, 31, 39, 41, 45] count: 2
+Pattern: [1, 6, 11, 21, 31, 38] count: 53
+Pattern: [1, 5, 8, 21, 23, 31] count: 8
+Pattern: [1, 9, 21, 23, 39] count: 11
+Pattern: [6, 11, 31, 39, 42] count: 11
+Pattern: [10, 17, 21, 25, 30] count: 5
+Pattern: [11, 23, 30, 43, 47] count: 5
+Pattern: [10, 31, 33, 44, 47] count: 3
+Pattern: [16, 33, 45, 48] count: 103
+Pattern: [1, 9, 33, 39] count: 18
+Pattern: [5, 30, 32, 39] count: 15
+Pattern: [6, 9, 21, 39] count: 15
+Pattern: [1, 6, 11, 18] count: 14
+Pattern: [16, 23, 30] count: 119
+Pattern: [10, 16, 33] count: 96
+Pattern: [1, 10, 11] count: 83
+Pattern: [10, 21, 25] count: 68
+Pattern: [10, 21, 23] count: 55
+Pattern: [6, 10, 23] count: 45
+Pattern: [9, 21, 38] count: 38
+Pattern: [22, 31, 47] count: 9
+Pattern: [6, 14, 31] count: 3
+Pattern: [11, 30] count: 157
+Pattern: [6, 21] count: 81
+Pattern: [31, 41] count: 75
+Pattern: [32, 47] count: 51
+Pattern: [1, 25] count: 50
+Pattern: [33, 48] count: 47
+Pattern: [23, 41] count: 38
+Pattern: [5, 21] count: 33
+Pattern: [3, 25] count: 30
+Pattern: [33, 49] count: 28
+Pattern: [38, 45] count: 26
+Pattern: [6, 22] count: 25
+Pattern: [1, 23] count: 20
+Pattern: [3, 23] count: 20
+Pattern: [25, 30] count: 20
+Pattern: [39, 42] count: 20
+Pattern: [16, 47] count: 17
+Pattern: [33, 50] count: 17
+Pattern: [1, 11] count: 16
+Pattern: [31, 43] count: 16
+Pattern: [39, 51] count: 15
+Pattern: [8, 30] count: 13
+Pattern: [31, 42] count: 13
+Pattern: [9, 30] count: 12
+Pattern: [21, 47] count: 12
+Pattern: [39, 45] count: 12
+Pattern: [38, 41] count: 10
+Pattern: [3, 11] count: 9
+Pattern: [5, 22] count: 9
+Pattern: [31, 44] count: 9
+Pattern: [38, 42] count: 9
+Pattern: [45, 49] count: 9
+Pattern: [2, 25] count: 8
+Pattern: [7, 39] count: 8
+Pattern: [32, 41] count: 8
+Pattern: [2, 23] count: 7
+Pattern: [3, 5] count: 7
+Pattern: [45, 48] count: 7
+Pattern: [8, 38] count: 6
+Pattern: [8, 39] count: 6
+Pattern: [9, 38] count: 6
+Pattern: [9, 39] count: 6
+Pattern: [9, 41] count: 6
+Pattern: [16, 45] count: 6
+Pattern: [32, 46] count: 6
+Pattern: [33, 51] count: 6
+Pattern: [39, 52] count: 6
+Pattern: [6, 32] count: 5
+Pattern: [8, 41] count: 5
+Pattern: [21, 41] count: 5
+Pattern: [30, 50] count: 5
+Pattern: [39, 49] count: 5
+Pattern: [40, 51] count: 5
+Pattern: [9, 40] count: 4
+Pattern: [16, 50] count: 4
+Final codetable size: 79
+Final Compression size: 24954.0
+Compression ratio: 18.40917138810198%
+Pattern from sa:24
+Elapsed time: 0.089 seconds
+Memory usage: 132.08433532714844 MB
+
+SA working: 58
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 6
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [1, 5, 10, 11, 25, 30, 33] count: 10
+Pattern: [5, 10, 25, 30, 32, 33, 41] count: 4
+Pattern: [10, 11, 21, 23, 32, 39, 45] count: 3
+Pattern: [6, 9, 11, 30, 31, 48] count: 28
+Pattern: [1, 5, 9, 30, 33] count: 21
+Pattern: [2, 21, 25, 33, 41] count: 5
+Pattern: [11, 25, 39, 44, 45] count: 2
+Pattern: [11, 30, 33, 38] count: 137
+Pattern: [1, 6, 10, 11] count: 66
+Pattern: [11, 23, 32, 39] count: 26
+Pattern: [7, 11, 16, 38] count: 8
+Pattern: [6, 19, 21, 30] count: 4
+Pattern: [16, 21, 31] count: 140
+Pattern: [11, 16, 45] count: 126
+Pattern: [1, 16, 31] count: 112
+Pattern: [5, 30, 31] count: 73
+Pattern: [21, 33, 42] count: 54
+Pattern: [21, 23, 47] count: 48
+Pattern: [3, 6, 10] count: 25
+Pattern: [5, 10, 41] count: 25
+Pattern: [8, 23, 38] count: 24
+Pattern: [41, 48] count: 113
+Pattern: [30, 33] count: 107
+Pattern: [11, 39] count: 77
+Pattern: [1, 6] count: 75
+Pattern: [25, 45] count: 59
+Pattern: [23, 45] count: 58
+Pattern: [25, 47] count: 54
+Pattern: [16, 32] count: 51
+Pattern: [23, 47] count: 36
+Pattern: [11, 38] count: 25
+Pattern: [3, 5] count: 20
+Pattern: [6, 30] count: 20
+Pattern: [11, 45] count: 19
+Pattern: [18, 21] count: 19
+Pattern: [41, 49] count: 18
+Pattern: [3, 6] count: 17
+Pattern: [21, 39] count: 16
+Pattern: [22, 31] count: 16
+Pattern: [10, 43] count: 15
+Pattern: [1, 5] count: 14
+Pattern: [1, 33] count: 12
+Pattern: [30, 39] count: 11
+Pattern: [32, 50] count: 11
+Pattern: [25, 46] count: 10
+Pattern: [1, 48] count: 9
+Pattern: [2, 6] count: 9
+Pattern: [9, 48] count: 9
+Pattern: [20, 21] count: 9
+Pattern: [32, 51] count: 9
+Pattern: [11, 40] count: 8
+Pattern: [16, 22] count: 8
+Pattern: [30, 36] count: 8
+Pattern: [31, 49] count: 8
+Pattern: [41, 51] count: 8
+Pattern: [3, 33] count: 7
+Pattern: [16, 50] count: 7
+Pattern: [22, 39] count: 7
+Pattern: [10, 44] count: 6
+Pattern: [10, 49] count: 6
+Pattern: [23, 46] count: 6
+Pattern: [9, 31] count: 5
+Pattern: [21, 32] count: 5
+Pattern: [21, 43] count: 5
+Pattern: [30, 38] count: 5
+Pattern: [40, 41] count: 5
+Pattern: [42, 48] count: 5
+Pattern: [6, 22] count: 4
+Pattern: [8, 17] count: 4
+Pattern: [10, 50] count: 4
+Pattern: [11, 47] count: 4
+Pattern: [22, 50] count: 4
+Pattern: [43, 51] count: 4
+Pattern: [2, 33] count: 3
+Pattern: [3, 38] count: 3
+Pattern: [7, 39] count: 3
+Pattern: [9, 32] count: 3
+Pattern: [9, 44] count: 3
+Pattern: [10, 21] count: 3
+Final codetable size: 79
+Final Compression size: 24646.0
+Compression ratio: 18.181952313503306%
+Pattern from sa:21
+Elapsed time: 0.101 seconds
+Memory usage: 45.091758728027344 MB
+
+SA working: 80
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 7
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [9, 11, 31, 33, 38, 48] count: 40
+Pattern: [8, 11, 21, 31, 33, 38] count: 28
+Pattern: [9, 11, 21, 30, 45] count: 50
+Pattern: [1, 10, 25, 30, 33] count: 43
+Pattern: [6, 16, 23, 41, 48] count: 38
+Pattern: [5, 31, 33, 38, 41] count: 29
+Pattern: [1, 5, 21, 30, 39] count: 25
+Pattern: [9, 11, 16, 25, 31] count: 25
+Pattern: [9, 30, 39, 45, 48] count: 15
+Pattern: [6, 21, 30, 33] count: 156
+Pattern: [10, 23, 31, 33] count: 28
+Pattern: [3, 10, 21, 31] count: 20
+Pattern: [21, 38, 41, 47] count: 17
+Pattern: [3, 5, 11] count: 32
+Pattern: [1, 18, 25] count: 9
+Pattern: [11, 16] count: 132
+Pattern: [45, 48] count: 79
+Pattern: [30, 33] count: 73
+Pattern: [39, 47] count: 67
+Pattern: [10, 32] count: 53
+Pattern: [1, 23] count: 52
+Pattern: [31, 38] count: 51
+Pattern: [6, 41] count: 47
+Pattern: [6, 42] count: 31
+Pattern: [1, 25] count: 30
+Pattern: [31, 41] count: 26
+Pattern: [11, 21] count: 24
+Pattern: [5, 41] count: 20
+Pattern: [1, 30] count: 19
+Pattern: [3, 25] count: 18
+Pattern: [16, 21] count: 17
+Pattern: [23, 33] count: 17
+Pattern: [39, 45] count: 17
+Pattern: [16, 48] count: 16
+Pattern: [6, 43] count: 15
+Pattern: [21, 32] count: 15
+Pattern: [38, 47] count: 15
+Pattern: [2, 25] count: 14
+Pattern: [16, 30] count: 14
+Pattern: [11, 18] count: 13
+Pattern: [39, 46] count: 13
+Pattern: [3, 23] count: 12
+Pattern: [11, 22] count: 11
+Pattern: [6, 44] count: 10
+Pattern: [40, 47] count: 10
+Pattern: [1, 33] count: 9
+Pattern: [2, 23] count: 9
+Pattern: [5, 43] count: 9
+Pattern: [21, 30] count: 9
+Pattern: [9, 42] count: 8
+Pattern: [22, 32] count: 8
+Pattern: [41, 49] count: 8
+Pattern: [10, 31] count: 7
+Pattern: [31, 49] count: 7
+Pattern: [1, 45] count: 6
+Pattern: [5, 42] count: 6
+Pattern: [7, 48] count: 6
+Pattern: [18, 30] count: 6
+Pattern: [20, 25] count: 6
+Pattern: [25, 33] count: 6
+Pattern: [32, 38] count: 6
+Pattern: [42, 49] count: 6
+Pattern: [45, 49] count: 6
+Pattern: [1, 22] count: 5
+Pattern: [9, 48] count: 5
+Pattern: [21, 51] count: 5
+Pattern: [22, 50] count: 5
+Pattern: [30, 36] count: 5
+Pattern: [6, 48] count: 4
+Pattern: [6, 49] count: 4
+Pattern: [7, 43] count: 4
+Pattern: [8, 17] count: 4
+Pattern: [22, 51] count: 4
+Pattern: [31, 40] count: 4
+Pattern: [32, 51] count: 4
+Pattern: [41, 50] count: 4
+Pattern: [42, 50] count: 4
+Pattern: [42, 51] count: 4
+Pattern: [5, 21] count: 3
+Final codetable size: 79
+Final Compression size: 24669.0
+Compression ratio: 18.198919971671387%
+Pattern from sa:15
+Elapsed time: 0.035 seconds
+Memory usage: 142.2977523803711 MB
+
+SA working: 54
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 8
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [16, 21, 31, 33, 45, 48] count: 79
+Pattern: [6, 8, 11, 21, 23, 30] count: 19
+Pattern: [11, 16, 21, 30, 33] count: 183
+Pattern: [6, 10, 16, 22, 30] count: 9
+Pattern: [2, 11, 22, 23, 48] count: 2
+Pattern: [6, 17, 22, 25, 47] count: 2
+Pattern: [11, 39, 45] count: 54
+Pattern: [5, 11, 25] count: 43
+Pattern: [1, 41] count: 132
+Pattern: [30, 33] count: 123
+Pattern: [6, 25] count: 97
+Pattern: [31, 48] count: 91
+Pattern: [6, 23] count: 77
+Pattern: [10, 32] count: 74
+Pattern: [11, 38] count: 69
+Pattern: [39, 47] count: 69
+Pattern: [16, 21] count: 58
+Pattern: [5, 23] count: 48
+Pattern: [1, 42] count: 39
+Pattern: [38, 45] count: 38
+Pattern: [10, 31] count: 33
+Pattern: [3, 41] count: 31
+Pattern: [18, 21] count: 28
+Pattern: [38, 47] count: 26
+Pattern: [9, 30] count: 23
+Pattern: [16, 22] count: 21
+Pattern: [3, 42] count: 20
+Pattern: [31, 49] count: 19
+Pattern: [3, 43] count: 17
+Pattern: [16, 33] count: 17
+Pattern: [5, 25] count: 15
+Pattern: [1, 43] count: 14
+Pattern: [10, 30] count: 13
+Pattern: [11, 50] count: 13
+Pattern: [32, 48] count: 13
+Pattern: [39, 46] count: 13
+Pattern: [20, 21] count: 12
+Pattern: [2, 41] count: 11
+Pattern: [9, 45] count: 11
+Pattern: [3, 44] count: 10
+Pattern: [11, 40] count: 10
+Pattern: [17, 21] count: 10
+Pattern: [30, 36] count: 10
+Pattern: [1, 44] count: 9
+Pattern: [8, 30] count: 9
+Pattern: [9, 31] count: 8
+Pattern: [2, 43] count: 7
+Pattern: [11, 33] count: 7
+Pattern: [2, 42] count: 6
+Pattern: [8, 45] count: 6
+Pattern: [40, 47] count: 6
+Pattern: [7, 30] count: 5
+Pattern: [19, 21] count: 5
+Pattern: [32, 33] count: 5
+Pattern: [9, 32] count: 4
+Pattern: [17, 22] count: 4
+Pattern: [18, 22] count: 4
+Pattern: [47, 49] count: 4
+Pattern: [5, 24] count: 3
+Pattern: [9, 47] count: 3
+Pattern: [11, 51] count: 3
+Pattern: [11, 52] count: 3
+Pattern: [20, 22] count: 3
+Pattern: [31, 51] count: 3
+Pattern: [47, 51] count: 3
+Pattern: [7, 13] count: 2
+Pattern: [13, 50] count: 2
+Pattern: [14, 39] count: 2
+Pattern: [14, 51] count: 2
+Pattern: [18, 33] count: 2
+Pattern: [23, 47] count: 2
+Pattern: [25, 49] count: 2
+Pattern: [28, 51] count: 2
+Pattern: [29, 33] count: 2
+Pattern: [30, 35] count: 2
+Pattern: [30, 37] count: 2
+Pattern: [38, 46] count: 2
+Pattern: [40, 45] count: 2
+Pattern: [45, 50] count: 2
+Final codetable size: 79
+Final Compression size: 14805.0
+Compression ratio: 10.922007790368273%
+Pattern from sa:8
+Elapsed time: 0.025 seconds
+Memory usage: 205.4784698486328 MB
+
+SA working: 31
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 9
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [6, 10, 11, 21, 25, 30, 31, 47, 50] count: 3
+Pattern: [1, 5, 11, 30, 31, 33, 45] count: 42
+Pattern: [11, 21, 23, 30, 31, 39, 48] count: 18
+Pattern: [8, 16, 21, 25, 30, 38, 45] count: 6
+Pattern: [1, 16, 30, 33, 38, 41] count: 59
+Pattern: [1, 6, 16, 25, 31, 45] count: 18
+Pattern: [10, 16, 21, 23, 30, 32] count: 18
+Pattern: [6, 18, 31, 33, 38, 48] count: 4
+Pattern: [11, 19, 30, 31, 41, 45] count: 2
+Pattern: [11, 21, 31, 45, 48] count: 99
+Pattern: [5, 10, 11, 33, 39] count: 21
+Pattern: [10, 25, 30, 33, 50] count: 11
+Pattern: [1, 10, 22, 31, 44] count: 2
+Pattern: [9, 11, 30, 45] count: 60
+Pattern: [21, 30, 31, 47] count: 47
+Pattern: [10, 16, 23, 32] count: 23
+Pattern: [3, 21, 23, 31] count: 19
+Pattern: [16, 23, 33] count: 118
+Pattern: [21, 33, 39] count: 114
+Pattern: [5, 16, 31] count: 53
+Pattern: [1, 5, 21] count: 50
+Pattern: [25, 31, 39] count: 42
+Pattern: [1, 10, 31] count: 35
+Pattern: [6, 7, 31] count: 15
+Pattern: [7, 21, 23] count: 8
+Pattern: [11, 30] count: 159
+Pattern: [10, 21] count: 126
+Pattern: [6, 33] count: 90
+Pattern: [41, 48] count: 90
+Pattern: [16, 25] count: 62
+Pattern: [32, 47] count: 44
+Pattern: [38, 45] count: 42
+Pattern: [6, 23] count: 35
+Pattern: [1, 39] count: 34
+Pattern: [5, 33] count: 24
+Pattern: [41, 49] count: 24
+Pattern: [21, 47] count: 20
+Pattern: [42, 49] count: 19
+Pattern: [6, 11] count: 18
+Pattern: [32, 45] count: 18
+Pattern: [42, 48] count: 18
+Pattern: [31, 38] count: 16
+Pattern: [3, 39] count: 15
+Pattern: [8, 31] count: 15
+Pattern: [43, 51] count: 14
+Pattern: [1, 8] count: 13
+Pattern: [1, 9] count: 12
+Pattern: [3, 25] count: 12
+Pattern: [16, 47] count: 11
+Pattern: [17, 25] count: 11
+Pattern: [6, 38] count: 10
+Pattern: [10, 22] count: 10
+Pattern: [18, 25] count: 10
+Pattern: [42, 50] count: 10
+Pattern: [3, 16] count: 9
+Pattern: [9, 22] count: 9
+Pattern: [11, 47] count: 9
+Pattern: [16, 45] count: 9
+Pattern: [18, 23] count: 9
+Pattern: [31, 39] count: 9
+Pattern: [41, 50] count: 9
+Pattern: [42, 51] count: 8
+Pattern: [6, 21] count: 7
+Pattern: [25, 48] count: 7
+Pattern: [41, 51] count: 7
+Pattern: [43, 48] count: 7
+Pattern: [2, 39] count: 6
+Pattern: [6, 47] count: 6
+Pattern: [10, 39] count: 6
+Pattern: [21, 33] count: 6
+Pattern: [21, 45] count: 6
+Pattern: [32, 46] count: 6
+Pattern: [43, 49] count: 6
+Pattern: [1, 40] count: 5
+Pattern: [6, 25] count: 5
+Pattern: [9, 38] count: 5
+Pattern: [14, 30] count: 5
+Pattern: [20, 23] count: 5
+Pattern: [21, 23] count: 5
+Final codetable size: 79
+Final Compression size: 33808.0
+Compression ratio: 24.9409820585458%
+Pattern from sa:26
+Elapsed time: 0.062 seconds
+Memory usage: 130.96199798583984 MB
+
+SA working: 62
+
+Iterations: 21
+
+Processing file: heart.txt, Run: 10
+Initial compression size: 135552.0
+Final codetable: 
+Pattern: [2, 5, 11, 31, 38, 45, 48] count: 3
+Pattern: [6, 10, 11, 16, 30, 33, 44] count: 2
+Pattern: [11, 30, 31, 38, 45, 48] count: 78
+Pattern: [16, 30, 31, 33, 38, 41] count: 63
+Pattern: [6, 10, 11, 16, 30, 47] count: 48
+Pattern: [8, 21, 30, 31, 41, 48] count: 30
+Pattern: [3, 23, 31, 33, 39, 44] count: 2
+Pattern: [11, 16, 25, 30, 41] count: 57
+Pattern: [5, 31, 33, 38, 45] count: 40
+Pattern: [6, 16, 23, 33, 45] count: 34
+Pattern: [8, 11, 16, 30, 31] count: 34
+Pattern: [6, 25, 33, 39, 43] count: 9
+Pattern: [6, 18, 30, 39, 47] count: 6
+Pattern: [11, 16, 25, 31, 44] count: 5
+Pattern: [16, 31, 39, 42, 48] count: 3
+Pattern: [6, 30, 31, 33] count: 121
+Pattern: [1, 6, 31, 45] count: 54
+Pattern: [21, 25, 41, 48] count: 50
+Pattern: [1, 30, 39, 45] count: 33
+Pattern: [21, 23, 33] count: 126
+Pattern: [10, 11, 21] count: 122
+Pattern: [1, 33, 45] count: 109
+Pattern: [1, 21, 38] count: 89
+Pattern: [5, 30, 48] count: 71
+Pattern: [6, 10, 46] count: 11
+Pattern: [16, 30] count: 93
+Pattern: [32, 33] count: 71
+Pattern: [9, 11] count: 68
+Pattern: [6, 47] count: 61
+Pattern: [1, 5] count: 57
+Pattern: [39, 41] count: 46
+Pattern: [45, 48] count: 38
+Pattern: [25, 42] count: 33
+Pattern: [1, 23] count: 32
+Pattern: [31, 33] count: 31
+Pattern: [3, 39] count: 28
+Pattern: [30, 38] count: 24
+Pattern: [41, 48] count: 23
+Pattern: [16, 47] count: 22
+Pattern: [1, 11] count: 21
+Pattern: [1, 25] count: 18
+Pattern: [3, 45] count: 17
+Pattern: [8, 11] count: 17
+Pattern: [21, 49] count: 14
+Pattern: [25, 43] count: 14
+Pattern: [30, 31] count: 14
+Pattern: [7, 11] count: 13
+Pattern: [10, 22] count: 12
+Pattern: [30, 50] count: 11
+Pattern: [1, 39] count: 10
+Pattern: [3, 5] count: 10
+Pattern: [22, 48] count: 10
+Pattern: [33, 38] count: 10
+Pattern: [9, 33] count: 9
+Pattern: [39, 42] count: 9
+Pattern: [6, 25] count: 8
+Pattern: [21, 23] count: 8
+Pattern: [23, 43] count: 8
+Pattern: [38, 42] count: 8
+Pattern: [39, 45] count: 8
+Pattern: [41, 49] count: 8
+Pattern: [25, 47] count: 7
+Pattern: [1, 31] count: 6
+Pattern: [11, 23] count: 6
+Pattern: [18, 30] count: 6
+Pattern: [18, 45] count: 6
+Pattern: [32, 36] count: 6
+Pattern: [40, 41] count: 6
+Pattern: [45, 49] count: 6
+Pattern: [2, 32] count: 5
+Pattern: [2, 50] count: 5
+Pattern: [3, 38] count: 5
+Pattern: [6, 16] count: 5
+Pattern: [6, 38] count: 5
+Pattern: [23, 48] count: 5
+Pattern: [44, 51] count: 5
+Pattern: [44, 52] count: 5
+Pattern: [47, 51] count: 5
+Pattern: [3, 25] count: 4
+Final codetable size: 79
+Final Compression size: 37738.0
+Compression ratio: 27.840238432483478%
+Pattern from sa:26
+Elapsed time: 0.058 seconds
+Memory usage: 267.22823333740234 MB
+
+SA working: 55
+
+Iterations: 21
+

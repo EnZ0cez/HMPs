@@ -1,1 +1,1 @@
-# SA-HC-MDL-Pattern-Mining
+# HMPs

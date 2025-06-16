@@ -1,0 +1,170 @@
+Processing file: test.txt, Run: 1
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3] count: 2
+Pattern: [4, 5] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 357.0
+Compression ratio: 74.375%
+Pattern from sa:0
+Elapsed time: 0.035 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 6
+
+Iterations: 22
+
+Processing file: test.txt, Run: 2
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3] count: 2
+Pattern: [4, 5] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 357.0
+Compression ratio: 74.375%
+Pattern from sa:0
+Elapsed time: 0.001 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 4
+
+Iterations: 23
+
+Processing file: test.txt, Run: 3
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3] count: 2
+Pattern: [4, 5] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 357.0
+Compression ratio: 74.375%
+Pattern from sa:0
+Elapsed time: 0.0 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 6
+
+Iterations: 24
+
+Processing file: test.txt, Run: 4
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3] count: 2
+Pattern: [4, 5] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 357.0
+Compression ratio: 74.375%
+Pattern from sa:0
+Elapsed time: 0.001 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 6
+
+Iterations: 23
+
+Processing file: test.txt, Run: 5
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3] count: 2
+Pattern: [4, 5] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 357.0
+Compression ratio: 74.375%
+Pattern from sa:0
+Elapsed time: 0.0 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 6
+
+Iterations: 27
+
+Processing file: test.txt, Run: 6
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3, 5] count: 2
+Pattern: [4, 6] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 325.0
+Compression ratio: 67.70833333333334%
+Pattern from sa:1
+Elapsed time: 0.0 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 0
+
+Iterations: 21
+
+Processing file: test.txt, Run: 7
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3] count: 2
+Pattern: [4, 5] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 357.0
+Compression ratio: 74.375%
+Pattern from sa:0
+Elapsed time: 0.0 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 4
+
+Iterations: 23
+
+Processing file: test.txt, Run: 8
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3] count: 2
+Pattern: [4, 5] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 357.0
+Compression ratio: 74.375%
+Pattern from sa:0
+Elapsed time: 0.001 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 6
+
+Iterations: 27
+
+Processing file: test.txt, Run: 9
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3] count: 2
+Pattern: [4, 5] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 357.0
+Compression ratio: 74.375%
+Pattern from sa:0
+Elapsed time: 0.0 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 5
+
+Iterations: 23
+
+Processing file: test.txt, Run: 10
+Initial compression size: 480.0
+Final codetable: 
+Pattern: [1, 3, 5] count: 2
+Pattern: [4, 6] count: 2
+Pattern: [1, 6] count: 1
+Final codetable size: 3
+Final Compression size: 325.0
+Compression ratio: 67.70833333333334%
+Pattern from sa:1
+Elapsed time: 0.002 seconds
+Memory usage: 11.352630615234375 MB
+
+SA working: 2
+
+Iterations: 22
+

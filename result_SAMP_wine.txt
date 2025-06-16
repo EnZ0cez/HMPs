@@ -1,0 +1,770 @@
+Processing file: wine.txt, Run: 1
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [45, 46, 59, 65] count: 2
+Pattern: [5, 24, 26, 56] count: 4
+Pattern: [36, 45, 51] count: 4
+Pattern: [5, 24, 30] count: 34
+Pattern: [7, 11, 16, 65, 66] count: 24
+Pattern: [3, 8, 15, 18, 44, 66] count: 1
+Pattern: [7, 35, 45, 65] count: 19
+Pattern: [16, 35, 44] count: 4
+Pattern: [21, 27, 31] count: 4
+Pattern: [11, 16, 45] count: 27
+Pattern: [1, 11, 24, 31, 40, 41, 46, 64] count: 1
+Pattern: [11, 18, 21, 30, 36, 61] count: 3
+Pattern: [1, 8, 11, 24, 46, 57, 67] count: 1
+Pattern: [17, 36, 41, 54] count: 1
+Pattern: [11, 16, 46, 52, 59, 65] count: 1
+Pattern: [30, 32, 36, 46, 54, 60, 61] count: 1
+Pattern: [1, 30, 42, 66] count: 2
+Pattern: [1, 6, 24, 40, 42] count: 1
+Pattern: [11, 16, 32, 49, 53, 56] count: 1
+Pattern: [5, 27, 36, 46] count: 2
+Pattern: [11, 18, 27, 36, 42, 60] count: 2
+Pattern: [1, 46] count: 64
+Pattern: [32, 67] count: 48
+Pattern: [51, 68] count: 43
+Pattern: [11, 61] count: 38
+Pattern: [36, 54] count: 35
+Pattern: [26, 56] count: 32
+Pattern: [31, 40] count: 26
+Pattern: [65, 66] count: 26
+Pattern: [8, 41] count: 21
+Pattern: [18, 21] count: 21
+Pattern: [35, 45] count: 20
+Pattern: [6, 16] count: 18
+Pattern: [7, 42] count: 18
+Pattern: [24, 30] count: 16
+Pattern: [36, 55] count: 16
+Pattern: [21, 57] count: 14
+Pattern: [7, 43] count: 13
+Pattern: [11, 65] count: 13
+Pattern: [5, 30] count: 12
+Pattern: [10, 41] count: 11
+Pattern: [11, 64] count: 11
+Pattern: [30, 67] count: 11
+Pattern: [42, 50] count: 11
+Pattern: [13, 16] count: 10
+Pattern: [21, 59] count: 10
+Pattern: [1, 24] count: 9
+Pattern: [36, 60] count: 9
+Pattern: [26, 40] count: 8
+Pattern: [1, 50] count: 7
+Pattern: [24, 27] count: 7
+Pattern: [40, 61] count: 7
+Pattern: [5, 17] count: 6
+Pattern: [33, 46] count: 6
+Pattern: [35, 60] count: 6
+Pattern: [49, 53] count: 6
+Pattern: [49, 58] count: 6
+Pattern: [54, 57] count: 6
+Pattern: [6, 27] count: 5
+Pattern: [7, 19] count: 5
+Pattern: [11, 42] count: 5
+Pattern: [12, 64] count: 5
+Pattern: [24, 32] count: 5
+Final codetable size: 63
+Final Compression size: 30398.0
+Compression ratio: 38.11948234349919%
+Pattern from sa:21
+Elapsed time: 0.165 seconds
+Memory usage: 20.171607971191406 MB
+
+SA working: 29
+
+Iterations: 13
+
+Processing file: wine.txt, Run: 2
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [6, 12, 32, 40] count: 2
+Pattern: [1, 7, 21, 30, 38, 46] count: 1
+Pattern: [6, 30, 39, 57, 67] count: 1
+Pattern: [7, 32, 40, 54, 67] count: 3
+Pattern: [1, 24, 40] count: 12
+Pattern: [6, 24, 35, 45, 66] count: 2
+Pattern: [1, 7, 16] count: 11
+Pattern: [5, 7, 43, 57, 65] count: 1
+Pattern: [5, 10, 15, 23, 31] count: 1
+Pattern: [10, 21, 36, 46, 52, 65] count: 1
+Pattern: [11, 41, 49, 65] count: 1
+Pattern: [30, 35, 40, 45, 55] count: 2
+Pattern: [3, 10, 16, 30] count: 1
+Pattern: [30, 35, 46] count: 11
+Pattern: [1, 6, 27, 31, 56] count: 3
+Pattern: [1, 13, 20, 23, 31, 40, 41] count: 1
+Pattern: [10, 30, 35, 45, 60] count: 2
+Pattern: [1, 31, 40] count: 13
+Pattern: [11, 30, 45, 57] count: 4
+Pattern: [6, 11, 26] count: 3
+Pattern: [5, 16, 24, 36] count: 24
+Pattern: [46, 67] count: 57
+Pattern: [65, 66] count: 54
+Pattern: [11, 21] count: 49
+Pattern: [51, 68] count: 43
+Pattern: [7, 30] count: 39
+Pattern: [1, 32] count: 37
+Pattern: [26, 56] count: 34
+Pattern: [16, 36] count: 28
+Pattern: [11, 24] count: 25
+Pattern: [41, 61] count: 21
+Pattern: [8, 31] count: 19
+Pattern: [35, 45] count: 19
+Pattern: [42, 61] count: 19
+Pattern: [54, 60] count: 16
+Pattern: [5, 40] count: 13
+Pattern: [6, 27] count: 13
+Pattern: [18, 36] count: 12
+Pattern: [26, 57] count: 12
+Pattern: [54, 58] count: 12
+Pattern: [10, 31] count: 10
+Pattern: [50, 65] count: 10
+Pattern: [5, 49] count: 9
+Pattern: [11, 32] count: 9
+Pattern: [41, 64] count: 9
+Pattern: [42, 46] count: 9
+Pattern: [54, 59] count: 9
+Pattern: [55, 59] count: 9
+Pattern: [8, 30] count: 8
+Pattern: [11, 49] count: 8
+Pattern: [13, 24] count: 8
+Pattern: [18, 40] count: 8
+Pattern: [32, 36] count: 8
+Pattern: [43, 61] count: 8
+Pattern: [45, 61] count: 8
+Pattern: [50, 56] count: 8
+Pattern: [55, 57] count: 8
+Pattern: [6, 30] count: 7
+Pattern: [7, 27] count: 7
+Pattern: [16, 37] count: 7
+Pattern: [17, 36] count: 7
+Pattern: [42, 64] count: 7
+Pattern: [53, 59] count: 7
+Final codetable size: 63
+Final Compression size: 29986.0
+Compression ratio: 37.6028290529695%
+Pattern from sa:21
+Elapsed time: 0.043 seconds
+Memory usage: 30.251625061035156 MB
+
+SA working: 63
+
+Iterations: 13
+
+Processing file: wine.txt, Run: 3
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [26, 37, 41] count: 3
+Pattern: [11, 17, 30, 45] count: 1
+Pattern: [1, 16, 36, 54] count: 11
+Pattern: [8, 24, 32, 42] count: 3
+Pattern: [6, 11, 16, 21, 67] count: 9
+Pattern: [27, 32, 41, 46] count: 4
+Pattern: [5, 7, 40, 50, 64] count: 2
+Pattern: [21, 30, 45] count: 10
+Pattern: [1, 11, 31, 56] count: 14
+Pattern: [1, 7, 18, 40, 54] count: 2
+Pattern: [18, 32, 40] count: 8
+Pattern: [5, 16, 30, 35, 65] count: 27
+Pattern: [11, 26, 39, 41, 63] count: 1
+Pattern: [7, 24, 42, 46] count: 7
+Pattern: [5, 7, 30, 49, 66] count: 17
+Pattern: [24, 36, 41] count: 6
+Pattern: [1, 36, 50, 56] count: 2
+Pattern: [7, 18, 25, 26, 31, 36, 53, 64] count: 1
+Pattern: [1, 10, 18, 42, 51] count: 2
+Pattern: [11, 26, 61, 68] count: 8
+Pattern: [5, 6, 18, 30, 55, 65, 66] count: 1
+Pattern: [46, 67] count: 56
+Pattern: [11, 36] count: 40
+Pattern: [1, 61] count: 39
+Pattern: [51, 68] count: 39
+Pattern: [7, 66] count: 36
+Pattern: [31, 56] count: 27
+Pattern: [24, 45] count: 26
+Pattern: [11, 21] count: 24
+Pattern: [16, 65] count: 24
+Pattern: [26, 40] count: 24
+Pattern: [27, 32] count: 22
+Pattern: [8, 41] count: 17
+Pattern: [30, 32] count: 15
+Pattern: [24, 42] count: 14
+Pattern: [54, 60] count: 13
+Pattern: [13, 36] count: 12
+Pattern: [30, 35] count: 12
+Pattern: [10, 50] count: 11
+Pattern: [30, 33] count: 11
+Pattern: [55, 57] count: 11
+Pattern: [6, 64] count: 10
+Pattern: [21, 42] count: 10
+Pattern: [24, 43] count: 10
+Pattern: [54, 58] count: 10
+Pattern: [5, 17] count: 9
+Pattern: [5, 19] count: 9
+Pattern: [18, 65] count: 9
+Pattern: [55, 59] count: 9
+Pattern: [54, 57] count: 8
+Pattern: [54, 59] count: 8
+Pattern: [24, 40] count: 7
+Pattern: [52, 60] count: 7
+Pattern: [53, 59] count: 7
+Pattern: [55, 58] count: 7
+Pattern: [7, 43] count: 6
+Pattern: [8, 50] count: 6
+Pattern: [10, 51] count: 6
+Pattern: [11, 16] count: 6
+Pattern: [21, 41] count: 6
+Pattern: [24, 44] count: 6
+Pattern: [1, 13] count: 5
+Pattern: [3, 66] count: 5
+Final codetable size: 63
+Final Compression size: 29473.0
+Compression ratio: 36.95952046548957%
+Pattern from sa:21
+Elapsed time: 0.028 seconds
+Memory usage: 40.33173370361328 MB
+
+SA working: 33
+
+Iterations: 31
+
+Processing file: wine.txt, Run: 4
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [5, 32, 36] count: 8
+Pattern: [5, 11, 18, 31, 49] count: 1
+Pattern: [13, 31, 56] count: 4
+Pattern: [5, 24, 30, 39, 46, 66] count: 1
+Pattern: [7, 12, 24, 30, 44, 55, 58, 65] count: 1
+Pattern: [11, 45, 61, 67] count: 9
+Pattern: [1, 11, 18, 24] count: 4
+Pattern: [10, 11, 17, 42, 50, 51, 56] count: 2
+Pattern: [1, 11, 32] count: 39
+Pattern: [2, 18, 24, 32, 50] count: 1
+Pattern: [11, 36, 46] count: 33
+Pattern: [8, 26, 41, 49] count: 5
+Pattern: [7, 46, 55, 67] count: 7
+Pattern: [16, 31, 36, 41, 50] count: 1
+Pattern: [7, 11, 18] count: 10
+Pattern: [5, 14, 24, 30, 35, 55, 66] count: 2
+Pattern: [6, 35, 45, 64, 67] count: 2
+Pattern: [1, 6, 21, 49] count: 1
+Pattern: [27, 57, 65] count: 1
+Pattern: [11, 18, 31, 50] count: 5
+Pattern: [6, 12, 19, 55, 57, 64] count: 1
+Pattern: [65, 66] count: 54
+Pattern: [16, 30] count: 52
+Pattern: [46, 67] count: 48
+Pattern: [51, 68] count: 41
+Pattern: [7, 54] count: 35
+Pattern: [24, 36] count: 35
+Pattern: [5, 35] count: 31
+Pattern: [21, 61] count: 31
+Pattern: [26, 40] count: 29
+Pattern: [31, 56] count: 27
+Pattern: [1, 32] count: 19
+Pattern: [11, 45] count: 19
+Pattern: [8, 41] count: 17
+Pattern: [27, 42] count: 16
+Pattern: [6, 16] count: 15
+Pattern: [24, 42] count: 13
+Pattern: [24, 40] count: 12
+Pattern: [1, 30] count: 11
+Pattern: [7, 53] count: 11
+Pattern: [10, 41] count: 10
+Pattern: [18, 57] count: 10
+Pattern: [1, 11] count: 9
+Pattern: [21, 36] count: 9
+Pattern: [5, 50] count: 8
+Pattern: [7, 55] count: 8
+Pattern: [47, 60] count: 8
+Pattern: [49, 60] count: 8
+Pattern: [6, 54] count: 7
+Pattern: [7, 52] count: 7
+Pattern: [21, 64] count: 7
+Pattern: [26, 56] count: 7
+Pattern: [27, 41] count: 7
+Pattern: [36, 65] count: 7
+Pattern: [46, 60] count: 7
+Pattern: [55, 57] count: 7
+Pattern: [5, 17] count: 6
+Pattern: [12, 18] count: 6
+Pattern: [13, 43] count: 6
+Pattern: [13, 45] count: 6
+Pattern: [21, 46] count: 6
+Pattern: [33, 59] count: 6
+Pattern: [49, 58] count: 6
+Final codetable size: 63
+Final Compression size: 30014.0
+Compression ratio: 37.637941412520064%
+Pattern from sa:21
+Elapsed time: 0.023 seconds
+Memory usage: 47.89952087402344 MB
+
+SA working: 33
+
+Iterations: 23
+
+Processing file: wine.txt, Run: 5
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [15, 46, 67] count: 3
+Pattern: [6, 24, 27, 31, 41, 46, 64] count: 1
+Pattern: [10, 11, 30] count: 6
+Pattern: [3, 15, 18, 44, 58, 65] count: 1
+Pattern: [4, 7, 16, 29, 32, 42, 57, 66] count: 1
+Pattern: [5, 10, 22, 50] count: 1
+Pattern: [1, 16, 32, 44, 46] count: 1
+Pattern: [9, 17, 24, 30, 36] count: 1
+Pattern: [5, 11, 26, 31] count: 6
+Pattern: [21, 41, 52] count: 2
+Pattern: [2, 11, 24] count: 2
+Pattern: [7, 16, 36, 53, 66] count: 2
+Pattern: [16, 21, 31] count: 2
+Pattern: [11, 36, 51] count: 10
+Pattern: [11, 36, 45] count: 23
+Pattern: [20, 30, 40, 49] count: 1
+Pattern: [16, 30, 35, 55, 59, 65] count: 2
+Pattern: [13, 16, 24, 46] count: 3
+Pattern: [6, 32, 56, 68] count: 1
+Pattern: [18, 24, 26, 50, 56] count: 2
+Pattern: [11, 34, 36, 42] count: 1
+Pattern: [1, 46] count: 64
+Pattern: [30, 65] count: 52
+Pattern: [32, 67] count: 48
+Pattern: [5, 66] count: 43
+Pattern: [56, 68] count: 42
+Pattern: [16, 24] count: 40
+Pattern: [11, 21] count: 37
+Pattern: [7, 54] count: 35
+Pattern: [26, 31] count: 28
+Pattern: [40, 51] count: 28
+Pattern: [8, 41] count: 21
+Pattern: [35, 36] count: 21
+Pattern: [36, 42] count: 20
+Pattern: [18, 61] count: 19
+Pattern: [6, 27] count: 15
+Pattern: [7, 55] count: 14
+Pattern: [16, 61] count: 14
+Pattern: [40, 57] count: 12
+Pattern: [24, 42] count: 11
+Pattern: [5, 19] count: 10
+Pattern: [10, 50] count: 10
+Pattern: [11, 65] count: 10
+Pattern: [30, 67] count: 10
+Pattern: [35, 49] count: 10
+Pattern: [7, 53] count: 9
+Pattern: [1, 61] count: 8
+Pattern: [7, 52] count: 8
+Pattern: [45, 59] count: 8
+Pattern: [45, 60] count: 8
+Pattern: [1, 64] count: 7
+Pattern: [6, 54] count: 7
+Pattern: [12, 21] count: 7
+Pattern: [24, 49] count: 7
+Pattern: [33, 46] count: 7
+Pattern: [47, 60] count: 7
+Pattern: [55, 57] count: 7
+Pattern: [8, 50] count: 6
+Pattern: [13, 43] count: 6
+Pattern: [27, 61] count: 6
+Pattern: [38, 51] count: 6
+Pattern: [45, 58] count: 6
+Pattern: [3, 66] count: 5
+Final codetable size: 63
+Final Compression size: 31064.0
+Compression ratio: 38.95465489566613%
+Pattern from sa:21
+Elapsed time: 0.018 seconds
+Memory usage: 55.459632873535156 MB
+
+SA working: 40
+
+Iterations: 11
+
+Processing file: wine.txt, Run: 6
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [6, 11, 17] count: 2
+Pattern: [7, 13, 30, 46] count: 4
+Pattern: [30, 35, 53] count: 7
+Pattern: [6, 11, 30] count: 8
+Pattern: [10, 11, 16, 43, 46] count: 1
+Pattern: [6, 32, 54] count: 8
+Pattern: [11, 16, 26, 32] count: 7
+Pattern: [1, 6, 32, 57, 67] count: 7
+Pattern: [7, 15, 18, 25, 26, 31] count: 1
+Pattern: [11, 19, 24, 36] count: 1
+Pattern: [10, 41, 50] count: 6
+Pattern: [11, 33, 45] count: 4
+Pattern: [1, 7, 45, 58] count: 2
+Pattern: [5, 59, 65] count: 9
+Pattern: [26, 31, 41, 56, 68] count: 18
+Pattern: [7, 11, 40, 55] count: 3
+Pattern: [5, 7, 21, 30, 34, 36] count: 1
+Pattern: [4, 11, 17, 21, 65] count: 1
+Pattern: [30, 35, 45] count: 29
+Pattern: [8, 13, 24] count: 6
+Pattern: [4, 24, 32, 41, 46, 54, 65] count: 1
+Pattern: [1, 46] count: 66
+Pattern: [16, 36] count: 58
+Pattern: [65, 66] count: 49
+Pattern: [61, 67] count: 43
+Pattern: [7, 24] count: 39
+Pattern: [11, 21] count: 39
+Pattern: [51, 68] count: 29
+Pattern: [31, 56] count: 25
+Pattern: [32, 42] count: 24
+Pattern: [5, 60] count: 20
+Pattern: [11, 54] count: 19
+Pattern: [18, 40] count: 19
+Pattern: [8, 24] count: 14
+Pattern: [40, 50] count: 13
+Pattern: [27, 67] count: 12
+Pattern: [5, 49] count: 11
+Pattern: [7, 57] count: 11
+Pattern: [18, 36] count: 11
+Pattern: [26, 42] count: 11
+Pattern: [30, 35] count: 11
+Pattern: [5, 19] count: 10
+Pattern: [8, 51] count: 10
+Pattern: [11, 65] count: 10
+Pattern: [32, 45] count: 10
+Pattern: [40, 41] count: 9
+Pattern: [43, 54] count: 9
+Pattern: [6, 24] count: 8
+Pattern: [10, 51] count: 8
+Pattern: [30, 33] count: 8
+Pattern: [46, 55] count: 8
+Pattern: [1, 61] count: 7
+Pattern: [11, 49] count: 7
+Pattern: [12, 21] count: 7
+Pattern: [16, 37] count: 7
+Pattern: [5, 58] count: 6
+Pattern: [10, 24] count: 6
+Pattern: [17, 36] count: 6
+Pattern: [21, 59] count: 6
+Pattern: [26, 56] count: 6
+Pattern: [27, 42] count: 6
+Pattern: [27, 53] count: 6
+Pattern: [32, 41] count: 6
+Final codetable size: 63
+Final Compression size: 28995.0
+Compression ratio: 36.360102327447834%
+Pattern from sa:21
+Elapsed time: 0.017 seconds
+Memory usage: 63.0 MB
+
+SA working: 26
+
+Iterations: 31
+
+Processing file: wine.txt, Run: 7
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [5, 6, 36, 54, 66] count: 2
+Pattern: [6, 11, 21, 36, 54] count: 5
+Pattern: [5, 26, 42, 50, 51, 56] count: 5
+Pattern: [5, 8, 11, 16, 30, 35] count: 1
+Pattern: [16, 21, 54, 65] count: 3
+Pattern: [6, 41, 46] count: 8
+Pattern: [30, 45, 46] count: 15
+Pattern: [16, 24, 50] count: 9
+Pattern: [4, 7, 32, 54, 57, 65] count: 1
+Pattern: [30, 42, 46] count: 12
+Pattern: [1, 11, 30, 35] count: 7
+Pattern: [6, 24, 40, 41, 53, 67] count: 1
+Pattern: [7, 36, 46, 60] count: 7
+Pattern: [26, 32, 46, 61] count: 11
+Pattern: [11, 16, 32, 42, 46, 61] count: 4
+Pattern: [6, 42, 46, 53] count: 1
+Pattern: [20, 23, 31, 41] count: 1
+Pattern: [11, 16, 26, 31, 40, 41, 50] count: 1
+Pattern: [8, 50, 56, 68] count: 13
+Pattern: [1, 10, 21] count: 7
+Pattern: [16, 24, 27, 55, 57] count: 1
+Pattern: [1, 67] count: 59
+Pattern: [65, 66] count: 53
+Pattern: [11, 16] count: 47
+Pattern: [5, 30] count: 40
+Pattern: [7, 36] count: 40
+Pattern: [31, 68] count: 33
+Pattern: [51, 56] count: 29
+Pattern: [11, 18] count: 26
+Pattern: [32, 61] count: 26
+Pattern: [24, 54] count: 25
+Pattern: [21, 40] count: 23
+Pattern: [26, 41] count: 23
+Pattern: [35, 45] count: 21
+Pattern: [27, 46] count: 19
+Pattern: [24, 36] count: 16
+Pattern: [24, 40] count: 16
+Pattern: [11, 17] count: 14
+Pattern: [7, 57] count: 12
+Pattern: [13, 16] count: 12
+Pattern: [32, 42] count: 11
+Pattern: [6, 55] count: 10
+Pattern: [21, 59] count: 10
+Pattern: [1, 8] count: 9
+Pattern: [7, 37] count: 8
+Pattern: [12, 18] count: 8
+Pattern: [26, 42] count: 8
+Pattern: [35, 60] count: 8
+Pattern: [5, 10] count: 7
+Pattern: [21, 57] count: 7
+Pattern: [24, 49] count: 7
+Pattern: [27, 64] count: 7
+Pattern: [36, 46] count: 7
+Pattern: [11, 19] count: 6
+Pattern: [31, 51] count: 6
+Pattern: [47, 60] count: 6
+Pattern: [49, 58] count: 6
+Pattern: [55, 58] count: 6
+Pattern: [61, 67] count: 6
+Pattern: [13, 19] count: 5
+Pattern: [30, 59] count: 5
+Pattern: [32, 65] count: 5
+Pattern: [46, 57] count: 5
+Final codetable size: 63
+Final Compression size: 28993.0
+Compression ratio: 36.35759430176565%
+Pattern from sa:21
+Elapsed time: 0.013 seconds
+Memory usage: 9.565696716308594 MB
+
+SA working: 41
+
+Iterations: 24
+
+Processing file: wine.txt, Run: 8
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [6, 11, 16, 21, 30] count: 5
+Pattern: [11, 23, 58, 65] count: 2
+Pattern: [35, 45, 46, 61] count: 2
+Pattern: [1, 45, 51] count: 4
+Pattern: [16, 26, 32, 40, 41, 53] count: 1
+Pattern: [11, 35, 36, 49] count: 8
+Pattern: [7, 11, 18, 54, 60] count: 2
+Pattern: [10, 11, 30] count: 6
+Pattern: [4, 24, 30, 40, 46, 54, 56] count: 1
+Pattern: [21, 45, 57, 67] count: 2
+Pattern: [1, 8, 17, 26, 32, 41] count: 2
+Pattern: [5, 6, 18, 35, 55] count: 1
+Pattern: [11, 16, 65] count: 38
+Pattern: [16, 24, 30, 53, 65] count: 4
+Pattern: [7, 30, 43, 55] count: 1
+Pattern: [27, 46, 52, 61] count: 2
+Pattern: [18, 30, 59] count: 5
+Pattern: [1, 21, 32, 57, 67] count: 16
+Pattern: [1, 7, 16] count: 11
+Pattern: [1, 20, 40] count: 4
+Pattern: [1, 10, 40, 51] count: 5
+Pattern: [46, 67] count: 50
+Pattern: [30, 66] count: 46
+Pattern: [56, 68] count: 44
+Pattern: [24, 36] count: 40
+Pattern: [5, 7] count: 38
+Pattern: [11, 61] count: 36
+Pattern: [26, 31] count: 33
+Pattern: [1, 32] count: 28
+Pattern: [50, 51] count: 26
+Pattern: [16, 65] count: 23
+Pattern: [45, 54] count: 20
+Pattern: [8, 41] count: 19
+Pattern: [42, 46] count: 18
+Pattern: [24, 40] count: 17
+Pattern: [6, 27] count: 16
+Pattern: [18, 21] count: 16
+Pattern: [35, 60] count: 13
+Pattern: [11, 64] count: 11
+Pattern: [43, 54] count: 11
+Pattern: [21, 36] count: 10
+Pattern: [45, 55] count: 10
+Pattern: [1, 51] count: 9
+Pattern: [5, 10] count: 9
+Pattern: [21, 40] count: 9
+Pattern: [24, 37] count: 9
+Pattern: [7, 40] count: 8
+Pattern: [8, 42] count: 8
+Pattern: [11, 65] count: 8
+Pattern: [32, 36] count: 8
+Pattern: [35, 58] count: 8
+Pattern: [35, 59] count: 8
+Pattern: [1, 7] count: 7
+Pattern: [13, 49] count: 7
+Pattern: [16, 41] count: 6
+Pattern: [19, 61] count: 6
+Pattern: [27, 42] count: 6
+Pattern: [45, 52] count: 6
+Pattern: [55, 57] count: 6
+Pattern: [1, 57] count: 5
+Pattern: [5, 66] count: 5
+Pattern: [11, 62] count: 5
+Pattern: [12, 64] count: 5
+Final codetable size: 63
+Final Compression size: 30373.0
+Compression ratio: 38.08813202247191%
+Pattern from sa:21
+Elapsed time: 0.019 seconds
+Memory usage: 16.747291564941406 MB
+
+SA working: 38
+
+Iterations: 26
+
+Processing file: wine.txt, Run: 9
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [5, 30, 42, 52, 65, 66] count: 2
+Pattern: [11, 31, 42, 46, 56] count: 2
+Pattern: [1, 11, 16, 24, 26, 38, 64] count: 1
+Pattern: [6, 11, 21, 30] count: 5
+Pattern: [1, 18, 24, 27] count: 1
+Pattern: [8, 12, 30, 67] count: 1
+Pattern: [17, 31, 42, 50, 56] count: 4
+Pattern: [1, 7, 15, 46] count: 3
+Pattern: [7, 16, 30, 32] count: 7
+Pattern: [16, 30, 58, 65, 66] count: 11
+Pattern: [5, 16, 24, 30, 36] count: 23
+Pattern: [16, 35, 46, 54, 64] count: 1
+Pattern: [8, 11, 23] count: 2
+Pattern: [17, 30, 35, 45] count: 2
+Pattern: [6, 18, 35, 36, 49] count: 1
+Pattern: [11, 16, 31, 65, 68] count: 2
+Pattern: [1, 6, 11, 21, 31, 51] count: 1
+Pattern: [8, 30, 36, 49, 65, 66] count: 1
+Pattern: [7, 32, 42] count: 15
+Pattern: [30, 41, 46] count: 3
+Pattern: [24, 30, 38, 44, 66] count: 1
+Pattern: [1, 46] count: 63
+Pattern: [11, 21] count: 47
+Pattern: [61, 67] count: 44
+Pattern: [65, 66] count: 43
+Pattern: [51, 68] count: 40
+Pattern: [7, 35] count: 32
+Pattern: [26, 40] count: 31
+Pattern: [31, 56] count: 31
+Pattern: [24, 36] count: 30
+Pattern: [16, 32] count: 24
+Pattern: [11, 54] count: 23
+Pattern: [8, 41] count: 20
+Pattern: [30, 45] count: 18
+Pattern: [6, 27] count: 15
+Pattern: [18, 32] count: 14
+Pattern: [5, 49] count: 13
+Pattern: [5, 50] count: 13
+Pattern: [36, 67] count: 12
+Pattern: [55, 57] count: 12
+Pattern: [5, 46] count: 11
+Pattern: [10, 41] count: 11
+Pattern: [11, 24] count: 11
+Pattern: [45, 60] count: 10
+Pattern: [1, 50] count: 9
+Pattern: [7, 54] count: 9
+Pattern: [27, 40] count: 9
+Pattern: [55, 59] count: 9
+Pattern: [12, 21] count: 7
+Pattern: [13, 24] count: 7
+Pattern: [19, 42] count: 7
+Pattern: [26, 61] count: 7
+Pattern: [36, 60] count: 7
+Pattern: [53, 59] count: 7
+Pattern: [5, 47] count: 6
+Pattern: [16, 33] count: 6
+Pattern: [17, 30] count: 6
+Pattern: [18, 64] count: 6
+Pattern: [18, 65] count: 6
+Pattern: [42, 57] count: 6
+Pattern: [1, 49] count: 5
+Pattern: [10, 51] count: 5
+Pattern: [16, 55] count: 5
+Final codetable size: 63
+Final Compression size: 29976.0
+Compression ratio: 37.590288924558585%
+Pattern from sa:21
+Elapsed time: 0.017 seconds
+Memory usage: 23.930030822753906 MB
+
+SA working: 35
+
+Iterations: 23
+
+Processing file: wine.txt, Run: 10
+Initial compression size: 79744.0
+Final codetable: 
+Pattern: [6, 16, 32, 46, 54, 67] count: 3
+Pattern: [10, 15, 24, 31, 36, 51, 64] count: 1
+Pattern: [1, 11, 21, 36, 45, 66] count: 1
+Pattern: [12, 21, 39, 54] count: 1
+Pattern: [1, 7, 11, 30, 32, 36] count: 2
+Pattern: [11, 24, 32, 36, 46, 54, 59] count: 1
+Pattern: [7, 21, 40, 67] count: 8
+Pattern: [10, 31, 36, 50, 65] count: 1
+Pattern: [18, 47, 51] count: 1
+Pattern: [5, 30, 36, 53, 66] count: 4
+Pattern: [1, 6, 11, 28, 32, 45, 52] count: 1
+Pattern: [10, 12, 18, 21, 26, 41, 56] count: 2
+Pattern: [21, 46, 59, 61] count: 7
+Pattern: [1, 6, 16, 25, 27, 45, 67] count: 2
+Pattern: [10, 16, 21, 42, 46, 65, 66] count: 1
+Pattern: [6, 24, 31, 46] count: 1
+Pattern: [3, 7, 30, 35, 43, 54] count: 1
+Pattern: [5, 30, 31, 40, 45, 50, 51, 56, 64] count: 1
+Pattern: [5, 24, 43] count: 6
+Pattern: [1, 11, 40] count: 19
+Pattern: [8, 16, 26, 31] count: 4
+Pattern: [1, 46] count: 52
+Pattern: [11, 36] count: 52
+Pattern: [65, 66] count: 52
+Pattern: [16, 30] count: 47
+Pattern: [56, 68] count: 41
+Pattern: [32, 67] count: 35
+Pattern: [7, 24] count: 32
+Pattern: [26, 51] count: 29
+Pattern: [35, 45] count: 28
+Pattern: [21, 61] count: 24
+Pattern: [31, 40] count: 23
+Pattern: [5, 54] count: 19
+Pattern: [8, 24] count: 19
+Pattern: [18, 42] count: 17
+Pattern: [5, 50] count: 15
+Pattern: [11, 41] count: 14
+Pattern: [6, 27] count: 13
+Pattern: [13, 36] count: 12
+Pattern: [30, 67] count: 12
+Pattern: [32, 61] count: 12
+Pattern: [55, 57] count: 12
+Pattern: [7, 60] count: 10
+Pattern: [16, 42] count: 10
+Pattern: [5, 49] count: 9
+Pattern: [11, 37] count: 9
+Pattern: [54, 57] count: 9
+Pattern: [1, 41] count: 8
+Pattern: [10, 24] count: 8
+Pattern: [16, 41] count: 8
+Pattern: [19, 42] count: 8
+Pattern: [21, 64] count: 8
+Pattern: [6, 24] count: 7
+Pattern: [12, 36] count: 7
+Pattern: [33, 46] count: 7
+Pattern: [35, 44] count: 7
+Pattern: [47, 60] count: 7
+Pattern: [50, 51] count: 7
+Pattern: [55, 58] count: 7
+Pattern: [55, 59] count: 7
+Pattern: [7, 21] count: 6
+Pattern: [8, 17] count: 6
+Pattern: [11, 65] count: 6
+Final codetable size: 63
+Final Compression size: 31640.0
+Compression ratio: 39.67696629213483%
+Pattern from sa:21
+Elapsed time: 0.015 seconds
+Memory usage: 32.30809783935547 MB
+
+SA working: 50
+
+Iterations: 20
+

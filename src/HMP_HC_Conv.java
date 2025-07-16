@@ -47,7 +47,7 @@ public class HMP_HC_Conv {
 
 
     public static void main(String[] args) {
-        // 输入文件路径
+        // Path for input file
         String inputFile = "Datasets/pageblocks.txt";
 
         // 提取文件名（去掉路径和扩展名）

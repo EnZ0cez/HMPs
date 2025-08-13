@@ -4,7 +4,7 @@ import ca.pfv.spmf.datastructures.collections.map.MapIntToInt;
 import java.io.*;
 import java.util.*;
 
-public class HMP_HC_Runner_Classfication {
+public class HMP_HC_Runner_Classification {
 
     // Constants for the simulated annealing algorithm
     static final int MAX_ITERATIONS = 40;
@@ -657,7 +657,7 @@ public class HMP_HC_Runner_Classfication {
      *         exist in the list.
      */
     public static int itemToIndex(int item) {
-        // TODO: Could be implemented more efficiently using a HashMap that would be
+        // Note: Could be optimized with HashMap for O(1) lookup if
         // initialized once
         // rather than doing a sequential search
         for (int i = 0; i < allItems.length; i++) {
@@ -788,7 +788,7 @@ public class HMP_HC_Runner_Classfication {
     }
 
     public static boolean containsAll(int[] list, List<Integer> pattern) {
-        // TODO: NOT EFFICIENT. IF THE ITEMSETS ARE SORTED, IT WOULD BE MUCH FASTER!
+        // Note: Could be optimized using sorted itemsets for faster processing
         // **********************************************************************
 
         // For each element in the list, check if it exists in the array
@@ -809,7 +809,7 @@ public class HMP_HC_Runner_Classfication {
     }
 
     public static boolean containsAll(int[] list, int listLength, int[] pattern) {
-        // TODO: NOT EFFICIENT. IF THE ITEMSETS ARE SORTED, IT WOULD BE MUCH FASTER!
+        // Note: Could be optimized using sorted itemsets for faster processing
         // **********************************************************************
 
         // For each element in the list, check if it exists in the array
@@ -831,7 +831,7 @@ public class HMP_HC_Runner_Classfication {
     }
 
     public static boolean containsAll(int[] list, ArrayList<Integer> pattern) {
-        // TODO: NOT EFFICIENT. IF THE ITEMSETS ARE SORTED, IT WOULD BE MUCH FASTER!
+        // Note: Could be optimized using sorted itemsets for faster processing
         // **********************************************************************
 
         // For each element in the list, check if it exists in the array

@@ -4,43 +4,61 @@ import ca.pfv.spmf.datastructures.collections.map.MapIntToInt;
 import java.io.*;
 import java.util.*;
 
+/**
+ * HMP_HC_Runner implements a Hill Climbing-based Heuristic Mining Pattern algorithm
+ * for data compression optimization. The algorithm discovers frequent patterns
+ * that best compress transactional databases using local search optimization.
+ */
 public class HMP_HC_Runner {
 
-    // Constants for the simulated annealing algorithm
+    // region Static Configuration
+    /** Maximum iterations per pattern optimization in hill climbing */
     static final int MAX_ITERATIONS = 31;
 
-    // Define threshold, a pattern must improve more than threshold
+    /** Minimum compression improvement ratio for pattern acceptance */
     static final double IMPROVEMENT_THRESHOLD = 0.001;
+    // endregion
 
-    // Codetable to store accepted patterns
+    // region Global Data Structures
+    /** Code table storing accepted compression patterns */
     static ArrayList<int[]> codetable = new ArrayList<>();
 
-    // All items in the database
+    /** Sorted array of all unique items in the database */
     static int[] allItems = null;
 
-    // The frequency of each item
-    static MapIntToInt itemFrequency ;
-    // The maximum length of the generated pattern
+    /** Frequency map for individual items */
+    static MapIntToInt itemFrequency;
+    /** Length of the longest transaction in the database */
     static int longestItemSet = 0;
-    // Total weight to select item
+    /** Total weight for weighted random selection */
     static int totalWeight = 0;
 
-    // Store weight of items
+    /** Cumulative weights for item selection */
     static List<Map.Entry<Integer, Integer>> cumulativeWeights = null;
 
-    // Count the occurrence of the itemset
+    /** Frequency map for stored patterns */
     static Map<int[], Integer> itemsetCount = new HashMap<>();
 
-    // Matrix for size 2 patterns
+    /** Triangular matrix for pairwise item co-occurrences */
     static SparseTriangularMatrix matrix = null;
 
-    /** buffer **/
+    /** Reusable buffer for transaction processing */
     static int[] BUFFER = new int[500];
 
+    /** Random number generator */
     static Random random = new Random(System.currentTimeMillis());
 
+    /** Maximum allowed size for the code table */
     static int max_code_table_size = 1201;
+    // endregion
 
+    /**
+     * Main method to execute the Hill Climbing pattern mining algorithm.
+     * Processes a specified dataset and outputs compression results.
+     * 
+     * @param args Command line arguments (not used)
+     * @throws IOException If file operations fail
+     */
     public static void main(String[] args) throws IOException {
         // Specify the single file to process
         String filePath = "Datasets/adult.txt"; // Replace with different actual file path
@@ -57,7 +75,7 @@ public class HMP_HC_Runner {
             String baseName = (dotIndex == -1) ? fileName : fileName.substring(0, dotIndex); // e.g., "yourfile"
 
             // Construct the output file name by appending the base name
-            String outputFile = "result_HCMP_" + baseName  + ".txt"; // e.g., "result_SA_Com_yourfile.txt"
+            String outputFile = "result_HCMP_" + baseName  + ".txt"; // e.g., "result_HC_yourfile.txt"
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFile))) {
 
                 for (int run = 1; run <= 10; run++) { // Execute 10 times for the specified file
@@ -69,7 +87,7 @@ public class HMP_HC_Runner {
                     List<int[]> database = readItemsetsFromFile(file.getPath());
                     initializeDatabase(database);
 
-                    // Perform the main algorithm logic (this is the existing code logic)
+                    // Initialize compression calculations and performance monitoring
                     double initialCompressionSize = calculateSizeInBits(database);
                     double currentCompressionSize = initialCompressionSize;
                     double improveCompressionSize = initialCompressionSize;
@@ -77,10 +95,10 @@ public class HMP_HC_Runner {
                     writer.write("Initial compression size: " + initialCompressionSize + "\n");
 
                     int iterations = 0;
-                    // Record start time
+                    // Record start time for performance measurement
                     long startTime = System.currentTimeMillis();
 
-                    // Record memory usage
+                    // Initialize memory usage monitoring
                     MemoryLogger logger = MemoryLogger.getInstance();
                     logger.reset(); // Reset memory logger before each execution
 
@@ -89,14 +107,17 @@ public class HMP_HC_Runner {
                     List<int[]> modifiedDatabase = copyDatabase(database);
                     int codeTableTryCount = 0;
 
+                    // Main Hill Climbing loop - continue until code table reaches size limit
                     while (codetable.size() < max_code_table_size / 3) {
 
-                        // Generate a random pattern
+                        // Generate a random pattern as starting point for hill climbing
                         int[] pattern = generateRandomItemset(longestItemSet,itemFrequency, codetable);
                         iterations = 0;
                         int iterationTryCount = 0;
+                        
+                        // Hill climbing iterations for current pattern
                         while (iterations < MAX_ITERATIONS) {
-                            // Try to add a pattern to the codetable
+                            // Create temporary code table to test pattern addition
                             ArrayList<int[]> temp_ct = new ArrayList<>(codetable);
                             // Generate neighbor pattern according to FLIP_NUM
                             int[] newPattern = generateTwoFlipNeighborPattern(pattern);
@@ -266,10 +287,15 @@ public class HMP_HC_Runner {
      * @param database Transactional database
      * @return Total size in bits (32 bits per integer)
      */
+    /**
+     * Calculates the uncompressed size in bits of a transactional database.
+     * This method provides the baseline compression size before pattern application.
+     * 
+     * @param database The list of transactions to evaluate
+     * @return Total size in bits (each integer takes 32 bits)
+     */
     public static int calculateSizeInBits(List<int[]> database) {
-//		Map<int[], Integer> patternCount = new HashMap<>();
-
-        // Calculate the size in bits of the modified database
+        // Calculate the size in bits of the database
         int totalSizeInBits = 0;
 
         for (int[] transaction : database) {
@@ -421,6 +447,14 @@ public class HMP_HC_Runner {
      * @return a list of transactions, where each transaction is represented as a
      *         list of integers
      */
+    /**
+     * Reads a transactional database from a text file.
+     * Each line represents a transaction with space-separated integer items.
+     * Transactions are automatically sorted for consistent processing.
+     * 
+     * @param fileName Path to the input file containing the database
+     * @return List of integer arrays representing transactions
+     */
     public static List<int[]> readItemsetsFromFile(String fileName) {
         List<int[]> database = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(fileName))) {
@@ -433,7 +467,7 @@ public class HMP_HC_Runner {
                     transaction[i] = Integer.valueOf(items[i].trim());
                 }
 
-                // Sort the transaction
+                // Sort the transaction for consistent processing
                 Arrays.sort(transaction);
                 database.add(transaction);
             }
@@ -524,9 +558,13 @@ public class HMP_HC_Runner {
 
 
     /**
-     * Generates neighbor pattern by flipping two elements
+     * Generates a neighbor pattern using the two-flip operation for hill climbing.
+     * This method randomly selects two items and either adds them to the pattern
+     * (if not present) or removes them (if present), creating pattern diversity
+     * for the local search optimization.
+     * 
      * @param currentPattern Base pattern for modification
-     * @return New pattern with two elements added/removed
+     * @return New pattern with two items added/removed, or null if pattern becomes too small
      */
     public static int[] generateTwoFlipNeighborPattern(int[] currentPattern) {
 
@@ -534,15 +572,15 @@ public class HMP_HC_Runner {
         while (ok == false) {
             int length = currentPattern.length;
 
-            // COPY THE PATTERN
+            // Copy the current pattern to working buffer
             System.arraycopy(currentPattern, 0, BUFFERFLIP, 0, currentPattern.length);
 
-            // Choose two distinct indices to flip based on the frequency of each item
+            // Choose two distinct items to flip based on their frequency weights
             int flipItem1 = itemToIndex(getWeightedRandomItem());
             int flipItem2;
             do {
                 flipItem2 = itemToIndex(getWeightedRandomItem());
-            } while (flipItem1 == flipItem2); // Ensure the indices are different
+            } while (flipItem1 == flipItem2); // Ensure the items are different
 
             if (!containsElementUnsorted(BUFFERFLIP, length, flipItem1) && length < 10) {
                 BUFFERFLIP[length] = flipItem1;
@@ -664,9 +702,9 @@ public class HMP_HC_Runner {
      *         exist in the list.
      */
     public static int itemToIndex(int item) {
-        // TODO: Could be implemented more efficiently using a HashMap that would be
-        // initialized once
-        // rather than doing a sequential search
+        // Linear search through sorted items array
+        // Note: Could be optimized with binary search since allItems is sorted,
+        // or with a HashMap for O(1) lookup if frequent access is needed
         for (int i = 0; i < allItems.length; i++) {
             if (allItems[i] == item)
                 return i;

@@ -627,7 +627,7 @@ public class HMP_HC_Set_Compression {
      *         exist in the list.
      */
     public static int itemToIndex(int item) {
-        // TODO: Could be implemented more efficiently using a HashMap that would be
+        // Note: Could be optimized with HashMap for O(1) lookup if
         // initialized once
         // rather than doing a sequential search
         for (int i = 0; i < allItems.length; i++) {

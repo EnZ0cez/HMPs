@@ -129,7 +129,7 @@ Example output format:
 Processing file: adult.txt, Run: 1
 Initial compression size: 1234567.89
 Final compression size: 987654.32
-Compression improvement: 20.0%
+Compression ratio: 80.0%
 Memory usage: 456 MB
 Execution time: 12.34 seconds
 ```
